@@ -1,0 +1,44 @@
+
+<LATTICES>
+<LATTICE name="square lattice" dimension="2">
+  <PARAMETER name="a" default="1"/>
+  <BASIS><VECTOR>a 0</VECTOR><VECTOR>0 a</VECTOR></BASIS>
+  <RECIPROCALBASIS><VECTOR>2*pi/a 0</VECTOR><VECTOR>0 2*pi/a</VECTOR></RECIPROCALBASIS>
+</LATTICE>
+
+<UNITCELL name="simple2d" dimension="2">
+  <VERTEX/>
+  <EDGE><SOURCE vertex="1" offset="0 0"/><TARGET vertex="1" offset="0 1"/></EDGE>
+  <EDGE><SOURCE vertex="1" offset="0 0"/><TARGET vertex="1" offset="1 0"/></EDGE>
+</UNITCELL>
+
+<UNITCELL name="complex2d" dimension="2">
+  <VERTEX/>
+  <EDGE><SOURCE vertex="1" offset="0 0"/><TARGET vertex="1" offset="0 1"/></EDGE>
+  <EDGE><SOURCE vertex="1" offset="0 0"/><TARGET vertex="1" offset="1 0"/></EDGE>
+  <EDGE><SOURCE vertex="1" offset="0 0"/><TARGET vertex="1" offset="1 1"/></EDGE>
+  <EDGE><SOURCE vertex="1" offset="0 1"/><TARGET vertex="1" offset="1 0"/></EDGE>
+</UNITCELL>
+
+<LATTICEGRAPH name = "toblerone open" vt_skip="true">
+  <FINITELATTICE>
+    <LATTICE ref="square lattice"/>
+    <EXTENT dimension="1" size="L"/>
+    <EXTENT dimension="2" size="3"/>
+    <BOUNDARY dimension="1" type="open"/>
+    <BOUNDARY dimension="2" type="periodic"/>
+  </FINITELATTICE>
+  <UNITCELL ref="simple2d"/>
+</LATTICEGRAPH>
+
+<LATTICEGRAPH name = "complex square open" vt_skip="true">
+  <FINITELATTICE>
+    <LATTICE ref="square lattice"/>
+    <EXTENT dimension="1" size="L"/>
+    <EXTENT dimension="2" size="4"/>
+    <BOUNDARY dimension="1" type="open"/>
+    <BOUNDARY dimension="2" type="periodic"/>
+  </FINITELATTICE>
+  <UNITCELL ref="complex2d"/>
+</LATTICEGRAPH>
+</LATTICES>
