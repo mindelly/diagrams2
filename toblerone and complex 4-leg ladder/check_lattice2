@@ -1,0 +1,4 @@
+  LATTICE_LIBRARY = "mylattices.xml"
+  LATTICE         = "complex square open"
+  L               = 4
+

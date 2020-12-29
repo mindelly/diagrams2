@@ -1,0 +1,4 @@
+  LATTICE_LIBRARY = "mylattices.xml"
+  LATTICE         = "toblerone open"
+  L               = 4
+
