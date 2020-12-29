@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ALPS.xsl"?>
+<SIMULATION xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://xml.comp-phys.org/2002/10/ALPS.xsd">
+  <PARAMETERS>
+    <PARAMETER name="NUMBER_EIGENVALUES">1</PARAMETER>
+    <PARAMETER name="MAXSTATES">1200</PARAMETER>
+    <PARAMETER name="L">40</PARAMETER>
+    <PARAMETER name="Nup_total">20</PARAMETER>
+    <PARAMETER name="LATTICE">open square lattice</PARAMETER>
+    <PARAMETER name="SEED">738076340</PARAMETER>
+    <PARAMETER name="U">-7</PARAMETER>
+    <PARAMETER name="CONSERVED_QUANTUMNUMBERS">Nup, Ndown</PARAMETER>
+    <PARAMETER name="W">3</PARAMETER>
+    <PARAMETER name="MODEL">fermion Hubbard</PARAMETER>
+    <PARAMETER name="SWEEPS">12</PARAMETER>
+    <PARAMETER name="Ndown_total">1</PARAMETER>
+    <PARAMETER name="t">1</PARAMETER>
+  </PARAMETERS>
+  <EIGENSTATES number="1">
+    <EIGENSTATE number="0">
+      <SCALAR_AVERAGE name="Energy"><MEAN>-61.18931391205863</MEAN></SCALAR_AVERAGE>
+      <SCALAR_AVERAGE name="Truncation error"><MEAN>7.9221488221070876e-10</MEAN></SCALAR_AVERAGE>
+    </EIGENSTATE>
+  </EIGENSTATES>
+</SIMULATION>
