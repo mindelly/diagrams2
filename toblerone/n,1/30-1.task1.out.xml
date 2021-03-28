@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ALPS.xsl"?>
+<SIMULATION xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://xml.comp-phys.org/2002/10/ALPS.xsd">
+  <PARAMETERS>
+    <PARAMETER name="NUMBER_EIGENVALUES">1</PARAMETER>
+    <PARAMETER name="MAXSTATES">1800</PARAMETER>
+    <PARAMETER name="L">40</PARAMETER>
+    <PARAMETER name="Nup_total">30</PARAMETER>
+    <PARAMETER name="LATTICE">toblerone2</PARAMETER>
+    <PARAMETER name="SEED">809309247</PARAMETER>
+    <PARAMETER name="U">-7</PARAMETER>
+    <PARAMETER name="CONSERVED_QUANTUMNUMBERS">Nup, Ndown</PARAMETER>
+    <PARAMETER name="MODEL">fermion Hubbard</PARAMETER>
+    <PARAMETER name="LATTICE_LIBRARY">mylattice.xml</PARAMETER>
+    <PARAMETER name="SWEEPS">15</PARAMETER>
+    <PARAMETER name="Ndown_total">1</PARAMETER>
+    <PARAMETER name="t">1</PARAMETER>
+  </PARAMETERS>
+  <EIGENSTATES number="1">
+    <EIGENSTATE number="0">
+      <SCALAR_AVERAGE name="Energy"><MEAN>-86.517621604632197</MEAN></SCALAR_AVERAGE>
+      <SCALAR_AVERAGE name="Truncation error"><MEAN>3.61460031101025e-10</MEAN></SCALAR_AVERAGE>
+    </EIGENSTATE>
+  </EIGENSTATES>
+</SIMULATION>
