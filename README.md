@@ -1,3 +1,3 @@
 # Diagrams for Hubbard Model 
 
-## W=2, W=3
+## W=2-5 ALPS +iTensor
