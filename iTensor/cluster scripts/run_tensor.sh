@@ -6,5 +6,10 @@
 #SBATCH --error=err_%j.log
 #SBATCH --array=10-15
 
-NUM=`printf %d $SLURM_ARRAY_TASK_ID`
-./hubbard $NUM 1
+y=2
+NUP=`printf %d $SLURM_ARRAY_TASK_ID`
+NDOWN=`printf %d $(($SLURM_ARRAY_TASK_ID-$y))`
+
+./hubbard $NUM $NDOWN
+
+# or ./hubbard $NUM 1
