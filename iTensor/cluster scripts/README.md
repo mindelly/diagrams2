@@ -10,7 +10,7 @@ main след. образом:
 
 2) $ make
 
-3) В скрипте run_tensor.sh в строке ./hubbard $Nup $Ndown записываются переменные в нужном порядке
+3) В скрипте run_tensor.sh в строке ./hubbard $Nup $Ndown записываются переменные в нужном порядке.
 В #SBATCH --array=n-m пишется диапазон изменения переменной, от n до m.
 
 4) $ sbatch run_tensor.sh
