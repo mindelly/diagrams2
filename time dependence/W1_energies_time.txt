@@ -1,0 +1,7 @@
+Nup =10 Ndown = 10 E = -79.1965974048508059 time: 106944 ms 106 sec W = 1L = 30
+Nup =10 Ndown = 10 E = -79.6107089455978922 time: 169468 ms 169 sec W = 1L = 35
+Nup =10 Ndown = 10 E = -79.8698717663103821 time: 222812 ms 222 sec W = 1L = 40
+Nup =10 Ndown = 10 E = -80.0418703398037650 time: 315965 ms 315 sec W = 1L = 45
+Nup =10 Ndown = 10 E = -80.1614768593751990 time: 355646 ms 355 sec W = 1L = 50
+Nup =10 Ndown = 10 E = -80.2478441656308945 time: 419459 ms 419 sec W = 1L = 55
+Nup =10 Ndown = 10 E = -80.3121662875932287 time: 499189 ms 499 sec W = 1L = 60
