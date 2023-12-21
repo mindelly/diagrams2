@@ -1,0 +1,4764 @@
+Сначала Грегуар
+<CupCdn(1)CdagdnCdagup(2)>=(0.3058336303960442,0)
+<CupCdn(1)CdagdnCdagup(3)>=(0.1387915983981482,0)
+<CupCdn(1)CdagdnCdagup(4)>=(0.06909253517776461,0)
+<CupCdn(1)CdagdnCdagup(5)>=(0.07705491492948556,0)
+<CupCdn(1)CdagdnCdagup(6)>=(0.04110663750627169,0)
+<CupCdn(1)CdagdnCdagup(7)>=(0.04254890843818899,0)
+<CupCdn(1)CdagdnCdagup(8)>=(0.03494118149853707,0)
+<CupCdn(1)CdagdnCdagup(9)>=(0.02500090271083751,0)
+<CupCdn(1)CdagdnCdagup(10)>=(0.02876601500627085,0)
+<CupCdn(1)CdagdnCdagup(11)>=(0.01910834432176422,0)
+<CupCdn(1)CdagdnCdagup(12)>=(0.02077072346584312,0)
+<CupCdn(1)CdagdnCdagup(13)>=(0.01801213302454417,0)
+<CupCdn(1)CdagdnCdagup(14)>=(0.01444475806902523,0)
+<CupCdn(1)CdagdnCdagup(15)>=(0.01650238569679105,0)
+<CupCdn(1)CdagdnCdagup(16)>=(0.01177393581848639,0)
+<CupCdn(1)CdagdnCdagup(17)>=(0.01321533136761148,0)
+<CupCdn(1)CdagdnCdagup(18)>=(0.01150333252408207,0)
+<CupCdn(1)CdagdnCdagup(19)>=(0.009833552522982006,0)
+<CupCdn(1)CdagdnCdagup(20)>=(0.01114137933663771,0)
+<CupCdn(1)CdagdnCdagup(21)>=(0.008152609943122337,0)
+<CupCdn(1)CdagdnCdagup(22)>=(0.009440915110692736,0)
+<CupCdn(1)CdagdnCdagup(23)>=(0.008084107257797461,0)
+<CupCdn(1)CdagdnCdagup(24)>=(0.007226921319373252,0)
+<CupCdn(1)CdagdnCdagup(25)>=(0.008130311581387569,0)
+<CupCdn(1)CdagdnCdagup(26)>=(0.005936023716939275,0)
+<CupCdn(1)CdagdnCdagup(27)>=(0.007141730734506497,0)
+<CupCdn(1)CdagdnCdagup(28)>=(0.005889764163674962,0)
+<CupCdn(1)CdagdnCdagup(29)>=(0.005469160242490259,0)
+<CupCdn(1)CdagdnCdagup(30)>=(0.006105804459014862,0)
+<CupCdn(1)CdagdnCdagup(31)>=(0.004298178534863973,0)
+<CupCdn(1)CdagdnCdagup(32)>=(0.005478771778170475,0)
+<CupCdn(1)CdagdnCdagup(33)>=(0.004166921049557615,0)
+<CupCdn(1)CdagdnCdagup(34)>=(0.004026246348031195,0)
+<CupCdn(1)CdagdnCdagup(35)>=(0.004426541037824509,0)
+<CupCdn(1)CdagdnCdagup(36)>=(0.002740848901986039,0)
+<CupCdn(1)CdagdnCdagup(37)>=(0.003948258076491291,0)
+<CupCdn(1)CdagdnCdagup(38)>=(0.002252916121054855,0)
+<CupCdn(1)CdagdnCdagup(39)>=(0.002337765145558623,0)
+<CupCdn(1)CdagdnCdagup(40)>=(0.002210631180459594,0)
+<CupCdn(2)CdagdnCdagup(3)>=(0.2885068821232033,0)
+<CupCdn(2)CdagdnCdagup(4)>=(0.08450468316474716,0)
+<CupCdn(2)CdagdnCdagup(5)>=(0.09015283460626268,0)
+<CupCdn(2)CdagdnCdagup(6)>=(0.05110247087881384,0)
+<CupCdn(2)CdagdnCdagup(7)>=(0.04415339671547427,0)
+<CupCdn(2)CdagdnCdagup(8)>=(0.04046547660550504,0)
+<CupCdn(2)CdagdnCdagup(9)>=(0.02634886686883215,0)
+<CupCdn(2)CdagdnCdagup(10)>=(0.03104050414930501,0)
+<CupCdn(2)CdagdnCdagup(11)>=(0.02103107957683876,0)
+<CupCdn(2)CdagdnCdagup(12)>=(0.02158052213012229,0)
+<CupCdn(2)CdagdnCdagup(13)>=(0.0197436677961476,0)
+<CupCdn(2)CdagdnCdagup(14)>=(0.01508609060190257,0)
+<CupCdn(2)CdagdnCdagup(15)>=(0.01759033282726368,0)
+<CupCdn(2)CdagdnCdagup(16)>=(0.01262253057455278,0)
+<CupCdn(2)CdagdnCdagup(17)>=(0.01379055744327117,0)
+<CupCdn(2)CdagdnCdagup(18)>=(0.01239071597173822,0)
+<CupCdn(2)CdagdnCdagup(19)>=(0.01026500639206126,0)
+<CupCdn(2)CdagdnCdagup(20)>=(0.01182899237082851,0)
+<CupCdn(2)CdagdnCdagup(21)>=(0.008655371901081906,0)
+<CupCdn(2)CdagdnCdagup(22)>=(0.009884816787286034,0)
+<CupCdn(2)CdagdnCdagup(23)>=(0.008637684877900157,0)
+<CupCdn(2)CdagdnCdagup(24)>=(0.007553144333701739,0)
+<CupCdn(2)CdagdnCdagup(25)>=(0.008616923970529228,0)
+<CupCdn(2)CdagdnCdagup(26)>=(0.006272355923078307,0)
+<CupCdn(2)CdagdnCdagup(27)>=(0.007494983991265609,0)
+<CupCdn(2)CdagdnCdagup(28)>=(0.006263041713242153,0)
+<CupCdn(2)CdagdnCdagup(29)>=(0.005724192675190735,0)
+<CupCdn(2)CdagdnCdagup(30)>=(0.006462795528549322,0)
+<CupCdn(2)CdagdnCdagup(31)>=(0.004529637415598948,0)
+<CupCdn(2)CdagdnCdagup(32)>=(0.005759019691218524,0)
+<CupCdn(2)CdagdnCdagup(33)>=(0.004415779060168217,0)
+<CupCdn(2)CdagdnCdagup(34)>=(0.004220452855335084,0)
+<CupCdn(2)CdagdnCdagup(35)>=(0.004678910234688016,0)
+<CupCdn(2)CdagdnCdagup(36)>=(0.002883839897627375,0)
+<CupCdn(2)CdagdnCdagup(37)>=(0.004154778391664641,0)
+<CupCdn(2)CdagdnCdagup(38)>=(0.002380033007463135,0)
+<CupCdn(2)CdagdnCdagup(39)>=(0.002455624783472607,0)
+<CupCdn(2)CdagdnCdagup(40)>=(0.002332384871386734,0)
+<CupCdn(3)CdagdnCdagup(4)>=(0.1794689655712703,0)
+<CupCdn(3)CdagdnCdagup(5)>=(0.1115525433355685,0)
+<CupCdn(3)CdagdnCdagup(6)>=(0.05276154152885737,0)
+<CupCdn(3)CdagdnCdagup(7)>=(0.05303287165251822,0)
+<CupCdn(3)CdagdnCdagup(8)>=(0.03934292561678679,0)
+<CupCdn(3)CdagdnCdagup(9)>=(0.02867022512897324,0)
+<CupCdn(3)CdagdnCdagup(10)>=(0.03142145210991641,0)
+<CupCdn(3)CdagdnCdagup(11)>=(0.0206310201117372,0)
+<CupCdn(3)CdagdnCdagup(12)>=(0.02239949290519804,0)
+<CupCdn(3)CdagdnCdagup(13)>=(0.01893535039804297,0)
+<CupCdn(3)CdagdnCdagup(14)>=(0.01534259848500259,0)
+<CupCdn(3)CdagdnCdagup(15)>=(0.01724113783064722,0)
+<CupCdn(3)CdagdnCdagup(16)>=(0.01227141999821423,0)
+<CupCdn(3)CdagdnCdagup(17)>=(0.01378642641542844,0)
+<CupCdn(3)CdagdnCdagup(18)>=(0.01186270979376724,0)
+<CupCdn(3)CdagdnCdagup(19)>=(0.01021248626246186,0)
+<CupCdn(3)CdagdnCdagup(20)>=(0.01147005436432751,0)
+<CupCdn(3)CdagdnCdagup(21)>=(0.008393261438224445,0)
+<CupCdn(3)CdagdnCdagup(22)>=(0.009726973333190751,0)
+<CupCdn(3)CdagdnCdagup(23)>=(0.0082754957780904,0)
+<CupCdn(3)CdagdnCdagup(24)>=(0.007436210896240132,0)
+<CupCdn(3)CdagdnCdagup(25)>=(0.008319258822335194,0)
+<CupCdn(3)CdagdnCdagup(26)>=(0.006079511383399559,0)
+<CupCdn(3)CdagdnCdagup(27)>=(0.007316755352091005,0)
+<CupCdn(3)CdagdnCdagup(28)>=(0.00601082585369706,0)
+<CupCdn(3)CdagdnCdagup(29)>=(0.005602739202034964,0)
+<CupCdn(3)CdagdnCdagup(30)>=(0.006231164122386694,0)
+<CupCdn(3)CdagdnCdagup(31)>=(0.004391804787629146,0)
+<CupCdn(3)CdagdnCdagup(32)>=(0.005597903070463545,0)
+<CupCdn(3)CdagdnCdagup(33)>=(0.004247861385529256,0)
+<CupCdn(3)CdagdnCdagup(34)>=(0.004115376492019359,0)
+<CupCdn(3)CdagdnCdagup(35)>=(0.00451315177273156,0)
+<CupCdn(3)CdagdnCdagup(36)>=(0.002797911075634255,0)
+<CupCdn(3)CdagdnCdagup(37)>=(0.004029302201042741,0)
+<CupCdn(3)CdagdnCdagup(38)>=(0.002296710192925499,0)
+<CupCdn(3)CdagdnCdagup(39)>=(0.002386651751191103,0)
+<CupCdn(3)CdagdnCdagup(40)>=(0.002254092412650939,0)
+<CupCdn(4)CdagdnCdagup(5)>=(0.3539229211319236,0)
+<CupCdn(4)CdagdnCdagup(6)>=(0.1184921017555027,0)
+<CupCdn(4)CdagdnCdagup(7)>=(0.1000519686598962,0)
+<CupCdn(4)CdagdnCdagup(8)>=(0.08127484083623121,0)
+<CupCdn(4)CdagdnCdagup(9)>=(0.05062550933477643,0)
+<CupCdn(4)CdagdnCdagup(10)>=(0.05896086617975852,0)
+<CupCdn(4)CdagdnCdagup(11)>=(0.03784329348464881,0)
+<CupCdn(4)CdagdnCdagup(12)>=(0.0395280437377438,0)
+<CupCdn(4)CdagdnCdagup(13)>=(0.03488251948859723,0)
+<CupCdn(4)CdagdnCdagup(14)>=(0.02672381460037777,0)
+<CupCdn(4)CdagdnCdagup(15)>=(0.03091374259594434,0)
+<CupCdn(4)CdagdnCdagup(16)>=(0.02181915157959845,0)
+<CupCdn(4)CdagdnCdagup(17)>=(0.02408380005839332,0)
+<CupCdn(4)CdagdnCdagup(18)>=(0.02125389588834101,0)
+<CupCdn(4)CdagdnCdagup(19)>=(0.01773071005191135,0)
+<CupCdn(4)CdagdnCdagup(20)>=(0.0202918800151576,0)
+<CupCdn(4)CdagdnCdagup(21)>=(0.01476922928844867,0)
+<CupCdn(4)CdagdnCdagup(22)>=(0.01695656960628128,0)
+<CupCdn(4)CdagdnCdagup(23)>=(0.01466583186816482,0)
+<CupCdn(4)CdagdnCdagup(24)>=(0.01290904945877619,0)
+<CupCdn(4)CdagdnCdagup(25)>=(0.0146425777433477,0)
+<CupCdn(4)CdagdnCdagup(26)>=(0.01064841687395531,0)
+<CupCdn(4)CdagdnCdagup(27)>=(0.01275512421920913,0)
+<CupCdn(4)CdagdnCdagup(28)>=(0.01059426854636841,0)
+<CupCdn(4)CdagdnCdagup(29)>=(0.009733669186040968,0)
+<CupCdn(4)CdagdnCdagup(30)>=(0.01093988757348161,0)
+<CupCdn(4)CdagdnCdagup(31)>=(0.007674104560855496,0)
+<CupCdn(4)CdagdnCdagup(32)>=(0.009764600988979385,0)
+<CupCdn(4)CdagdnCdagup(33)>=(0.007461511002909307,0)
+<CupCdn(4)CdagdnCdagup(34)>=(0.007158232868641766,0)
+<CupCdn(4)CdagdnCdagup(35)>=(0.00791015484728755,0)
+<CupCdn(4)CdagdnCdagup(36)>=(0.004882534851117927,0)
+<CupCdn(4)CdagdnCdagup(37)>=(0.007033286242080192,0)
+<CupCdn(4)CdagdnCdagup(38)>=(0.004022854048619492,0)
+<CupCdn(4)CdagdnCdagup(39)>=(0.004158930504344957,0)
+<CupCdn(4)CdagdnCdagup(40)>=(0.003943715896136062,0)
+<CupCdn(5)CdagdnCdagup(6)>=(0.1869900275837043,0)
+<CupCdn(5)CdagdnCdagup(7)>=(0.09217622239917429,0)
+<CupCdn(5)CdagdnCdagup(8)>=(0.06609686662292023,0)
+<CupCdn(5)CdagdnCdagup(9)>=(0.04340200048018505,0)
+<CupCdn(5)CdagdnCdagup(10)>=(0.04348018567944217,0)
+<CupCdn(5)CdagdnCdagup(11)>=(0.02942025074511516,0)
+<CupCdn(5)CdagdnCdagup(12)>=(0.02896453039194921,0)
+<CupCdn(5)CdagdnCdagup(13)>=(0.0253754261251695,0)
+<CupCdn(5)CdagdnCdagup(14)>=(0.0196288627416377,0)
+<CupCdn(5)CdagdnCdagup(15)>=(0.02195218229937809,0)
+<CupCdn(5)CdagdnCdagup(16)>=(0.01578449260302658,0)
+<CupCdn(5)CdagdnCdagup(17)>=(0.01705795346579072,0)
+<CupCdn(5)CdagdnCdagup(18)>=(0.01506601821459246,0)
+<CupCdn(5)CdagdnCdagup(19)>=(0.01258645514827899,0)
+<CupCdn(5)CdagdnCdagup(20)>=(0.01423669134575184,0)
+<CupCdn(5)CdagdnCdagup(21)>=(0.01044249814017673,0)
+<CupCdn(5)CdagdnCdagup(22)>=(0.01187243099460461,0)
+<CupCdn(5)CdagdnCdagup(23)>=(0.01028469073935579,0)
+<CupCdn(5)CdagdnCdagup(24)>=(0.009045881909866809,0)
+<CupCdn(5)CdagdnCdagup(25)>=(0.01021537092594028,0)
+<CupCdn(5)CdagdnCdagup(26)>=(0.007452819399379388,0)
+<CupCdn(5)CdagdnCdagup(27)>=(0.008885091903347509,0)
+<CupCdn(5)CdagdnCdagup(28)>=(0.007388475974676348,0)
+<CupCdn(5)CdagdnCdagup(29)>=(0.006780950007670744,0)
+<CupCdn(5)CdagdnCdagup(30)>=(0.007609518826629678,0)
+<CupCdn(5)CdagdnCdagup(31)>=(0.005343889531436614,0)
+<CupCdn(5)CdagdnCdagup(32)>=(0.006785343306428186,0)
+<CupCdn(5)CdagdnCdagup(33)>=(0.005188224967182281,0)
+<CupCdn(5)CdagdnCdagup(34)>=(0.004973338570323402,0)
+<CupCdn(5)CdagdnCdagup(35)>=(0.005493813613295027,0)
+<CupCdn(5)CdagdnCdagup(36)>=(0.003391607276608759,0)
+<CupCdn(5)CdagdnCdagup(37)>=(0.004882514280886164,0)
+<CupCdn(5)CdagdnCdagup(38)>=(0.002793229261024396,0)
+<CupCdn(5)CdagdnCdagup(39)>=(0.002886787599163967,0)
+<CupCdn(5)CdagdnCdagup(40)>=(0.002737546829431656,0)
+<CupCdn(6)CdagdnCdagup(7)>=(0.2994312126313021,0)
+<CupCdn(6)CdagdnCdagup(8)>=(0.1317305214528359,0)
+<CupCdn(6)CdagdnCdagup(9)>=(0.07989634460949331,0)
+<CupCdn(6)CdagdnCdagup(10)>=(0.08312909539467503,0)
+<CupCdn(6)CdagdnCdagup(11)>=(0.04852737058769549,0)
+<CupCdn(6)CdagdnCdagup(12)>=(0.05241270903621798,0)
+<CupCdn(6)CdagdnCdagup(13)>=(0.04222737181172456,0)
+<CupCdn(6)CdagdnCdagup(14)>=(0.03333302752008079,0)
+<CupCdn(6)CdagdnCdagup(15)>=(0.03717836471827521,0)
+<CupCdn(6)CdagdnCdagup(16)>=(0.02567769123463547,0)
+<CupCdn(6)CdagdnCdagup(17)>=(0.02886865782209422,0)
+<CupCdn(6)CdagdnCdagup(18)>=(0.02445015653187476,0)
+<CupCdn(6)CdagdnCdagup(19)>=(0.02088913854281352,0)
+<CupCdn(6)CdagdnCdagup(20)>=(0.02338222649307312,0)
+<CupCdn(6)CdagdnCdagup(21)>=(0.01692424006553013,0)
+<CupCdn(6)CdagdnCdagup(22)>=(0.01962233490697591,0)
+<CupCdn(6)CdagdnCdagup(23)>=(0.01657564694567214,0)
+<CupCdn(6)CdagdnCdagup(24)>=(0.01486238882290347,0)
+<CupCdn(6)CdagdnCdagup(25)>=(0.01658769508554034,0)
+<CupCdn(6)CdagdnCdagup(26)>=(0.01207220692194512,0)
+<CupCdn(6)CdagdnCdagup(27)>=(0.01452767586748131,0)
+<CupCdn(6)CdagdnCdagup(28)>=(0.01189527537908029,0)
+<CupCdn(6)CdagdnCdagup(29)>=(0.01108235190925384,0)
+<CupCdn(6)CdagdnCdagup(30)>=(0.01230582045188949,0)
+<CupCdn(6)CdagdnCdagup(31)>=(0.00866177391611982,0)
+<CupCdn(6)CdagdnCdagup(32)>=(0.01103690513248929,0)
+<CupCdn(6)CdagdnCdagup(33)>=(0.008363505361803298,0)
+<CupCdn(6)CdagdnCdagup(34)>=(0.008102692943832425,0)
+<CupCdn(6)CdagdnCdagup(35)>=(0.008878102215332041,0)
+<CupCdn(6)CdagdnCdagup(36)>=(0.005502702158455552,0)
+<CupCdn(6)CdagdnCdagup(37)>=(0.007922417265879974,0)
+<CupCdn(6)CdagdnCdagup(38)>=(0.004514000356998869,0)
+<CupCdn(6)CdagdnCdagup(39)>=(0.004691232491063559,0)
+<CupCdn(6)CdagdnCdagup(40)>=(0.004429388693800588,0)
+<CupCdn(7)CdagdnCdagup(8)>=(0.2661391790669455,0)
+<CupCdn(7)CdagdnCdagup(9)>=(0.09378654029082177,0)
+<CupCdn(7)CdagdnCdagup(10)>=(0.08882650473984204,0)
+<CupCdn(7)CdagdnCdagup(11)>=(0.0555645315709375,0)
+<CupCdn(7)CdagdnCdagup(12)>=(0.04873657637267074,0)
+<CupCdn(7)CdagdnCdagup(13)>=(0.04405012340144093,0)
+<CupCdn(7)CdagdnCdagup(14)>=(0.03117413516258523,0)
+<CupCdn(7)CdagdnCdagup(15)>=(0.03543293449893056,0)
+<CupCdn(7)CdagdnCdagup(16)>=(0.02497942383076902,0)
+<CupCdn(7)CdagdnCdagup(17)>=(0.02618209888734664,0)
+<CupCdn(7)CdagdnCdagup(18)>=(0.02358067019219894,0)
+<CupCdn(7)CdagdnCdagup(19)>=(0.01894520069902873,0)
+<CupCdn(7)CdagdnCdagup(20)>=(0.02172641548191845,0)
+<CupCdn(7)CdagdnCdagup(21)>=(0.01578399575865098,0)
+<CupCdn(7)CdagdnCdagup(22)>=(0.01770539387025897,0)
+<CupCdn(7)CdagdnCdagup(23)>=(0.01554283810933248,0)
+<CupCdn(7)CdagdnCdagup(24)>=(0.01335879375354603,0)
+<CupCdn(7)CdagdnCdagup(25)>=(0.01525496673842348,0)
+<CupCdn(7)CdagdnCdagup(26)>=(0.01105871845778341,0)
+<CupCdn(7)CdagdnCdagup(27)>=(0.01309560622100519,0)
+<CupCdn(7)CdagdnCdagup(28)>=(0.01099474524332245,0)
+<CupCdn(7)CdagdnCdagup(29)>=(0.009935628384978756,0)
+<CupCdn(7)CdagdnCdagup(30)>=(0.01125305183646778,0)
+<CupCdn(7)CdagdnCdagup(31)>=(0.007861144141745194,0)
+<CupCdn(7)CdagdnCdagup(32)>=(0.009953704811303065,0)
+<CupCdn(7)CdagdnCdagup(33)>=(0.007660457425123897,0)
+<CupCdn(7)CdagdnCdagup(34)>=(0.007267396390617669,0)
+<CupCdn(7)CdagdnCdagup(35)>=(0.008085601358456214,0)
+<CupCdn(7)CdagdnCdagup(36)>=(0.004968973701512569,0)
+<CupCdn(7)CdagdnCdagup(37)>=(0.007152322445934145,0)
+<CupCdn(7)CdagdnCdagup(38)>=(0.004105588047308487,0)
+<CupCdn(7)CdagdnCdagup(39)>=(0.004220427328920431,0)
+<CupCdn(7)CdagdnCdagup(40)>=(0.004018157844072548,0)
+<CupCdn(8)CdagdnCdagup(9)>=(0.2209060683929485,0)
+<CupCdn(8)CdagdnCdagup(10)>=(0.1199601194060786,0)
+<CupCdn(8)CdagdnCdagup(11)>=(0.06456428442903378,0)
+<CupCdn(8)CdagdnCdagup(12)>=(0.06447323095650252,0)
+<CupCdn(8)CdagdnCdagup(13)>=(0.04639566640682687,0)
+<CupCdn(8)CdagdnCdagup(14)>=(0.03760340149465776,0)
+<CupCdn(8)CdagdnCdagup(15)>=(0.0387724833442154,0)
+<CupCdn(8)CdagdnCdagup(16)>=(0.02680326848666937,0)
+<CupCdn(8)CdagdnCdagup(17)>=(0.02962289163985876,0)
+<CupCdn(8)CdagdnCdagup(18)>=(0.02433590498558224,0)
+<CupCdn(8)CdagdnCdagup(19)>=(0.02108721357981574,0)
+<CupCdn(8)CdagdnCdagup(20)>=(0.02291342026147171,0)
+<CupCdn(8)CdagdnCdagup(21)>=(0.01664204966054558,0)
+<CupCdn(8)CdagdnCdagup(22)>=(0.01916507218393776,0)
+<CupCdn(8)CdagdnCdagup(23)>=(0.01596515659261952,0)
+<CupCdn(8)CdagdnCdagup(24)>=(0.01444387201755199,0)
+<CupCdn(8)CdagdnCdagup(25)>=(0.01587137468116283,0)
+<CupCdn(8)CdagdnCdagup(26)>=(0.01158849138792093,0)
+<CupCdn(8)CdagdnCdagup(27)>=(0.01389828417145349,0)
+<CupCdn(8)CdagdnCdagup(28)>=(0.01129232810240667,0)
+<CupCdn(8)CdagdnCdagup(29)>=(0.01058806994053419,0)
+<CupCdn(8)CdagdnCdagup(30)>=(0.01164791339184499,0)
+<CupCdn(8)CdagdnCdagup(31)>=(0.008222774701246098,0)
+<CupCdn(8)CdagdnCdagup(32)>=(0.01045716620988518,0)
+<CupCdn(8)CdagdnCdagup(33)>=(0.007889216145083243,0)
+<CupCdn(8)CdagdnCdagup(34)>=(0.007678295438392178,0)
+<CupCdn(8)CdagdnCdagup(35)>=(0.008366373166283258,0)
+<CupCdn(8)CdagdnCdagup(36)>=(0.005198507766641538,0)
+<CupCdn(8)CdagdnCdagup(37)>=(0.007475598556514357,0)
+<CupCdn(8)CdagdnCdagup(38)>=(0.004250559563506126,0)
+<CupCdn(8)CdagdnCdagup(39)>=(0.004429084032219974,0)
+<CupCdn(8)CdagdnCdagup(40)>=(0.004171483130789277,0)
+<CupCdn(9)CdagdnCdagup(10)>=(0.3211314515152792,0)
+<CupCdn(9)CdagdnCdagup(11)>=(0.1127052766037664,0)
+<CupCdn(9)CdagdnCdagup(12)>=(0.09537146947849773,0)
+<CupCdn(9)CdagdnCdagup(13)>=(0.0759326153140409,0)
+<CupCdn(9)CdagdnCdagup(14)>=(0.05031199629458672,0)
+<CupCdn(9)CdagdnCdagup(15)>=(0.05677241000521177,0)
+<CupCdn(9)CdagdnCdagup(16)>=(0.03734052860543449,0)
+<CupCdn(9)CdagdnCdagup(17)>=(0.03982153825827667,0)
+<CupCdn(9)CdagdnCdagup(18)>=(0.0344320215035643,0)
+<CupCdn(9)CdagdnCdagup(19)>=(0.02756503672908093,0)
+<CupCdn(9)CdagdnCdagup(20)>=(0.0313775937530446,0)
+<CupCdn(9)CdagdnCdagup(21)>=(0.02227686703717685,0)
+<CupCdn(9)CdagdnCdagup(22)>=(0.02525931107038118,0)
+<CupCdn(9)CdagdnCdagup(23)>=(0.02169920098689689,0)
+<CupCdn(9)CdagdnCdagup(24)>=(0.01875203094163055,0)
+<CupCdn(9)CdagdnCdagup(25)>=(0.02124485400733145,0)
+<CupCdn(9)CdagdnCdagup(26)>=(0.01528243345616611,0)
+<CupCdn(9)CdagdnCdagup(27)>=(0.01818933241180572,0)
+<CupCdn(9)CdagdnCdagup(28)>=(0.01508803687736878,0)
+<CupCdn(9)CdagdnCdagup(29)>=(0.01372127610176232,0)
+<CupCdn(9)CdagdnCdagup(30)>=(0.01543466006748704,0)
+<CupCdn(9)CdagdnCdagup(31)>=(0.0107698687542177,0)
+<CupCdn(9)CdagdnCdagup(32)>=(0.01365818680138657,0)
+<CupCdn(9)CdagdnCdagup(33)>=(0.01044575977515864,0)
+<CupCdn(9)CdagdnCdagup(34)>=(0.009959542615975418,0)
+<CupCdn(9)CdagdnCdagup(35)>=(0.01102634954293293,0)
+<CupCdn(9)CdagdnCdagup(36)>=(0.006785885640872343,0)
+<CupCdn(9)CdagdnCdagup(37)>=(0.00976556259149752,0)
+<CupCdn(9)CdagdnCdagup(38)>=(0.005591824360982016,0)
+<CupCdn(9)CdagdnCdagup(39)>=(0.005764012192337372,0)
+<CupCdn(9)CdagdnCdagup(40)>=(0.005474503081207172,0)
+<CupCdn(10)CdagdnCdagup(11)>=(0.2051459970073633,0)
+<CupCdn(10)CdagdnCdagup(12)>=(0.1010596942281955,0)
+<CupCdn(10)CdagdnCdagup(13)>=(0.06978653334351444,0)
+<CupCdn(10)CdagdnCdagup(14)>=(0.05043041019076952,0)
+<CupCdn(10)CdagdnCdagup(15)>=(0.04721406216347337,0)
+<CupCdn(10)CdagdnCdagup(16)>=(0.03346396416657955,0)
+<CupCdn(10)CdagdnCdagup(17)>=(0.03339668127094766,0)
+<CupCdn(10)CdagdnCdagup(18)>=(0.02831579191326312,0)
+<CupCdn(10)CdagdnCdagup(19)>=(0.02333231491397689,0)
+<CupCdn(10)CdagdnCdagup(20)>=(0.02515540319167373,0)
+<CupCdn(10)CdagdnCdagup(21)>=(0.01839869802792165,0)
+<CupCdn(10)CdagdnCdagup(22)>=(0.02035528983869083,0)
+<CupCdn(10)CdagdnCdagup(23)>=(0.01736863709769507,0)
+<CupCdn(10)CdagdnCdagup(24)>=(0.01521021037334662,0)
+<CupCdn(10)CdagdnCdagup(25)>=(0.01682406409261762,0)
+<CupCdn(10)CdagdnCdagup(26)>=(0.01227725061364231,0)
+<CupCdn(10)CdagdnCdagup(27)>=(0.01444795928840465,0)
+<CupCdn(10)CdagdnCdagup(28)>=(0.01193761789504195,0)
+<CupCdn(10)CdagdnCdagup(29)>=(0.01093692867429522,0)
+<CupCdn(10)CdagdnCdagup(30)>=(0.01215136357385229,0)
+<CupCdn(10)CdagdnCdagup(31)>=(0.008540858978658966,0)
+<CupCdn(10)CdagdnCdagup(32)>=(0.01077493612111392,0)
+<CupCdn(10)CdagdnCdagup(33)>=(0.008216598258683955,0)
+<CupCdn(10)CdagdnCdagup(34)>=(0.007871724443282043,0)
+<CupCdn(10)CdagdnCdagup(35)>=(0.008657301926151122,0)
+<CupCdn(10)CdagdnCdagup(36)>=(0.005348305733420357,0)
+<CupCdn(10)CdagdnCdagup(37)>=(0.007680273542315141,0)
+<CupCdn(10)CdagdnCdagup(38)>=(0.004389566868708169,0)
+<CupCdn(10)CdagdnCdagup(39)>=(0.004537531650852544,0)
+<CupCdn(10)CdagdnCdagup(40)>=(0.004297656310326602,0)
+<CupCdn(11)CdagdnCdagup(12)>=(0.2975599452365282,0)
+<CupCdn(11)CdagdnCdagup(13)>=(0.1268483523515859,0)
+<CupCdn(11)CdagdnCdagup(14)>=(0.08196373146756328,0)
+<CupCdn(11)CdagdnCdagup(15)>=(0.08156436972407582,0)
+<CupCdn(11)CdagdnCdagup(16)>=(0.04888466147903772,0)
+<CupCdn(11)CdagdnCdagup(17)>=(0.05352646809365892,0)
+<CupCdn(11)CdagdnCdagup(18)>=(0.04202553003057449,0)
+<CupCdn(11)CdagdnCdagup(19)>=(0.03476434440996809,0)
+<CupCdn(11)CdagdnCdagup(20)>=(0.03785474539424739,0)
+<CupCdn(11)CdagdnCdagup(21)>=(0.0263755741866945,0)
+<CupCdn(11)CdagdnCdagup(22)>=(0.03033541820726002,0)
+<CupCdn(11)CdagdnCdagup(23)>=(0.02494230297595945,0)
+<CupCdn(11)CdagdnCdagup(24)>=(0.02212580474236469,0)
+<CupCdn(11)CdagdnCdagup(25)>=(0.02438941103863821,0)
+<CupCdn(11)CdagdnCdagup(26)>=(0.017492303826377,0)
+<CupCdn(11)CdagdnCdagup(27)>=(0.02095983010042869,0)
+<CupCdn(11)CdagdnCdagup(28)>=(0.01695947372563811,0)
+<CupCdn(11)CdagdnCdagup(29)>=(0.01573804375617309,0)
+<CupCdn(11)CdagdnCdagup(30)>=(0.01735820114117028,0)
+<CupCdn(11)CdagdnCdagup(31)>=(0.01215497330701639,0)
+<CupCdn(11)CdagdnCdagup(32)>=(0.01544277253313505,0)
+<CupCdn(11)CdagdnCdagup(33)>=(0.01164679223145842,0)
+<CupCdn(11)CdagdnCdagup(34)>=(0.01126762979580686,0)
+<CupCdn(11)CdagdnCdagup(35)>=(0.01230665253661423,0)
+<CupCdn(11)CdagdnCdagup(36)>=(0.007618230952300811,0)
+<CupCdn(11)CdagdnCdagup(37)>=(0.01095189359836406,0)
+<CupCdn(11)CdagdnCdagup(38)>=(0.006232544356438732,0)
+<CupCdn(11)CdagdnCdagup(39)>=(0.006475446842590706,0)
+<CupCdn(11)CdagdnCdagup(40)>=(0.00610907362630293,0)
+<CupCdn(12)CdagdnCdagup(13)>=(0.2572194602735685,0)
+<CupCdn(12)CdagdnCdagup(14)>=(0.09652711061149323,0)
+<CupCdn(12)CdagdnCdagup(15)>=(0.08652020549369466,0)
+<CupCdn(12)CdagdnCdagup(16)>=(0.05576703680189134,0)
+<CupCdn(12)CdagdnCdagup(17)>=(0.04950796025454316,0)
+<CupCdn(12)CdagdnCdagup(18)>=(0.04349379928106284,0)
+<CupCdn(12)CdagdnCdagup(19)>=(0.03227531450355258,0)
+<CupCdn(12)CdagdnCdagup(20)>=(0.0357032395491373,0)
+<CupCdn(12)CdagdnCdagup(21)>=(0.02535451351052917,0)
+<CupCdn(12)CdagdnCdagup(22)>=(0.02721326765948651,0)
+<CupCdn(12)CdagdnCdagup(23)>=(0.02374629608579229,0)
+<CupCdn(12)CdagdnCdagup(24)>=(0.01980357990305492,0)
+<CupCdn(12)CdagdnCdagup(25)>=(0.02236482313190031,0)
+<CupCdn(12)CdagdnCdagup(26)>=(0.01605465355917722,0)
+<CupCdn(12)CdagdnCdagup(27)>=(0.01866103141055774,0)
+<CupCdn(12)CdagdnCdagup(28)>=(0.01565691245215784,0)
+<CupCdn(12)CdagdnCdagup(29)>=(0.01392614528562925,0)
+<CupCdn(12)CdagdnCdagup(30)>=(0.01572828771831722,0)
+<CupCdn(12)CdagdnCdagup(31)>=(0.01093072661454429,0)
+<CupCdn(12)CdagdnCdagup(32)>=(0.01371973364111624,0)
+<CupCdn(12)CdagdnCdagup(33)>=(0.01057616269245324,0)
+<CupCdn(12)CdagdnCdagup(34)>=(0.009938804401205009,0)
+<CupCdn(12)CdagdnCdagup(35)>=(0.01107079336252682,0)
+<CupCdn(12)CdagdnCdagup(36)>=(0.006779535128314224,0)
+<CupCdn(12)CdagdnCdagup(37)>=(0.009732120360726147,0)
+<CupCdn(12)CdagdnCdagup(38)>=(0.005595439843394533,0)
+<CupCdn(12)CdagdnCdagup(39)>=(0.005726939188978326,0)
+<CupCdn(12)CdagdnCdagup(40)>=(0.005463389054962887,0)
+<CupCdn(13)CdagdnCdagup(14)>=(0.2353049318383441,0)
+<CupCdn(13)CdagdnCdagup(15)>=(0.1214665413951804,0)
+<CupCdn(13)CdagdnCdagup(16)>=(0.06809502394649626,0)
+<CupCdn(13)CdagdnCdagup(17)>=(0.06804964908849004,0)
+<CupCdn(13)CdagdnCdagup(18)>=(0.04766120063747641,0)
+<CupCdn(13)CdagdnCdagup(19)>=(0.04064296574792903,0)
+<CupCdn(13)CdagdnCdagup(20)>=(0.04052925102365514,0)
+<CupCdn(13)CdagdnCdagup(21)>=(0.02844698631805486,0)
+<CupCdn(13)CdagdnCdagup(22)>=(0.03197620214036779,0)
+<CupCdn(13)CdagdnCdagup(23)>=(0.02546103841041863,0)
+<CupCdn(13)CdagdnCdagup(24)>=(0.0229760653443603,0)
+<CupCdn(13)CdagdnCdagup(25)>=(0.02445006010471092,0)
+<CupCdn(13)CdagdnCdagup(26)>=(0.01766153051083164,0)
+<CupCdn(13)CdagdnCdagup(27)>=(0.02095666266626309,0)
+<CupCdn(13)CdagdnCdagup(28)>=(0.0167047970322329,0)
+<CupCdn(13)CdagdnCdagup(29)>=(0.01567289523166225,0)
+<CupCdn(13)CdagdnCdagup(30)>=(0.01696482686504239,0)
+<CupCdn(13)CdagdnCdagup(31)>=(0.01194625296608961,0)
+<CupCdn(13)CdagdnCdagup(32)>=(0.01510126779352414,0)
+<CupCdn(13)CdagdnCdagup(33)>=(0.01129655135555705,0)
+<CupCdn(13)CdagdnCdagup(34)>=(0.01101396261142774,0)
+<CupCdn(13)CdagdnCdagup(35)>=(0.01190210255935048,0)
+<CupCdn(13)CdagdnCdagup(36)>=(0.007401239368275732,0)
+<CupCdn(13)CdagdnCdagup(37)>=(0.01061170559244838,0)
+<CupCdn(13)CdagdnCdagup(38)>=(0.006016044135179382,0)
+<CupCdn(13)CdagdnCdagup(39)>=(0.006279254907978632,0)
+<CupCdn(13)CdagdnCdagup(40)>=(0.005896876044522737,0)
+<CupCdn(14)CdagdnCdagup(15)>=(0.3087293438990592,0)
+<CupCdn(14)CdagdnCdagup(16)>=(0.109863235827545,0)
+<CupCdn(14)CdagdnCdagup(17)>=(0.09372531070703574,0)
+<CupCdn(14)CdagdnCdagup(18)>=(0.07281590425252578,0)
+<CupCdn(14)CdagdnCdagup(19)>=(0.05004509473123351,0)
+<CupCdn(14)CdagdnCdagup(20)>=(0.05527411470694666,0)
+<CupCdn(14)CdagdnCdagup(21)>=(0.03643227940168915,0)
+<CupCdn(14)CdagdnCdagup(22)>=(0.03972001001393697,0)
+<CupCdn(14)CdagdnCdagup(23)>=(0.03334848017987435,0)
+<CupCdn(14)CdagdnCdagup(24)>=(0.02756543559573792,0)
+<CupCdn(14)CdagdnCdagup(25)>=(0.03098752567887056,0)
+<CupCdn(14)CdagdnCdagup(26)>=(0.02169404264710589,0)
+<CupCdn(14)CdagdnCdagup(27)>=(0.02545131650827015,0)
+<CupCdn(14)CdagdnCdagup(28)>=(0.02093966068845125,0)
+<CupCdn(14)CdagdnCdagup(29)>=(0.01866392615073784,0)
+<CupCdn(14)CdagdnCdagup(30)>=(0.02095039511225242,0)
+<CupCdn(14)CdagdnCdagup(31)>=(0.01444384480131802,0)
+<CupCdn(14)CdagdnCdagup(32)>=(0.01818889238518874,0)
+<CupCdn(14)CdagdnCdagup(33)>=(0.01389031133239852,0)
+<CupCdn(14)CdagdnCdagup(34)>=(0.01309942817703676,0)
+<CupCdn(14)CdagdnCdagup(35)>=(0.01452025964431785,0)
+<CupCdn(14)CdagdnCdagup(36)>=(0.008885579904024865,0)
+<CupCdn(14)CdagdnCdagup(37)>=(0.01275627910714642,0)
+<CupCdn(14)CdagdnCdagup(38)>=(0.007311996173829202,0)
+<CupCdn(14)CdagdnCdagup(39)>=(0.007499656092618229,0)
+<CupCdn(14)CdagdnCdagup(40)>=(0.007138320454093234,0)
+<CupCdn(15)CdagdnCdagup(16)>=(0.2113713992217603,0)
+<CupCdn(15)CdagdnCdagup(17)>=(0.1049729079643982,0)
+<CupCdn(15)CdagdnCdagup(18)>=(0.07028089759721209,0)
+<CupCdn(15)CdagdnCdagup(19)>=(0.05344605663167373,0)
+<CupCdn(15)CdagdnCdagup(20)>=(0.04830176491512464,0)
+<CupCdn(15)CdagdnCdagup(21)>=(0.03467512056429724,0)
+<CupCdn(15)CdagdnCdagup(22)>=(0.03527868994873497,0)
+<CupCdn(15)CdagdnCdagup(23)>=(0.02886633422218841,0)
+<CupCdn(15)CdagdnCdagup(24)>=(0.02481240787718691,0)
+<CupCdn(15)CdagdnCdagup(25)>=(0.02615677295811226,0)
+<CupCdn(15)CdagdnCdagup(26)>=(0.0189809339783844,0)
+<CupCdn(15)CdagdnCdagup(27)>=(0.02170357573215098,0)
+<CupCdn(15)CdagdnCdagup(28)>=(0.01765199543134216,0)
+<CupCdn(15)CdagdnCdagup(29)>=(0.01606379884481888,0)
+<CupCdn(15)CdagdnCdagup(30)>=(0.01748964329534662,0)
+<CupCdn(15)CdagdnCdagup(31)>=(0.01227865107585458,0)
+<CupCdn(15)CdagdnCdagup(32)>=(0.01528828512960008,0)
+<CupCdn(15)CdagdnCdagup(33)>=(0.01158541109411882,0)
+<CupCdn(15)CdagdnCdagup(34)>=(0.01107000817857095,0)
+<CupCdn(15)CdagdnCdagup(35)>=(0.01207077927440354,0)
+<CupCdn(15)CdagdnCdagup(36)>=(0.007459017209948719,0)
+<CupCdn(15)CdagdnCdagup(37)>=(0.01065702189000533,0)
+<CupCdn(15)CdagdnCdagup(38)>=(0.006079122998252078,0)
+<CupCdn(15)CdagdnCdagup(39)>=(0.006282408655548502,0)
+<CupCdn(15)CdagdnCdagup(40)>=(0.005937342408224017,0)
+<CupCdn(16)CdagdnCdagup(17)>=(0.2988649612636129,0)
+<CupCdn(16)CdagdnCdagup(18)>=(0.1242763353302012,0)
+<CupCdn(16)CdagdnCdagup(19)>=(0.08343157268528584,0)
+<CupCdn(16)CdagdnCdagup(20)>=(0.08084690650865571,0)
+<CupCdn(16)CdagdnCdagup(21)>=(0.04874809557067741,0)
+<CupCdn(16)CdagdnCdagup(22)>=(0.05430230663953784,0)
+<CupCdn(16)CdagdnCdagup(23)>=(0.04139890575425292,0)
+<CupCdn(16)CdagdnCdagup(24)>=(0.03540651607957129,0)
+<CupCdn(16)CdagdnCdagup(25)>=(0.03793327044288385,0)
+<CupCdn(16)CdagdnCdagup(26)>=(0.02616386250957491,0)
+<CupCdn(16)CdagdnCdagup(27)>=(0.03100846656357564,0)
+<CupCdn(16)CdagdnCdagup(28)>=(0.02444494039302452,0)
+<CupCdn(16)CdagdnCdagup(29)>=(0.02238360337615023,0)
+<CupCdn(16)CdagdnCdagup(30)>=(0.0243898820039665,0)
+<CupCdn(16)CdagdnCdagup(31)>=(0.01682889012085515,0)
+<CupCdn(16)CdagdnCdagup(32)>=(0.02125450754298315,0)
+<CupCdn(16)CdagdnCdagup(33)>=(0.01587148189095689,0)
+<CupCdn(16)CdagdnCdagup(34)>=(0.01526686008367342,0)
+<CupCdn(16)CdagdnCdagup(35)>=(0.01659001546069214,0)
+<CupCdn(16)CdagdnCdagup(36)>=(0.01022269780663945,0)
+<CupCdn(16)CdagdnCdagup(37)>=(0.0146528745935019,0)
+<CupCdn(16)CdagdnCdagup(38)>=(0.00832114203333241,0)
+<CupCdn(16)CdagdnCdagup(39)>=(0.008628221601369754,0)
+<CupCdn(16)CdagdnCdagup(40)>=(0.008133709927782269,0)
+<CupCdn(17)CdagdnCdagup(18)>=(0.2505219893236074,0)
+<CupCdn(17)CdagdnCdagup(19)>=(0.09750840663801448,0)
+<CupCdn(17)CdagdnCdagup(20)>=(0.0848122931464691,0)
+<CupCdn(17)CdagdnCdagup(21)>=(0.05500592636177663,0)
+<CupCdn(17)CdagdnCdagup(22)>=(0.04981655033878696,0)
+<CupCdn(17)CdagdnCdagup(23)>=(0.04232783004005174,0)
+<CupCdn(17)CdagdnCdagup(24)>=(0.03254250797497842,0)
+<CupCdn(17)CdagdnCdagup(25)>=(0.03538260841594005,0)
+<CupCdn(17)CdagdnCdagup(26)>=(0.02479518593343071,0)
+<CupCdn(17)CdagdnCdagup(27)>=(0.02756060722533026,0)
+<CupCdn(17)CdagdnCdagup(28)>=(0.02295004254510234,0)
+<CupCdn(17)CdagdnCdagup(29)>=(0.01980498276405659,0)
+<CupCdn(17)CdagdnCdagup(30)>=(0.02210837421818771,0)
+<CupCdn(17)CdagdnCdagup(31)>=(0.01520434146073057,0)
+<CupCdn(17)CdagdnCdagup(32)>=(0.01874946967506164,0)
+<CupCdn(17)CdagdnCdagup(33)>=(0.01443340858235056,0)
+<CupCdn(17)CdagdnCdagup(34)>=(0.01336269793812846,0)
+<CupCdn(17)CdagdnCdagup(35)>=(0.0148535457699991,0)
+<CupCdn(17)CdagdnCdagup(36)>=(0.009046140706008884,0)
+<CupCdn(17)CdagdnCdagup(37)>=(0.01290970633401936,0)
+<CupCdn(17)CdagdnCdagup(38)>=(0.007430841972696656,0)
+<CupCdn(17)CdagdnCdagup(39)>=(0.007557524276449129,0)
+<CupCdn(17)CdagdnCdagup(40)>=(0.007222950040130115,0)
+<CupCdn(18)CdagdnCdagup(19)>=(0.2439665348130226,0)
+<CupCdn(18)CdagdnCdagup(20)>=(0.1226924174511802,0)
+<CupCdn(18)CdagdnCdagup(21)>=(0.06971152254038322,0)
+<CupCdn(18)CdagdnCdagup(22)>=(0.07048079695804593,0)
+<CupCdn(18)CdagdnCdagup(23)>=(0.04793687792435046,0)
+<CupCdn(18)CdagdnCdagup(24)>=(0.04237760122758703,0)
+<CupCdn(18)CdagdnCdagup(25)>=(0.04141419958722135,0)
+<CupCdn(18)CdagdnCdagup(26)>=(0.02888294250603042,0)
+<CupCdn(18)CdagdnCdagup(27)>=(0.03337792144722352,0)
+<CupCdn(18)CdagdnCdagup(28)>=(0.02546372050241372,0)
+<CupCdn(18)CdagdnCdagup(29)>=(0.02377695976061252,0)
+<CupCdn(18)CdagdnCdagup(30)>=(0.02495041596842078,0)
+<CupCdn(18)CdagdnCdagup(31)>=(0.01738181580272215,0)
+<CupCdn(18)CdagdnCdagup(32)>=(0.02171910166424122,0)
+<CupCdn(18)CdagdnCdagup(33)>=(0.01597126984854691,0)
+<CupCdn(18)CdagdnCdagup(34)>=(0.01556307661014348,0)
+<CupCdn(18)CdagdnCdagup(35)>=(0.01658527947943637,0)
+<CupCdn(18)CdagdnCdagup(36)>=(0.01029758700646931,0)
+<CupCdn(18)CdagdnCdagup(37)>=(0.01468360299255453,0)
+<CupCdn(18)CdagdnCdagup(38)>=(0.008281933411283993,0)
+<CupCdn(18)CdagdnCdagup(39)>=(0.008654282260184628,0)
+<CupCdn(18)CdagdnCdagup(40)>=(0.008092314350622002,0)
+<CupCdn(19)CdagdnCdagup(20)>=(0.3022541145495643,0)
+<CupCdn(19)CdagdnCdagup(21)>=(0.1075334189949272,0)
+<CupCdn(19)CdagdnCdagup(22)>=(0.09327743825822808,0)
+<CupCdn(19)CdagdnCdagup(23)>=(0.07041710334395389,0)
+<CupCdn(19)CdagdnCdagup(24)>=(0.04982017208165989,0)
+<CupCdn(19)CdagdnCdagup(25)>=(0.05426960863412706,0)
+<CupCdn(19)CdagdnCdagup(26)>=(0.03526076398730802,0)
+<CupCdn(19)CdagdnCdagup(27)>=(0.03971829886837031,0)
+<CupCdn(19)CdagdnCdagup(28)>=(0.03194859678447334,0)
+<CupCdn(19)CdagdnCdagup(29)>=(0.02721886405377897,0)
+<CupCdn(19)CdagdnCdagup(30)>=(0.03031398170043362,0)
+<CupCdn(19)CdagdnCdagup(31)>=(0.02035025062179403,0)
+<CupCdn(19)CdagdnCdagup(32)>=(0.02525733958089326,0)
+<CupCdn(19)CdagdnCdagup(33)>=(0.01915493091813541,0)
+<CupCdn(19)CdagdnCdagup(34)>=(0.01770860555056418,0)
+<CupCdn(19)CdagdnCdagup(35)>=(0.01961566646148142,0)
+<CupCdn(19)CdagdnCdagup(36)>=(0.01187285267200792,0)
+<CupCdn(19)CdagdnCdagup(37)>=(0.01695730688738383,0)
+<CupCdn(19)CdagdnCdagup(38)>=(0.009723453421892327,0)
+<CupCdn(19)CdagdnCdagup(39)>=(0.009889033749476349,0)
+<CupCdn(19)CdagdnCdagup(40)>=(0.009438490528514192,0)
+<CupCdn(20)CdagdnCdagup(21)>=(0.2130554947353407,0)
+<CupCdn(20)CdagdnCdagup(22)>=(0.107596694191945,0)
+<CupCdn(20)CdagdnCdagup(23)>=(0.06967801152780104,0)
+<CupCdn(20)CdagdnCdagup(24)>=(0.05504835226402401,0)
+<CupCdn(20)CdagdnCdagup(25)>=(0.0487438460824924,0)
+<CupCdn(20)CdagdnCdagup(26)>=(0.03467992955237367,0)
+<CupCdn(20)CdagdnCdagup(27)>=(0.03645503437264947,0)
+<CupCdn(20)CdagdnCdagup(28)>=(0.02843726627924322,0)
+<CupCdn(20)CdagdnCdagup(29)>=(0.02538027377214142,0)
+<CupCdn(20)CdagdnCdagup(30)>=(0.02637306178559036,0)
+<CupCdn(20)CdagdnCdagup(31)>=(0.01840510380187474,0)
+<CupCdn(20)CdagdnCdagup(32)>=(0.02229053583610437,0)
+<CupCdn(20)CdagdnCdagup(33)>=(0.01664076859826724,0)
+<CupCdn(20)CdagdnCdagup(34)>=(0.01579778321156106,0)
+<CupCdn(20)CdagdnCdagup(35)>=(0.01692617272090872,0)
+<CupCdn(20)CdagdnCdagup(36)>=(0.01044953000918814,0)
+<CupCdn(20)CdagdnCdagup(37)>=(0.01477896174360537,0)
+<CupCdn(20)CdagdnCdagup(38)>=(0.008394408480956857,0)
+<CupCdn(20)CdagdnCdagup(39)>=(0.008666291605919519,0)
+<CupCdn(20)CdagdnCdagup(40)>=(0.008155304056035879,0)
+<CupCdn(21)CdagdnCdagup(22)>=(0.3023831344482526,0)
+<CupCdn(21)CdagdnCdagup(23)>=(0.1226532758836537,0)
+<CupCdn(21)CdagdnCdagup(24)>=(0.08486871636139813,0)
+<CupCdn(21)CdagdnCdagup(25)>=(0.08084373300560893,0)
+<CupCdn(21)CdagdnCdagup(26)>=(0.04830878457437177,0)
+<CupCdn(21)CdagdnCdagup(27)>=(0.05530167970611738,0)
+<CupCdn(21)CdagdnCdagup(28)>=(0.0405177106386624,0)
+<CupCdn(21)CdagdnCdagup(29)>=(0.03572687361199991,0)
+<CupCdn(21)CdagdnCdagup(30)>=(0.03785402453360617,0)
+<CupCdn(21)CdagdnCdagup(31)>=(0.025165115876702,0)
+<CupCdn(21)CdagdnCdagup(32)>=(0.03139582619746138,0)
+<CupCdn(21)CdagdnCdagup(33)>=(0.02291156240555395,0)
+<CupCdn(21)CdagdnCdagup(34)>=(0.02174210650865222,0)
+<CupCdn(21)CdagdnCdagup(35)>=(0.02338544232203893,0)
+<CupCdn(21)CdagdnCdagup(36)>=(0.01424345601238752,0)
+<CupCdn(21)CdagdnCdagup(37)>=(0.02030110871391577,0)
+<CupCdn(21)CdagdnCdagup(38)>=(0.01147206391635552,0)
+<CupCdn(21)CdagdnCdagup(39)>=(0.01183916228140541,0)
+<CupCdn(21)CdagdnCdagup(40)>=(0.01114482174746401,0)
+<CupCdn(22)CdagdnCdagup(23)>=(0.2437531979135288,0)
+<CupCdn(22)CdagdnCdagup(24)>=(0.09751632352364541,0)
+<CupCdn(22)CdagdnCdagup(25)>=(0.08337191565188129,0)
+<CupCdn(22)CdagdnCdagup(26)>=(0.05341699899388357,0)
+<CupCdn(22)CdagdnCdagup(27)>=(0.0500425713302388,0)
+<CupCdn(22)CdagdnCdagup(28)>=(0.04060164643443177,0)
+<CupCdn(22)CdagdnCdagup(29)>=(0.03228054134962199,0)
+<CupCdn(22)CdagdnCdagup(30)>=(0.03473867296379809,0)
+<CupCdn(22)CdagdnCdagup(31)>=(0.02332291820472546,0)
+<CupCdn(22)CdagdnCdagup(32)>=(0.02756190907193931,0)
+<CupCdn(22)CdagdnCdagup(33)>=(0.02106961060985259,0)
+<CupCdn(22)CdagdnCdagup(34)>=(0.01894906433422771,0)
+<CupCdn(22)CdagdnCdagup(35)>=(0.0208773068665686,0)
+<CupCdn(22)CdagdnCdagup(36)>=(0.01258602517056137,0)
+<CupCdn(22)CdagdnCdagup(37)>=(0.01772979784806078,0)
+<CupCdn(22)CdagdnCdagup(38)>=(0.01020695622479812,0)
+<CupCdn(22)CdagdnCdagup(39)>=(0.01026922596327396,0)
+<CupCdn(22)CdagdnCdagup(40)>=(0.009829651450847287,0)
+<CupCdn(23)CdagdnCdagup(24)>=(0.2507430734425812,0)
+<CupCdn(23)CdagdnCdagup(25)>=(0.1243132516942729,0)
+<CupCdn(23)CdagdnCdagup(26)>=(0.07032206159798543,0)
+<CupCdn(23)CdagdnCdagup(27)>=(0.07287923149840075,0)
+<CupCdn(23)CdagdnCdagup(28)>=(0.04766621385620325,0)
+<CupCdn(23)CdagdnCdagup(29)>=(0.04354462957780263,0)
+<CupCdn(23)CdagdnCdagup(30)>=(0.04204002700313253,0)
+<CupCdn(23)CdagdnCdagup(31)>=(0.02833616547229311,0)
+<CupCdn(23)CdagdnCdagup(32)>=(0.03446237316581651,0)
+<CupCdn(23)CdagdnCdagup(33)>=(0.02434175330641198,0)
+<CupCdn(23)CdagdnCdagup(34)>=(0.02360910173928321,0)
+<CupCdn(23)CdagdnCdagup(35)>=(0.02446281882056658,0)
+<CupCdn(23)CdagdnCdagup(36)>=(0.01508074913955754,0)
+<CupCdn(23)CdagdnCdagup(37)>=(0.02127395608516463,0)
+<CupCdn(23)CdagdnCdagup(38)>=(0.01187063752190782,0)
+<CupCdn(23)CdagdnCdagup(39)>=(0.012408854528907,0)
+<CupCdn(23)CdagdnCdagup(40)>=(0.01151332903089464,0)
+<CupCdn(24)CdagdnCdagup(25)>=(0.2987054623437799,0)
+<CupCdn(24)CdagdnCdagup(26)>=(0.1049206601697282,0)
+<CupCdn(24)CdagdnCdagup(27)>=(0.09371367855747006,0)
+<CupCdn(24)CdagdnCdagup(28)>=(0.06799035683735973,0)
+<CupCdn(24)CdagdnCdagup(29)>=(0.049511102339373,0)
+<CupCdn(24)CdagdnCdagup(30)>=(0.05349103832954874,0)
+<CupCdn(24)CdagdnCdagup(31)>=(0.03338370107012935,0)
+<CupCdn(24)CdagdnCdagup(32)>=(0.03981549393967694,0)
+<CupCdn(24)CdagdnCdagup(33)>=(0.02959917367707659,0)
+<CupCdn(24)CdagdnCdagup(34)>=(0.02618582348950816,0)
+<CupCdn(24)CdagdnCdagup(35)>=(0.02885452958405753,0)
+<CupCdn(24)CdagdnCdagup(36)>=(0.01705731197897043,0)
+<CupCdn(24)CdagdnCdagup(37)>=(0.0240811257735248,0)
+<CupCdn(24)CdagdnCdagup(38)>=(0.01378230020322759,0)
+<CupCdn(24)CdagdnCdagup(39)>=(0.01379403159068855,0)
+<CupCdn(24)CdagdnCdagup(40)>=(0.01321308039281101,0)
+<CupCdn(25)CdagdnCdagup(26)>=(0.2114061388051308,0)
+<CupCdn(25)CdagdnCdagup(27)>=(0.1099329366915478,0)
+<CupCdn(25)CdagdnCdagup(28)>=(0.06807211801665275,0)
+<CupCdn(25)CdagdnCdagup(29)>=(0.0558191591219796,0)
+<CupCdn(25)CdagdnCdagup(30)>=(0.04888531836962879,0)
+<CupCdn(25)CdagdnCdagup(31)>=(0.03347961858390031,0)
+<CupCdn(25)CdagdnCdagup(32)>=(0.03736664411187029,0)
+<CupCdn(25)CdagdnCdagup(33)>=(0.02679857819084382,0)
+<CupCdn(25)CdagdnCdagup(34)>=(0.02500538703878328,0)
+<CupCdn(25)CdagdnCdagup(35)>=(0.02568254454940321,0)
+<CupCdn(25)CdagdnCdagup(36)>=(0.01579568288063774,0)
+<CupCdn(25)CdagdnCdagup(37)>=(0.02183360784734361,0)
+<CupCdn(25)CdagdnCdagup(38)>=(0.01227577181649062,0)
+<CupCdn(25)CdagdnCdagup(39)>=(0.01263700421432394,0)
+<CupCdn(25)CdagdnCdagup(40)>=(0.01178021881144619,0)
+<CupCdn(26)CdagdnCdagup(27)>=(0.3088185988931425,0)
+<CupCdn(26)CdagdnCdagup(28)>=(0.1214287068026754,0)
+<CupCdn(26)CdagdnCdagup(29)>=(0.08656880099621481,0)
+<CupCdn(26)CdagdnCdagup(30)>=(0.08155688073845971,0)
+<CupCdn(26)CdagdnCdagup(31)>=(0.04722390125571795,0)
+<CupCdn(26)CdagdnCdagup(32)>=(0.05679282281575453,0)
+<CupCdn(26)CdagdnCdagup(33)>=(0.03876621200567835,0)
+<CupCdn(26)CdagdnCdagup(34)>=(0.03545442278203825,0)
+<CupCdn(26)CdagdnCdagup(35)>=(0.03717966862508395,0)
+<CupCdn(26)CdagdnCdagup(36)>=(0.02195985651499695,0)
+<CupCdn(26)CdagdnCdagup(37)>=(0.0309235150097692,0)
+<CupCdn(26)CdagdnCdagup(38)>=(0.01724360054160227,0)
+<CupCdn(26)CdagdnCdagup(39)>=(0.01760069155777811,0)
+<CupCdn(26)CdagdnCdagup(40)>=(0.01650730721045598,0)
+<CupCdn(27)CdagdnCdagup(28)>=(0.2351159223774919,0)
+<CupCdn(27)CdagdnCdagup(29)>=(0.09654958438501957,0)
+<CupCdn(27)CdagdnCdagup(30)>=(0.0819062962486992,0)
+<CupCdn(27)CdagdnCdagup(31)>=(0.05041629407844973,0)
+<CupCdn(27)CdagdnCdagup(32)>=(0.05030971940341501,0)
+<CupCdn(27)CdagdnCdagup(33)>=(0.03757371687362065,0)
+<CupCdn(27)CdagdnCdagup(34)>=(0.03118405308230278,0)
+<CupCdn(27)CdagdnCdagup(35)>=(0.03331489757908799,0)
+<CupCdn(27)CdagdnCdagup(36)>=(0.01962757933470911,0)
+<CupCdn(27)CdagdnCdagup(37)>=(0.02672069037777289,0)
+<CupCdn(27)CdagdnCdagup(38)>=(0.0153366773761166,0)
+<CupCdn(27)CdagdnCdagup(39)>=(0.01509089855923373,0)
+<CupCdn(27)CdagdnCdagup(40)>=(0.01444193366960068,0)
+<CupCdn(28)CdagdnCdagup(29)>=(0.2574293646871915,0)
+<CupCdn(28)CdagdnCdagup(30)>=(0.1268816267957347,0)
+<CupCdn(28)CdagdnCdagup(31)>=(0.06983111954516839,0)
+<CupCdn(28)CdagdnCdagup(32)>=(0.07599146358064973,0)
+<CupCdn(28)CdagdnCdagup(33)>=(0.04640569942484537,0)
+<CupCdn(28)CdagdnCdagup(34)>=(0.04409743674572896,0)
+<CupCdn(28)CdagdnCdagup(35)>=(0.04224524572573576,0)
+<CupCdn(28)CdagdnCdagup(36)>=(0.02539806288203792,0)
+<CupCdn(28)CdagdnCdagup(37)>=(0.03491337355289475,0)
+<CupCdn(28)CdagdnCdagup(38)>=(0.01894481709571925,0)
+<CupCdn(28)CdagdnCdagup(39)>=(0.01976366547122904,0)
+<CupCdn(28)CdagdnCdagup(40)>=(0.01802281571342236,0)
+<CupCdn(29)CdagdnCdagup(30)>=(0.2973858535839898,0)
+<CupCdn(29)CdagdnCdagup(31)>=(0.1010223561987183,0)
+<CupCdn(29)CdagdnCdagup(32)>=(0.09535001394151449,0)
+<CupCdn(29)CdagdnCdagup(33)>=(0.06442545902004002,0)
+<CupCdn(29)CdagdnCdagup(34)>=(0.04873893571727553,0)
+<CupCdn(29)CdagdnCdagup(35)>=(0.0523817075664353,0)
+<CupCdn(29)CdagdnCdagup(36)>=(0.02895953462210343,0)
+<CupCdn(29)CdagdnCdagup(37)>=(0.03952071672847257,0)
+<CupCdn(29)CdagdnCdagup(38)>=(0.02238739178495899,0)
+<CupCdn(29)CdagdnCdagup(39)>=(0.02158067447134982,0)
+<CupCdn(29)CdagdnCdagup(40)>=(0.02076132926469555,0)
+<CupCdn(30)CdagdnCdagup(31)>=(0.2052077106923586,0)
+<CupCdn(30)CdagdnCdagup(32)>=(0.1127757257898693,0)
+<CupCdn(30)CdagdnCdagup(33)>=(0.06455415261920158,0)
+<CupCdn(30)CdagdnCdagup(34)>=(0.055619288875554,0)
+<CupCdn(30)CdagdnCdagup(35)>=(0.04853380946072863,0)
+<CupCdn(30)CdagdnCdagup(36)>=(0.02944039863136543,0)
+<CupCdn(30)CdagdnCdagup(37)>=(0.03786907962935691,0)
+<CupCdn(30)CdagdnCdagup(38)>=(0.02063517310563785,0)
+<CupCdn(30)CdagdnCdagup(39)>=(0.02105176798553508,0)
+<CupCdn(30)CdagdnCdagup(40)>=(0.01911583055360617,0)
+<CupCdn(31)CdagdnCdagup(32)>=(0.321176954981309,0)
+<CupCdn(31)CdagdnCdagup(33)>=(0.1199296518475114,0)
+<CupCdn(31)CdagdnCdagup(34)>=(0.088861858995278,0)
+<CupCdn(31)CdagdnCdagup(35)>=(0.08312040761969547,0)
+<CupCdn(31)CdagdnCdagup(36)>=(0.04348958368441935,0)
+<CupCdn(31)CdagdnCdagup(37)>=(0.05897260286464702,0)
+<CupCdn(31)CdagdnCdagup(38)>=(0.0314198093590136,0)
+<CupCdn(31)CdagdnCdagup(39)>=(0.03105266500160941,0)
+<CupCdn(31)CdagdnCdagup(40)>=(0.02876787421163361,0)
+<CupCdn(32)CdagdnCdagup(33)>=(0.2207587201293306,0)
+<CupCdn(32)CdagdnCdagup(34)>=(0.09381845792614327,0)
+<CupCdn(32)CdagdnCdagup(35)>=(0.07984906275797266,0)
+<CupCdn(32)CdagdnCdagup(36)>=(0.04340186606041799,0)
+<CupCdn(32)CdagdnCdagup(37)>=(0.05062396971644299,0)
+<CupCdn(32)CdagdnCdagup(38)>=(0.02865624666391983,0)
+<CupCdn(32)CdagdnCdagup(39)>=(0.02635656201477916,0)
+<CupCdn(32)CdagdnCdagup(40)>=(0.02499282768480607,0)
+<CupCdn(33)CdagdnCdagup(34)>=(0.2663118925623925,0)
+<CupCdn(33)CdagdnCdagup(35)>=(0.1317613681574074,0)
+<CupCdn(33)CdagdnCdagup(36)>=(0.06613652129397855,0)
+<CupCdn(33)CdagdnCdagup(37)>=(0.08132304212579833,0)
+<CupCdn(33)CdagdnCdagup(38)>=(0.03935585660265015,0)
+<CupCdn(33)CdagdnCdagup(39)>=(0.04049887759535739,0)
+<CupCdn(33)CdagdnCdagup(40)>=(0.03495744236928887,0)
+<CupCdn(34)CdagdnCdagup(35)>=(0.2992715504706278,0)
+<CupCdn(34)CdagdnCdagup(36)>=(0.09215785137611632,0)
+<CupCdn(34)CdagdnCdagup(37)>=(0.1000254035277594,0)
+<CupCdn(34)CdagdnCdagup(38)>=(0.05300582445135389,0)
+<CupCdn(34)CdagdnCdagup(39)>=(0.04415214281241519,0)
+<CupCdn(34)CdagdnCdagup(40)>=(0.04253113486511888,0)
+<CupCdn(35)CdagdnCdagup(36)>=(0.1870584017284291,0)
+<CupCdn(35)CdagdnCdagup(37)>=(0.1185531813998835,0)
+<CupCdn(35)CdagdnCdagup(38)>=(0.05276477429585021,0)
+<CupCdn(35)CdagdnCdagup(39)>=(0.05114400392852852,0)
+<CupCdn(35)CdagdnCdagup(40)>=(0.0411182854762628,0)
+<CupCdn(36)CdagdnCdagup(37)>=(0.3539280535828794,0)
+<CupCdn(36)CdagdnCdagup(38)>=(0.1115381968508322,0)
+<CupCdn(36)CdagdnCdagup(39)>=(0.09017015241966136,0)
+<CupCdn(36)CdagdnCdagup(40)>=(0.07705132851680437,0)
+<CupCdn(37)CdagdnCdagup(38)>=(0.1793896785407202,0)
+<CupCdn(37)CdagdnCdagup(39)>=(0.08453078740914619,0)
+<CupCdn(37)CdagdnCdagup(40)>=(0.0690692796098058,0)
+<CupCdn(38)CdagdnCdagup(39)>=(0.2886044564473549,0)
+<CupCdn(38)CdagdnCdagup(40)>=(0.1388137539901323,0)
+<CupCdn(39)CdagdnCdagup(40)>=(0.3057387150405807,0)
+Потом айтензор
+i=0 j=0 0.8007213465099079
+i=0 j=1 0.3058336303960442
+i=0 j=2 0.1391955974184004
+i=0 j=3 0.06943685439682667
+i=0 j=4 0.07717976138601772
+i=0 j=5 0.04129002669092276
+i=0 j=6 0.04265362925963859
+i=0 j=7 0.03503223161461499
+i=0 j=8 0.02509924837243912
+i=0 j=9 0.02882108508457689
+i=0 j=10 0.01918404652428464
+i=0 j=11 0.0208216655657735
+i=0 j=12 0.01806102273145207
+i=0 j=13 0.01449710036593707
+i=0 j=14 0.01653596304311185
+i=0 j=15 0.011819305866443
+i=0 j=16 0.01324700390035875
+i=0 j=17 0.01153586207193457
+i=0 j=18 0.009867509605460411
+i=0 j=19 0.01116464477173377
+i=0 j=20 0.008184113870050658
+i=0 j=21 0.009462750216123484
+i=0 j=22 0.00810795113374181
+i=0 j=23 0.007251038874445863
+i=0 j=24 0.008147377475552076
+i=0 j=25 0.005959558788972402
+i=0 j=26 0.007157349967857502
+i=0 j=27 0.005908069445436125
+i=0 j=28 0.005486885296507593
+i=0 j=29 0.006118397598583297
+i=0 j=30 0.004316283813597178
+i=0 j=31 0.005489584972172746
+i=0 j=32 0.004181012515014892
+i=0 j=33 0.004038867303981519
+i=0 j=34 0.004435060295918261
+i=0 j=35 0.002754419186809015
+i=0 j=36 0.003954006907503295
+i=0 j=37 0.002262703116505612
+i=0 j=38 0.002343878484731514
+i=0 j=39 0.002210631180459595
+i=1 j=0 0.3058336303960442
+i=1 j=1 0.348997252567101
+i=1 j=2 0.2885068821232033
+i=1 j=3 0.08541125220031931
+i=1 j=4 0.09060252610790541
+i=1 j=5 0.05142628703841705
+i=1 j=6 0.04443100598057078
+i=1 j=7 0.04065789848823569
+i=1 j=8 0.0265381377029027
+i=1 j=9 0.03118467341971031
+i=1 j=10 0.02116519991387008
+i=1 j=11 0.02169949391115991
+i=1 j=12 0.01984403352211164
+i=1 j=13 0.01518530465262999
+i=1 j=14 0.01767253066592444
+i=1 j=15 0.01270335305542917
+i=1 j=16 0.0138629326292148
+i=1 j=17 0.01245623766643563
+i=1 j=18 0.01032964692123334
+i=1 j=19 0.01188456619097106
+i=1 j=20 0.00871137518815897
+i=1 j=21 0.009934937001315222
+i=1 j=22 0.008684860067277374
+i=1 j=23 0.007599380491941522
+i=1 j=24 0.008657417105288974
+i=1 j=25 0.006313768829141422
+i=1 j=26 0.007531657061438072
+i=1 j=27 0.006298470676106641
+i=1 j=28 0.0057584581162628
+i=1 j=29 0.006492932391735005
+i=1 j=30 0.004560757325761867
+i=1 j=31 0.005785786669729748
+i=1 j=32 0.004442101595893611
+i=1 j=33 0.004245137318129288
+i=1 j=34 0.004700119595915349
+i=1 j=35 0.002905829035295727
+i=1 j=36 0.004171847932272491
+i=1 j=37 0.002396586205655567
+i=1 j=38 0.002468621128116963
+i=1 j=39 0.002338509907961324
+i=2 j=0 0.1391955974184004
+i=2 j=1 0.2885068821232033
+i=2 j=2 0.720996897610986
+i=2 j=3 0.1794689655712703
+i=2 j=4 0.1124029684282322
+i=2 j=5 0.05327032065955737
+i=2 j=6 0.05337459400029139
+i=2 j=7 0.0396433344101
+i=2 j=8 0.02889662630924841
+i=2 j=9 0.03162291808222906
+i=2 j=10 0.02080466296597265
+i=2 j=11 0.02254822066285486
+i=2 j=12 0.01907308716023106
+i=2 j=13 0.01546219996548637
+i=2 j=14 0.01735209748626341
+i=2 j=15 0.01237245792568651
+i=2 j=16 0.01387810987574661
+i=2 j=17 0.01194913813828019
+i=2 j=18 0.01029100806981659
+i=2 j=19 0.01154422018722742
+i=2 j=20 0.008462255841692062
+i=2 j=21 0.009791172952302857
+i=2 j=22 0.008336454041052646
+i=2 j=23 0.007492767149874794
+i=2 j=24 0.008373071617165485
+i=2 j=25 0.006130026592863408
+i=2 j=26 0.007364274638200674
+i=2 j=27 0.006055915974273321
+i=2 j=28 0.00564492727839463
+i=2 j=29 0.006271204091964229
+i=2 j=30 0.004429356609445854
+i=2 j=31 0.005633134556653077
+i=2 j=32 0.004280820423538759
+i=2 j=33 0.004145991912000409
+i=2 j=34 0.004541494939633915
+i=2 j=35 0.002823896104254023
+i=2 j=36 0.00405260233967361
+i=2 j=37 0.002316711697865311
+i=2 j=38 0.002403202253878382
+i=2 j=39 0.002263863527945118
+i=3 j=0 0.06943685439682667
+i=3 j=1 0.08541125220031931
+i=3 j=2 0.1794689655712703
+i=3 j=3 0.4961162612689411
+i=3 j=4 0.3539229211319235
+i=3 j=5 0.1193519950362244
+i=3 j=6 0.1005314881422011
+i=3 j=7 0.08158403596219249
+i=3 j=8 0.05093660926643192
+i=3 j=9 0.05915756649750392
+i=3 j=10 0.03805132002163879
+i=3 j=11 0.03969153813740059
+i=3 j=12 0.03502363101683408
+i=3 j=13 0.02686649211810281
+i=3 j=14 0.03102109891516717
+i=3 j=15 0.02193561846643225
+i=3 j=16 0.02417939244780947
+i=3 j=17 0.02134334303057108
+i=3 j=18 0.01782035451837607
+i=3 j=19 0.02036353793643569
+i=3 j=20 0.01484810803652878
+i=3 j=21 0.01702167684391174
+i=3 j=22 0.01472970106179954
+i=3 j=23 0.01297219332032326
+i=3 j=24 0.01469446010253454
+i=3 j=25 0.010706370965945
+i=3 j=26 0.01280217078727232
+i=3 j=27 0.01064225729910909
+i=3 j=28 0.009780081420474837
+i=3 j=29 0.01097826877472378
+i=3 j=30 0.007717798462909035
+i=3 j=31 0.00979837266382259
+i=3 j=32 0.007497453789667105
+i=3 j=33 0.007191466663196634
+i=3 j=34 0.00793684771668878
+i=3 j=35 0.004913968046673183
+i=3 j=36 0.007053886782029928
+i=3 j=37 0.004046165646135507
+i=3 j=38 0.004175989828575505
+i=3 j=39 0.003949471918224638
+i=4 j=0 0.07717976138601772
+i=4 j=1 0.09060252610790541
+i=4 j=2 0.1124029684282322
+i=4 j=3 0.3539229211319235
+i=4 j=4 0.5568107885409621
+i=4 j=5 0.1869900275837045
+i=4 j=6 0.093116322477997
+i=4 j=7 0.06662437521460958
+i=4 j=8 0.04377926535803353
+i=4 j=9 0.04380954513965522
+i=4 j=10 0.02966758238023381
+i=4 j=11 0.02919335707339488
+i=4 j=12 0.02556713731206809
+i=4 j=13 0.01979906752488751
+i=4 j=14 0.02210915056072888
+i=4 j=15 0.01592064055268206
+i=4 j=16 0.01718725746362591
+i=4 j=17 0.01518161621415129
+i=4 j=18 0.01269370540318654
+i=4 j=19 0.01433760324153743
+i=4 j=20 0.01053385864974454
+i=4 j=21 0.01196025350788863
+i=4 j=22 0.01036512806234153
+i=4 j=23 0.009121843583894377
+i=4 j=24 0.0102874959410723
+i=4 j=25 0.007519205294485499
+i=4 j=26 0.008949252427387816
+i=4 j=27 0.007447647434530379
+i=4 j=28 0.006837151996193879
+i=4 j=29 0.007662884904491977
+i=4 j=30 0.005393004511337124
+i=4 j=31 0.006832694869546849
+i=4 j=32 0.005231342305487963
+i=4 j=33 0.005013952659159763
+i=4 j=34 0.005531595238871602
+i=4 j=35 0.003425371981051905
+i=4 j=36 0.004913961511341989
+i=4 j=37 0.002819217893741134
+i=4 j=38 0.00290878758773606
+i=4 j=39 0.002751121704062556
+i=5 j=0 0.04129002669092276
+i=5 j=1 0.05142628703841705
+i=5 j=2 0.05327032065955737
+i=5 j=3 0.1193519950362244
+i=5 j=4 0.1869900275837045
+i=5 j=5 0.6432618177147115
+i=5 j=6 0.299431212631302
+i=5 j=7 0.1325428981798816
+i=5 j=8 0.08040522977517925
+i=5 j=9 0.08344243314605133
+i=5 j=10 0.04884455788426724
+i=5 j=11 0.05263139919068164
+i=5 j=12 0.04243381803542314
+i=5 j=13 0.03351742541425172
+i=5 j=14 0.03732502998296056
+i=5 j=15 0.02583051616517772
+i=5 j=16 0.02899050760154058
+i=5 j=17 0.02456931536326096
+i=5 j=18 0.0210004772202289
+i=5 j=19 0.02347625650985217
+i=5 j=20 0.01702331622948233
+i=5 j=21 0.01970436997014036
+i=5 j=22 0.01665769089353384
+i=5 j=23 0.01493986067548461
+i=5 j=24 0.01665470212204407
+i=5 j=25 0.01214356083222758
+i=5 j=26 0.01458692129236862
+i=5 j=27 0.01195571387220994
+i=5 j=28 0.01113912516203372
+i=5 j=29 0.01235506884973118
+i=5 j=30 0.008714928979940603
+i=5 j=31 0.01107970247844778
+i=5 j=32 0.008408125853247224
+i=5 j=33 0.008143414740914789
+i=5 j=34 0.008912357855271202
+i=5 j=35 0.0055404816874253
+i=5 j=36 0.007949092246251857
+i=5 j=37 0.004542360172146804
+i=5 j=38 0.004712429678331875
+i=5 j=39 0.004437889789335541
+i=6 j=0 0.04265362925963859
+i=6 j=1 0.04443100598057078
+i=6 j=2 0.05337459400029139
+i=6 j=3 0.1005314881422011
+i=6 j=4 0.093116322477997
+i=6 j=5 0.299431212631302
+i=6 j=6 0.4647386116489323
+i=6 j=7 0.2661391790669461
+i=6 j=8 0.09472372428440727
+i=6 j=9 0.0893350385578304
+i=6 j=10 0.05592951543280821
+i=6 j=11 0.0490647420317549
+i=6 j=12 0.04428559216202304
+i=6 j=13 0.03140537244093066
+i=6 j=14 0.03561851187258336
+i=6 j=15 0.02514999711944914
+i=6 j=16 0.02633866997329262
+i=6 j=17 0.02371448114558572
+i=6 j=18 0.01907735671364676
+i=6 j=19 0.02183976118769294
+i=6 j=20 0.0158937978238344
+i=6 j=21 0.01780629087171836
+i=6 j=22 0.01563445827958339
+i=6 j=23 0.01344898412163557
+i=6 j=24 0.01533438150907439
+i=6 j=25 0.01113742021424301
+i=6 j=26 0.01316735021437264
+i=6 j=27 0.0110619904012712
+i=6 j=28 0.01000111741774128
+i=6 j=29 0.01131119297445631
+i=6 j=30 0.007919349492262367
+i=6 j=31 0.01000554597350334
+i=6 j=32 0.007709811034766344
+i=6 j=33 0.0073141581798943
+i=6 j=34 0.008126358141277856
+i=6 j=35 0.005009591800876114
+i=6 j=36 0.007185594185155407
+i=6 j=37 0.004136219771340065
+i=6 j=38 0.004245129440231154
+i=6 j=39 0.004030809041845083
+i=7 j=0 0.03503223161461499
+i=7 j=1 0.04065789848823569
+i=7 j=2 0.0396433344101
+i=7 j=3 0.08158403596219249
+i=7 j=4 0.06662437521460958
+i=7 j=5 0.1325428981798816
+i=7 j=6 0.2661391790669461
+i=7 j=7 0.6626407257831644
+i=7 j=8 0.2209060683929484
+i=7 j=9 0.120814194037686
+i=7 j=10 0.06509115180325456
+i=7 j=11 0.06482404242810041
+i=7 j=12 0.04671843200803481
+i=7 j=13 0.0378482255586314
+i=7 j=14 0.03899167730987481
+i=7 j=15 0.02699973453983628
+i=7 j=16 0.02978847595499319
+i=7 j=17 0.02449436948286921
+i=7 j=18 0.0212258196601381
+i=7 j=19 0.02304117413072166
+i=7 j=20 0.01676281082036945
+i=7 j=21 0.01927207292264329
+i=7 j=22 0.01606885535025395
+i=7 j=23 0.01453837416781824
+i=7 j=24 0.0159594152471457
+i=7 j=25 0.01167340755181231
+i=7 j=26 0.01397468498155993
+i=7 j=27 0.0113667656337656
+i=7 j=28 0.01065683782494555
+i=7 j=29 0.01171185669805899
+i=7 j=30 0.008284955009857292
+i=7 j=31 0.0105126770328719
+i=7 j=32 0.007943074113599234
+i=7 j=33 0.007727626301200603
+i=7 j=34 0.008410988526304878
+i=7 j=35 0.00524162994070788
+i=7 j=36 0.007511527437008017
+i=7 j=37 0.004283533882982782
+i=7 j=38 0.004455402661682649
+i=7 j=39 0.004185551825080765
+i=8 j=0 0.02509924837243912
+i=8 j=1 0.0265381377029027
+i=8 j=2 0.02889662630924841
+i=8 j=3 0.05093660926643192
+i=8 j=4 0.04377926535803353
+i=8 j=5 0.08040522977517925
+i=8 j=6 0.09472372428440727
+i=8 j=7 0.2209060683929484
+i=8 j=8 0.5126318563025327
+i=8 j=9 0.3211314515152799
+i=8 j=10 0.1135879545177698
+i=8 j=11 0.09587291184499994
+i=8 j=12 0.07626679000967172
+i=8 j=13 0.05064002770845864
+i=8 j=14 0.05699217033907619
+i=8 j=15 0.03756638180412696
+i=8 j=16 0.04000400965770891
+i=8 j=17 0.0345922904919576
+i=8 j=18 0.02772396067357755
+i=8 j=19 0.03150302618193222
+i=8 j=20 0.02240902127220556
+i=8 j=21 0.02537045151695025
+i=8 j=22 0.02180411750157183
+i=8 j=23 0.01885527717500376
+i=8 j=24 0.02133060260224028
+i=8 j=25 0.01537410476155245
+i=8 j=26 0.01826639179244639
+i=8 j=27 0.01516380020717839
+i=8 j=28 0.0137946640217417
+i=8 j=29 0.01549658428898103
+i=8 j=30 0.01083703557950372
+i=8 j=31 0.01371279791270169
+i=8 j=32 0.01050128920599369
+i=8 j=33 0.01001137720125954
+i=8 j=34 0.01106917336694587
+i=8 j=35 0.006833244166146496
+i=8 j=36 0.009799356050488161
+i=8 j=37 0.005627076794356395
+i=8 j=38 0.005790787804283863
+i=8 j=39 0.005485332301369019
+i=9 j=0 0.02882108508457689
+i=9 j=1 0.03118467341971031
+i=9 j=2 0.03162291808222906
+i=9 j=3 0.05915756649750392
+i=9 j=4 0.04380954513965522
+i=9 j=5 0.08344243314605133
+i=9 j=6 0.0893350385578304
+i=9 j=7 0.120814194037686
+i=9 j=8 0.3211314515152799
+i=9 j=9 0.5713868298077975
+i=9 j=10 0.2051459970073633
+i=9 j=11 0.1019767901292728
+i=9 j=12 0.0703138636556216
+i=9 j=13 0.05080664171092351
+i=9 j=14 0.04754559203911719
+i=9 j=15 0.03371757010458079
+i=9 j=16 0.03363008886153777
+i=9 j=17 0.02851485961033459
+i=9 j=18 0.02351016950898438
+i=9 j=19 0.02531893269487422
+i=9 j=20 0.01854377998348353
+i=9 j=21 0.02049150628484053
+i=9 j=22 0.01749218633340103
+i=9 j=23 0.01532540195802019
+i=9 j=24 0.01693140565975404
+i=9 j=25 0.01237662175637304
+i=9 j=26 0.01454168625559706
+i=9 j=27 0.01202448034708822
+i=9 j=28 0.01101891538136518
+i=9 j=29 0.01222786140328471
+i=9 j=30 0.008612633557032017
+i=9 j=31 0.01084209801849946
+i=9 j=32 0.008278795142845614
+i=9 j=33 0.007929922593533836
+i=9 j=34 0.008710474271599107
+i=9 j=35 0.005397432455274933
+i=9 j=36 0.00772398201793277
+i=9 j=37 0.004427139153607182
+i=9 j=38 0.00456866348849995
+i=9 j=39 0.004315765044545341
+i=10 j=0 0.01918404652428464
+i=10 j=1 0.02116519991387008
+i=10 j=2 0.02080466296597265
+i=10 j=3 0.03805132002163879
+i=10 j=4 0.02966758238023381
+i=10 j=5 0.04884455788426724
+i=10 j=6 0.05592951543280821
+i=10 j=7 0.06509115180325456
+i=10 j=8 0.1135879545177698
+i=10 j=9 0.2051459970073633
+i=10 j=10 0.6149522752097089
+i=10 j=11 0.2975599452365277
+i=10 j=12 0.127683882163525
+i=10 j=13 0.0824785023081667
+i=10 j=14 0.08188955169989609
+i=10 j=15 0.04921137164118433
+i=10 j=16 0.05375297945635811
+i=10 j=17 0.04224310039499194
+i=10 j=18 0.03495635766576515
+i=10 j=19 0.03801093638537905
+i=10 j=20 0.02653747293638709
+i=10 j=21 0.03046484436425905
+i=10 j=22 0.02507075853280373
+i=10 j=23 0.02224435265605933
+i=10 j=24 0.02449110837972414
+i=10 j=25 0.01759907096856463
+i=10 j=26 0.02104775559591278
+i=10 j=27 0.01704855748159911
+i=10 j=28 0.01582078335645302
+i=10 j=29 0.017430139026947
+i=10 j=30 0.01223146594703445
+i=10 j=31 0.01550469162834595
+i=10 j=32 0.011710742558948
+i=10 j=33 0.01132575964299753
+i=10 j=34 0.01235590952115323
+i=10 j=35 0.007671608427786098
+i=10 j=36 0.01099027419718258
+i=10 j=37 0.006272606551587472
+i=10 j=38 0.006505584656208289
+i=10 j=39 0.006121654849902576
+i=11 j=0 0.0208216655657735
+i=11 j=1 0.02169949391115991
+i=11 j=2 0.02254822066285486
+i=11 j=3 0.03969153813740059
+i=11 j=4 0.02919335707339488
+i=11 j=5 0.05263139919068164
+i=11 j=6 0.0490647420317549
+i=11 j=7 0.06482404242810041
+i=11 j=8 0.09587291184499994
+i=11 j=9 0.1019767901292728
+i=11 j=10 0.2975599452365277
+i=11 j=11 0.4921265083150393
+i=11 j=12 0.2572194602735699
+i=11 j=13 0.0974586888958569
+i=11 j=14 0.08703355019132834
+i=11 j=15 0.05613635171368458
+i=11 j=16 0.04984045424959883
+i=11 j=17 0.04373587994111582
+i=11 j=18 0.03251182612801164
+i=11 j=19 0.03589510971106456
+i=11 j=20 0.02553141123417438
+i=11 j=21 0.02737562577515859
+i=11 j=22 0.02388646339766204
+i=11 j=23 0.01994142048113067
+i=11 j=24 0.0224836982651245
+i=11 j=25 0.01617008979701615
+i=11 j=26 0.01876654781856635
+i=11 j=27 0.01575336369808632
+i=11 j=28 0.01402032553266248
+i=11 j=29 0.01581104483277043
+i=11 j=30 0.01101272525028146
+i=11 j=31 0.0137931297834478
+i=11 j=32 0.01064495977761505
+i=11 j=33 0.01000430006077935
+i=11 j=34 0.0111276044792657
+i=11 j=35 0.006835754925056064
+i=11 j=36 0.009778571720850273
+i=11 j=37 0.005637654453996783
+i=11 j=38 0.005761227926716626
+i=11 j=39 0.00548114376858409
+i=12 j=0 0.01806102273145207
+i=12 j=1 0.01984403352211164
+i=12 j=2 0.01907308716023106
+i=12 j=3 0.03502363101683408
+i=12 j=4 0.02556713731206809
+i=12 j=5 0.04243381803542314
+i=12 j=6 0.04428559216202304
+i=12 j=7 0.04671843200803481
+i=12 j=8 0.07626679000967172
+i=12 j=9 0.0703138636556216
+i=12 j=10 0.127683882163525
+i=12 j=11 0.2572194602735699
+i=12 j=12 0.6469721493025596
+i=12 j=13 0.2353049318383436
+i=12 j=14 0.1223195488616501
+i=12 j=15 0.06862273867459934
+i=12 j=16 0.06839887893136264
+i=12 j=17 0.04798771522897003
+i=12 j=18 0.04088896907189463
+i=12 j=19 0.04075104842170146
+i=12 j=20 0.02864733820909515
+i=12 j=21 0.03214371822525889
+i=12 j=22 0.02562367215290041
+i=12 j=23 0.02311755172792244
+i=12 j=24 0.02458054655721399
+i=12 j=25 0.01778613719067906
+i=12 j=26 0.02106542754801033
+i=12 j=27 0.01681155638347299
+i=12 j=28 0.01576932588310992
+i=12 j=29 0.0170539040403652
+i=12 j=30 0.01203310802247261
+i=12 j=31 0.01517701939910275
+i=12 j=32 0.01137099547011348
+i=12 j=33 0.01108119208348286
+i=12 j=34 0.01196254373442308
+i=12 j=35 0.007460425624271024
+i=12 j=36 0.01065968418256915
+i=12 j=37 0.006061158552852593
+i=12 j=38 0.006314683498040967
+i=12 j=39 0.005915157162827023
+i=13 j=0 0.01449710036593707
+i=13 j=1 0.01518530465262999
+i=13 j=2 0.01546219996548637
+i=13 j=3 0.02686649211810281
+i=13 j=4 0.01979906752488751
+i=13 j=5 0.03351742541425172
+i=13 j=6 0.03140537244093066
+i=13 j=7 0.0378482255586314
+i=13 j=8 0.05064002770845864
+i=13 j=9 0.05080664171092351
+i=13 j=10 0.0824785023081667
+i=13 j=11 0.0974586888958569
+i=13 j=12 0.2353049318383436
+i=13 j=13 0.5143237952104587
+i=13 j=14 0.3087293438990599
+i=13 j=15 0.1107550372176751
+i=13 j=16 0.09423123504859644
+i=13 j=17 0.07315796616605978
+i=13 j=18 0.05037692505988126
+i=13 j=19 0.05549995966762205
+i=13 j=20 0.0366632545142188
+i=13 j=21 0.03990678375062968
+i=13 j=22 0.0335143447845456
+i=13 j=23 0.02772816507376865
+i=13 j=24 0.03111748056256044
+i=13 j=25 0.02183041345164571
+i=13 j=26 0.02556547563025767
+i=13 j=27 0.02104845261385281
+i=13 j=28 0.0187694372644648
+i=13 j=29 0.02103834209682469
+i=13 j=30 0.01453757915625817
+i=13 j=31 0.01826596547720613
+i=13 j=32 0.01396673227420515
+i=13 j=33 0.01317118734833727
+i=13 j=34 0.01457953513796569
+i=13 j=35 0.00894976362604241
+i=13 j=36 0.01280336123687576
+i=13 j=37 0.007359541435883053
+i=13 j=38 0.007536352546129483
+i=13 j=39 0.007153961812735905
+i=14 j=0 0.01653596304311185
+i=14 j=1 0.01767253066592444
+i=14 j=2 0.01735209748626341
+i=14 j=3 0.03102109891516717
+i=14 j=4 0.02210915056072888
+i=14 j=5 0.03732502998296056
+i=14 j=6 0.03561851187258336
+i=14 j=7 0.03899167730987481
+i=14 j=8 0.05699217033907619
+i=14 j=9 0.04754559203911719
+i=14 j=10 0.08188955169989609
+i=14 j=11 0.08703355019132834
+i=14 j=12 0.1223195488616501
+i=14 j=13 0.3087293438990599
+i=14 j=14 0.5811929023988582
+i=14 j=15 0.2113713992217607
+i=14 j=16 0.1058791675501753
+i=14 j=17 0.07080825492070687
+i=14 j=18 0.05381971811841849
+i=14 j=19 0.04863294784586543
+i=14 j=20 0.03492984202369977
+i=14 j=21 0.0355118037994463
+i=14 j=22 0.02906714547163555
+i=14 j=23 0.02499110543106895
+i=14 j=24 0.02632107902760785
+i=14 j=25 0.01912776427352101
+i=14 j=26 0.02183994988832111
+i=14 j=27 0.01777662710379446
+i=14 j=28 0.01617923761151841
+i=14 j=29 0.01759642215321946
+i=14 j=30 0.01237802780620208
+i=14 j=31 0.01537995765712757
+i=14 j=32 0.01167035003845532
+i=14 j=33 0.01114870000305964
+i=14 j=34 0.01214215797612336
+i=14 j=35 0.0075254182376307
+i=14 j=36 0.01071498696928483
+i=14 j=37 0.006129666208528787
+i=14 j=38 0.006323830529683839
+i=14 j=39 0.005960879751401125
+i=15 j=0 0.011819305866443
+i=15 j=1 0.01270335305542917
+i=15 j=2 0.01237245792568651
+i=15 j=3 0.02193561846643225
+i=15 j=4 0.01592064055268206
+i=15 j=5 0.02583051616517772
+i=15 j=6 0.02514999711944914
+i=15 j=7 0.02699973453983628
+i=15 j=8 0.03756638180412696
+i=15 j=9 0.03371757010458079
+i=15 j=10 0.04921137164118433
+i=15 j=11 0.05613635171368458
+i=15 j=12 0.06862273867459934
+i=15 j=13 0.1107550372176751
+i=15 j=14 0.2113713992217607
+i=15 j=15 0.6002207243199106
+i=15 j=16 0.2988649612636128
+i=15 j=17 0.1251214101641197
+i=15 j=18 0.08394716733445355
+i=15 j=19 0.08117534721274691
+i=15 j=20 0.04907791890075845
+i=15 j=21 0.05452995255264498
+i=15 j=22 0.0416200290064592
+i=15 j=23 0.03559987404722197
+i=15 j=24 0.03809147719285938
+i=15 j=25 0.02632816402540903
+i=15 j=26 0.03113839627264206
+i=15 j=27 0.02457545105590728
+i=15 j=28 0.02250245387090645
+i=15 j=29 0.024491583900077
+i=15 j=30 0.01693623149369716
+i=15 j=31 0.0213402485338267
+i=15 j=32 0.01595953256117866
+i=15 j=33 0.015346275855163
+i=15 j=34 0.01665703111233472
+i=15 j=35 0.01029484386965827
+i=15 j=36 0.01470476604954995
+i=15 j=37 0.008374976736213588
+i=15 j=38 0.00866872610174069
+i=15 j=39 0.008150768681789147
+i=16 j=0 0.01324700390035875
+i=16 j=1 0.0138629326292148
+i=16 j=2 0.01387810987574661
+i=16 j=3 0.02417939244780947
+i=16 j=4 0.01718725746362591
+i=16 j=5 0.02899050760154058
+i=16 j=6 0.02633866997329262
+i=16 j=7 0.02978847595499319
+i=16 j=8 0.04000400965770891
+i=16 j=9 0.03363008886153777
+i=16 j=10 0.05375297945635811
+i=16 j=11 0.04984045424959883
+i=16 j=12 0.06839887893136264
+i=16 j=13 0.09423123504859644
+i=16 j=14 0.1058791675501753
+i=16 j=15 0.2988649612636128
+i=16 j=16 0.5048574923644801
+i=16 j=17 0.2505219893236087
+i=16 j=18 0.09843757009580238
+i=16 j=19 0.08532738460617796
+i=16 j=20 0.05537748647214249
+i=16 j=21 0.05014952594583886
+i=16 j=22 0.04257268019826769
+i=16 j=23 0.03278004654712778
+i=16 j=24 0.03557600674603623
+i=16 j=25 0.02497390278836512
+i=16 j=26 0.02772336065687147
+i=16 j=27 0.02309157348450966
+i=16 j=28 0.01994283306198944
+i=16 j=29 0.0222269605014319
+i=16 j=30 0.01531953627602542
+i=16 j=31 0.01885274005669339
+i=16 j=32 0.01452793821518962
+i=16 j=33 0.01345289487763201
+i=16 j=34 0.01493105924914034
+i=16 j=35 0.009122122408265201
+i=16 j=36 0.01297288565857532
+i=16 j=37 0.007487429099487969
+i=16 j=38 0.007603783523394055
+i=16 j=39 0.007247095184155718
+i=17 j=0 0.01153586207193457
+i=17 j=1 0.01245623766643563
+i=17 j=2 0.01194913813828019
+i=17 j=3 0.02134334303057108
+i=17 j=4 0.01518161621415129
+i=17 j=5 0.02456931536326096
+i=17 j=6 0.02371448114558572
+i=17 j=7 0.02449436948286921
+i=17 j=8 0.0345922904919576
+i=17 j=9 0.02851485961033459
+i=17 j=10 0.04224310039499194
+i=17 j=11 0.04373587994111582
+i=17 j=12 0.04798771522897003
+i=17 j=13 0.07315796616605978
+i=17 j=14 0.07080825492070687
+i=17 j=15 0.1251214101641197
+i=17 j=16 0.2505219893236087
+i=17 j=17 0.6414998227610821
+i=17 j=18 0.2439665348130218
+i=17 j=19 0.1235425252240863
+i=17 j=20 0.07023906244133381
+i=17 j=21 0.07082712366699868
+i=17 j=22 0.04826422173793848
+i=17 j=23 0.04262237380382652
+i=17 j=24 0.0416352774020525
+i=17 j=25 0.02908372795082553
+i=17 j=26 0.0335437357256683
+i=17 j=27 0.02562634791349563
+i=17 j=28 0.02391709188551746
+i=17 j=29 0.0250788525320727
+i=17 j=30 0.01750536462120644
+i=17 j=31 0.0218239985997891
+i=17 j=32 0.01607498337876644
+i=17 j=33 0.0156546917975498
+i=17 j=34 0.01666733170762232
+i=17 j=35 0.01037805206551684
+i=17 j=36 0.01474747177597461
+i=17 j=37 0.008342922828629038
+i=17 j=38 0.008701466256405601
+i=17 j=39 0.008116139905628476
+i=18 j=0 0.009867509605460411
+i=18 j=1 0.01032964692123334
+i=18 j=2 0.01029100806981659
+i=18 j=3 0.01782035451837607
+i=18 j=4 0.01269370540318654
+i=18 j=5 0.0210004772202289
+i=18 j=6 0.01907735671364676
+i=18 j=7 0.0212258196601381
+i=18 j=8 0.02772396067357755
+i=18 j=9 0.02351016950898438
+i=18 j=10 0.03495635766576515
+i=18 j=11 0.03251182612801164
+i=18 j=12 0.04088896907189463
+i=18 j=13 0.05037692505988126
+i=18 j=14 0.05381971811841849
+i=18 j=15 0.08394716733445355
+i=18 j=16 0.09843757009580238
+i=18 j=17 0.2439665348130218
+i=18 j=18 0.5114276230137474
+i=18 j=19 0.3022541145495654
+i=18 j=20 0.1084322474660361
+i=18 j=21 0.09378440584792748
+i=18 j=22 0.07076351565301532
+i=18 j=23 0.05015315622341803
+i=18 j=24 0.05449731709563609
+i=18 j=25 0.0354938834488139
+i=18 j=26 0.03990508205091322
+i=18 j=27 0.03211616133068021
+i=18 j=28 0.02738122362963715
+i=18 j=29 0.03044345492235912
+i=18 j=30 0.0204864671767201
+i=18 j=31 0.02536851117147824
+i=18 j=32 0.01926195612675656
+i=18 j=33 0.01780952218269182
+i=18 j=34 0.01969773847061656
+i=18 j=35 0.01196070158744595
+i=18 j=36 0.01702245450399811
+i=18 j=37 0.009787679447262283
+i=18 j=38 0.009939184998925118
+i=18 j=39 0.009460349632150257
+i=19 j=0 0.01116464477173377
+i=19 j=1 0.01188456619097106
+i=19 j=2 0.01154422018722742
+i=19 j=3 0.02036353793643569
+i=19 j=4 0.01433760324153743
+i=19 j=5 0.02347625650985217
+i=19 j=6 0.02183976118769294
+i=19 j=7 0.02304117413072166
+i=19 j=8 0.03150302618193222
+i=19 j=9 0.02531893269487422
+i=19 j=10 0.03801093638537905
+i=19 j=11 0.03589510971106456
+i=19 j=12 0.04075104842170146
+i=19 j=13 0.05549995966762205
+i=19 j=14 0.04863294784586543
+i=19 j=15 0.08117534721274691
+i=19 j=16 0.08532738460617796
+i=19 j=17 0.1235425252240863
+i=19 j=18 0.3022541145495654
+i=19 j=19 0.590200018333358
+i=19 j=20 0.213055494735341
+i=19 j=21 0.1084953238119738
+i=19 j=22 0.07020557188401305
+i=19 j=23 0.05541982491943755
+i=19 j=24 0.04907364872570745
+i=19 j=25 0.03493465333243959
+i=19 j=26 0.03668599163148512
+i=19 j=27 0.02863764693238497
+i=19 j=28 0.02555715237955398
+i=19 j=29 0.0265349789553858
+i=19 j=30 0.01855020303832186
+i=19 j=31 0.02242269375489632
+i=19 j=32 0.01676155764062092
+i=19 j=33 0.01590758173750259
+i=19 j=34 0.01702527301923439
+i=19 j=35 0.01054091008494745
+i=19 j=36 0.01485784622656791
+i=19 j=37 0.008463432402646427
+i=19 j=38 0.008722301425836397
+i=19 j=39 0.00818680826651396
+i=20 j=0 0.008184113870050658
+i=20 j=1 0.00871137518815897
+i=20 j=2 0.008462255841692062
+i=20 j=3 0.01484810803652878
+i=20 j=4 0.01053385864974454
+i=20 j=5 0.01702331622948233
+i=20 j=6 0.0158937978238344
+i=20 j=7 0.01676281082036945
+i=20 j=8 0.02240902127220556
+i=20 j=9 0.01854377998348353
+i=20 j=10 0.02653747293638709
+i=20 j=11 0.02553141123417438
+i=20 j=12 0.02864733820909515
+i=20 j=13 0.0366632545142188
+i=20 j=14 0.03492984202369977
+i=20 j=15 0.04907791890075845
+i=20 j=16 0.05537748647214249
+i=20 j=17 0.07023906244133381
+i=20 j=18 0.1084322474660361
+i=20 j=19 0.213055494735341
+i=20 j=20 0.589875248400768
+i=20 j=21 0.3023831344482523
+i=20 j=22 0.1235034922348331
+i=20 j=23 0.08538377041340776
+i=20 j=24 0.08117217114519505
+i=20 j=25 0.04863998353014746
+i=20 j=26 0.05552748006023747
+i=20 j=27 0.0407395293530177
+i=20 j=28 0.03591873559872841
+i=20 j=29 0.03801022348260222
+i=20 j=30 0.02532865437226266
+i=20 j=31 0.0315212488690966
+i=20 j=32 0.02303934176048041
+i=20 j=33 0.02185544872855965
+i=20 j=34 0.02347948409204427
+i=20 j=35 0.01434439100400882
+i=20 j=36 0.02037277505402312
+i=20 j=37 0.01154625048351402
+i=20 j=38 0.01189475213393506
+i=20 j=39 0.01116808239125527
+i=21 j=0 0.009462750216123484
+i=21 j=1 0.009934937001315222
+i=21 j=2 0.009791172952302857
+i=21 j=3 0.01702167684391174
+i=21 j=4 0.01196025350788863
+i=21 j=5 0.01970436997014036
+i=21 j=6 0.01780629087171836
+i=21 j=7 0.01927207292264329
+i=21 j=8 0.02537045151695025
+i=21 j=9 0.02049150628484053
+i=21 j=10 0.03046484436425905
+i=21 j=11 0.02737562577515859
+i=21 j=12 0.03214371822525889
+i=21 j=13 0.03990678375062968
+i=21 j=14 0.0355118037994463
+i=21 j=15 0.05452995255264498
+i=21 j=16 0.05014952594583886
+i=21 j=17 0.07082712366699868
+i=21 j=18 0.09378440584792748
+i=21 j=19 0.1084953238119738
+i=21 j=20 0.3023831344482523
+i=21 j=21 0.5116494086152852
+i=21 j=22 0.24375319791353
+i=21 j=23 0.09844543478610311
+i=21 j=24 0.08388756505266338
+i=21 j=25 0.05379072042087524
+i=21 j=26 0.05037440487651507
+i=21 j=27 0.04084771365917394
+i=21 j=28 0.03251705313258492
+i=21 j=29 0.03493074697872695
+i=21 j=30 0.02350078935674872
+i=21 j=31 0.02772086679912177
+i=21 j=32 0.02120824804380137
+i=21 j=33 0.01908122837239435
+i=21 j=34 0.02098869408259643
+i=21 j=35 0.01269328951569201
+i=21 j=36 0.01781947775479073
+i=21 j=37 0.01028550750270521
+i=21 j=38 0.01033388925475964
+i=21 j=39 0.009863637959628494
+i=22 j=0 0.00810795113374181
+i=22 j=1 0.008684860067277374
+i=22 j=2 0.008336454041052646
+i=22 j=3 0.01472970106179954
+i=22 j=4 0.01036512806234153
+i=22 j=5 0.01665769089353384
+i=22 j=6 0.01563445827958339
+i=22 j=7 0.01606885535025395
+i=22 j=8 0.02180411750157183
+i=22 j=9 0.01749218633340103
+i=22 j=10 0.02507075853280373
+i=22 j=11 0.02388646339766204
+i=22 j=12 0.02562367215290041
+i=22 j=13 0.0335143447845456
+i=22 j=14 0.02906714547163555
+i=22 j=15 0.0416200290064592
+i=22 j=16 0.04257268019826769
+i=22 j=17 0.04826422173793848
+i=22 j=18 0.07076351565301532
+i=22 j=19 0.07020557188401305
+i=22 j=20 0.1235034922348331
+i=22 j=21 0.24375319791353
+i=22 j=22 0.6414812120271223
+i=22 j=23 0.2507430734425807
+i=22 j=24 0.1251581672498348
+i=22 j=25 0.07084941524405912
+i=22 j=26 0.07322120905729085
+i=22 j=27 0.04799275108797701
+i=22 j=28 0.04378664165316531
+i=22 j=29 0.04225754543956226
+i=22 j=30 0.02853521348558931
+i=22 j=31 0.03462258698876664
+i=22 j=32 0.02450021384248137
+i=22 j=33 0.02374289061013407
+i=22 j=34 0.02458196684654286
+i=22 j=35 0.0151963750257777
+i=22 j=36 0.02136338956371964
+i=22 j=37 0.01195709744591645
+i=22 j=38 0.01247438648707244
+i=22 j=39 0.0115458372873559
+i=23 j=0 0.007251038874445863
+i=23 j=1 0.007599380491941522
+i=23 j=2 0.007492767149874794
+i=23 j=3 0.01297219332032326
+i=23 j=4 0.009121843583894377
+i=23 j=5 0.01493986067548461
+i=23 j=6 0.01344898412163557
+i=23 j=7 0.01453837416781824
+i=23 j=8 0.01885527717500376
+i=23 j=9 0.01532540195802019
+i=23 j=10 0.02224435265605933
+i=23 j=11 0.01994142048113067
+i=23 j=12 0.02311755172792244
+i=23 j=13 0.02772816507376865
+i=23 j=14 0.02499110543106895
+i=23 j=15 0.03559987404722197
+i=23 j=16 0.03278004654712778
+i=23 j=17 0.04262237380382652
+i=23 j=18 0.05015315622341803
+i=23 j=19 0.05541982491943755
+i=23 j=20 0.08538377041340776
+i=23 j=21 0.09844543478610311
+i=23 j=22 0.2507430734425807
+i=23 j=23 0.5047077638596656
+i=23 j=24 0.298705462343781
+i=23 j=25 0.1058270213162177
+i=23 j=26 0.0942196348626803
+i=23 j=27 0.06833966294114306
+i=23 j=28 0.04984359104324325
+i=23 j=29 0.05371762327102516
+i=23 j=30 0.03361712269470773
+i=23 j=31 0.03999799832299902
+i=23 j=32 0.0297647935059968
+i=23 j=33 0.02634241044432204
+i=23 j=34 0.02897643278084301
+i=23 j=35 0.01718663198606353
+i=23 j=36 0.02417676782612254
+i=23 j=37 0.01387400977340579
+i=23 j=38 0.01386644630652034
+i=23 j=39 0.01324478330390904
+i=24 j=0 0.008147377475552076
+i=24 j=1 0.008657417105288974
+i=24 j=2 0.008373071617165485
+i=24 j=3 0.01469446010253454
+i=24 j=4 0.0102874959410723
+i=24 j=5 0.01665470212204407
+i=24 j=6 0.01533438150907439
+i=24 j=7 0.0159594152471457
+i=24 j=8 0.02133060260224028
+i=24 j=9 0.01693140565975404
+i=24 j=10 0.02449110837972414
+i=24 j=11 0.0224836982651245
+i=24 j=12 0.02458054655721399
+i=24 j=13 0.03111748056256044
+i=24 j=14 0.02632107902760785
+i=24 j=15 0.03809147719285938
+i=24 j=16 0.03557600674603623
+i=24 j=17 0.0416352774020525
+i=24 j=18 0.05449731709563609
+i=24 j=19 0.04907364872570745
+i=24 j=20 0.08117217114519505
+i=24 j=21 0.08388756505266338
+i=24 j=22 0.1251581672498348
+i=24 j=23 0.298705462343781
+i=24 j=24 0.6005389763835483
+i=24 j=25 0.2114061388051313
+i=24 j=26 0.1108244577517613
+i=24 j=27 0.06859986337404017
+i=24 j=28 0.05618835911174023
+i=24 j=29 0.04921200803680988
+i=24 j=30 0.03373322145592563
+i=24 j=31 0.03759246189973933
+i=24 j=32 0.02699507777976262
+i=24 j=33 0.02517593790633409
+i=24 j=34 0.02583538459177427
+i=24 j=35 0.01593185117476563
+i=24 j=36 0.02195006834068804
+i=24 j=37 0.01237684112692546
+i=24 j=38 0.01271783356145418
+i=24 j=39 0.01182558172355643
+i=25 j=0 0.005959558788972402
+i=25 j=1 0.006313768829141422
+i=25 j=2 0.006130026592863408
+i=25 j=3 0.010706370965945
+i=25 j=4 0.007519205294485499
+i=25 j=5 0.01214356083222758
+i=25 j=6 0.01113742021424301
+i=25 j=7 0.01167340755181231
+i=25 j=8 0.01537410476155245
+i=25 j=9 0.01237662175637304
+i=25 j=10 0.01759907096856463
+i=25 j=11 0.01617008979701615
+i=25 j=12 0.01778613719067906
+i=25 j=13 0.02183041345164571
+i=25 j=14 0.01912776427352101
+i=25 j=15 0.02632816402540903
+i=25 j=16 0.02497390278836512
+i=25 j=17 0.02908372795082553
+i=25 j=18 0.0354938834488139
+i=25 j=19 0.03493465333243959
+i=25 j=20 0.04863998353014746
+i=25 j=21 0.05379072042087524
+i=25 j=22 0.07084941524405912
+i=25 j=23 0.1058270213162177
+i=25 j=24 0.2114061388051313
+i=25 j=25 0.5808869749965735
+i=25 j=26 0.3088185988931432
+i=25 j=27 0.1222817632723546
+i=25 j=28 0.08708212121678073
+i=25 j=29 0.08188204771260352
+i=25 j=30 0.04755543909537066
+i=25 j=31 0.05701256818318795
+i=25 j=32 0.03898541584251202
+i=25 j=33 0.03564000405763417
+i=25 j=34 0.03732633847171275
+i=25 j=35 0.02211684348037099
+i=25 j=36 0.03103087549562461
+i=25 j=37 0.01735458375806903
+i=25 j=38 0.01768291521573036
+i=25 j=39 0.01654088287781689
+i=26 j=0 0.007157349967857502
+i=26 j=1 0.007531657061438072
+i=26 j=2 0.007364274638200674
+i=26 j=3 0.01280217078727232
+i=26 j=4 0.008949252427387816
+i=26 j=5 0.01458692129236862
+i=26 j=6 0.01316735021437264
+i=26 j=7 0.01397468498155993
+i=26 j=8 0.01826639179244639
+i=26 j=9 0.01454168625559706
+i=26 j=10 0.02104775559591278
+i=26 j=11 0.01876654781856635
+i=26 j=12 0.02106542754801033
+i=26 j=13 0.02556547563025767
+i=26 j=14 0.02183994988832111
+i=26 j=15 0.03113839627264206
+i=26 j=16 0.02772336065687147
+i=26 j=17 0.0335437357256683
+i=26 j=18 0.03990508205091322
+i=26 j=19 0.03668599163148512
+i=26 j=20 0.05552748006023747
+i=26 j=21 0.05037440487651507
+i=26 j=22 0.07322120905729085
+i=26 j=23 0.0942196348626803
+i=26 j=24 0.1108244577517613
+i=26 j=25 0.3088185988931432
+i=26 j=26 0.5146001634590491
+i=26 j=27 0.2351159223774933
+i=26 j=28 0.09748100329556675
+i=26 j=29 0.08242112925307285
+i=26 j=30 0.05079250744115375
+i=26 j=31 0.05063775802533101
+i=26 j=32 0.03781859261897513
+i=26 j=33 0.0314152861660846
+i=26 j=34 0.03349935507790385
+i=26 j=35 0.01979780355919
+i=26 j=36 0.02686342206965368
+i=26 j=37 0.01545631221644679
+i=26 j=38 0.01519014289954094
+i=26 j=39 0.01449430976922714
+i=27 j=0 0.005908069445436125
+i=27 j=1 0.006298470676106641
+i=27 j=2 0.006055915974273321
+i=27 j=3 0.01064225729910909
+i=27 j=4 0.007447647434530379
+i=27 j=5 0.01195571387220994
+i=27 j=6 0.0110619904012712
+i=27 j=7 0.0113667656337656
+i=27 j=8 0.01516380020717839
+i=27 j=9 0.01202448034708822
+i=27 j=10 0.01704855748159911
+i=27 j=11 0.01575336369808632
+i=27 j=12 0.01681155638347299
+i=27 j=13 0.02104845261385281
+i=27 j=14 0.01777662710379446
+i=27 j=15 0.02457545105590728
+i=27 j=16 0.02309157348450966
+i=27 j=17 0.02562634791349563
+i=27 j=18 0.03211616133068021
+i=27 j=19 0.02863764693238497
+i=27 j=20 0.0407395293530177
+i=27 j=21 0.04084771365917394
+i=27 j=22 0.04799275108797701
+i=27 j=23 0.06833966294114306
+i=27 j=24 0.06859986337404017
+i=27 j=25 0.1222817632723546
+i=27 j=26 0.2351159223774933
+i=27 j=27 0.6469205765616719
+i=27 j=28 0.2574293646871907
+i=27 j=29 0.1277169474004796
+i=27 j=30 0.07035843564925616
+i=27 j=31 0.07632550186339329
+i=27 j=32 0.0467284673295983
+i=27 j=33 0.04433286406242103
+i=27 j=34 0.04245165938976629
+i=27 j=35 0.02558980245005943
+i=27 j=36 0.0350544395187926
+i=27 j=37 0.01908258728528349
+i=27 j=38 0.019864032196669
+i=27 j=39 0.01807166778439207
+i=28 j=0 0.005486885296507593
+i=28 j=1 0.0057584581162628
+i=28 j=2 0.00564492727839463
+i=28 j=3 0.009780081420474837
+i=28 j=4 0.006837151996193879
+i=28 j=5 0.01113912516203372
+i=28 j=6 0.01000111741774128
+i=28 j=7 0.01065683782494555
+i=28 j=8 0.0137946640217417
+i=28 j=9 0.01101891538136518
+i=28 j=10 0.01582078335645302
+i=28 j=11 0.01402032553266248
+i=28 j=12 0.01576932588310992
+i=28 j=13 0.0187694372644648
+i=28 j=14 0.01617923761151841
+i=28 j=15 0.02250245387090645
+i=28 j=16 0.01994283306198944
+i=28 j=17 0.02391709188551746
+i=28 j=18 0.02738122362963715
+i=28 j=19 0.02555715237955398
+i=28 j=20 0.03591873559872841
+i=28 j=21 0.03251705313258492
+i=28 j=22 0.04378664165316531
+i=28 j=23 0.04984359104324325
+i=28 j=24 0.05618835911174023
+i=28 j=25 0.08708212121678073
+i=28 j=26 0.09748100329556675
+i=28 j=27 0.2574293646871907
+i=28 j=28 0.4920598901756998
+i=28 j=29 0.2973858535839917
+i=28 j=30 0.1019394438780719
+i=28 j=31 0.09585151402633042
+i=28 j=32 0.06477632073262626
+i=28 j=33 0.04906710685092944
+i=28 j=34 0.05260046369669316
+i=28 j=35 0.02918836517657841
+i=28 j=36 0.0396842718794279
+i=28 j=37 0.02253614015623141
+i=28 j=38 0.02169967315672685
+i=28 j=39 0.02081230736152853
+i=29 j=0 0.006118397598583297
+i=29 j=1 0.006492932391735005
+i=29 j=2 0.006271204091964229
+i=29 j=3 0.01097826877472378
+i=29 j=4 0.007662884904491977
+i=29 j=5 0.01235506884973118
+i=29 j=6 0.01131119297445631
+i=29 j=7 0.01171185669805899
+i=29 j=8 0.01549658428898103
+i=29 j=9 0.01222786140328471
+i=29 j=10 0.017430139026947
+i=29 j=11 0.01581104483277043
+i=29 j=12 0.0170539040403652
+i=29 j=13 0.02103834209682469
+i=29 j=14 0.01759642215321946
+i=29 j=15 0.024491583900077
+i=29 j=16 0.0222269605014319
+i=29 j=17 0.0250788525320727
+i=29 j=18 0.03044345492235912
+i=29 j=19 0.0265349789553858
+i=29 j=20 0.03801022348260222
+i=29 j=21 0.03493074697872695
+i=29 j=22 0.04225754543956226
+i=29 j=23 0.05371762327102516
+i=29 j=24 0.04921200803680988
+i=29 j=25 0.08188204771260352
+i=29 j=26 0.08242112925307285
+i=29 j=27 0.1277169474004796
+i=29 j=28 0.2973858535839917
+i=29 j=29 0.6152388096030604
+i=29 j=30 0.2052077106923584
+i=29 j=31 0.1136580682029466
+i=29 j=32 0.06508105420454124
+i=29 j=33 0.0559841581374629
+i=29 j=34 0.04885098328532417
+i=29 j=35 0.02968774162757467
+i=29 j=36 0.03807706366806227
+i=29 j=37 0.02080884572450413
+i=29 j=38 0.02118587644264793
+i=29 j=39 0.01919149691005295
+i=30 j=0 0.004316283813597178
+i=30 j=1 0.004560757325761867
+i=30 j=2 0.004429356609445854
+i=30 j=3 0.007717798462909035
+i=30 j=4 0.005393004511337124
+i=30 j=5 0.008714928979940603
+i=30 j=6 0.007919349492262367
+i=30 j=7 0.008284955009857292
+i=30 j=8 0.01083703557950372
+i=30 j=9 0.008612633557032017
+i=30 j=10 0.01223146594703445
+i=30 j=11 0.01101272525028146
+i=30 j=12 0.01203310802247261
+i=30 j=13 0.01453757915625817
+i=30 j=14 0.01237802780620208
+i=30 j=15 0.01693623149369716
+i=30 j=16 0.01531953627602542
+i=30 j=17 0.01750536462120644
+i=30 j=18 0.0204864671767201
+i=30 j=19 0.01855020303832186
+i=30 j=20 0.02532865437226266
+i=30 j=21 0.02350078935674872
+i=30 j=22 0.02853521348558931
+i=30 j=23 0.03361712269470773
+i=30 j=24 0.03373322145592563
+i=30 j=25 0.04755543909537066
+i=30 j=26 0.05079250744115375
+i=30 j=27 0.07035843564925616
+i=30 j=28 0.1019394438780719
+i=30 j=29 0.2052077106923584
+i=30 j=30 0.5711320045184219
+i=30 j=31 0.3211769549813101
+i=30 j=32 0.1207837025740546
+i=30 j=33 0.08937039668754962
+i=30 j=34 0.08343372757751662
+i=30 j=35 0.04381895903629374
+i=30 j=36 0.05916930622078696
+i=30 j=37 0.03162129146087661
+i=30 j=38 0.03119685460919047
+i=30 j=39 0.02882293293128101
+i=31 j=0 0.005489584972172746
+i=31 j=1 0.005785786669729748
+i=31 j=2 0.005633134556653077
+i=31 j=3 0.00979837266382259
+i=31 j=4 0.006832694869546849
+i=31 j=5 0.01107970247844778
+i=31 j=6 0.01000554597350334
+i=31 j=7 0.0105126770328719
+i=31 j=8 0.01371279791270169
+i=31 j=9 0.01084209801849946
+i=31 j=10 0.01550469162834595
+i=31 j=11 0.0137931297834478
+i=31 j=12 0.01517701939910275
+i=31 j=13 0.01826596547720613
+i=31 j=14 0.01537995765712757
+i=31 j=15 0.0213402485338267
+i=31 j=16 0.01885274005669339
+i=31 j=17 0.0218239985997891
+i=31 j=18 0.02536851117147824
+i=31 j=19 0.02242269375489632
+i=31 j=20 0.0315212488690966
+i=31 j=21 0.02772086679912177
+i=31 j=22 0.03462258698876664
+i=31 j=23 0.03999799832299902
+i=31 j=24 0.03759246189973933
+i=31 j=25 0.05701256818318795
+i=31 j=26 0.05063775802533101
+i=31 j=27 0.07632550186339329
+i=31 j=28 0.09585151402633042
+i=31 j=29 0.1136580682029466
+i=31 j=30 0.3211769549813101
+i=31 j=31 0.5129318695426683
+i=31 j=32 0.2207587201293319
+i=31 j=33 0.0947553985224467
+i=31 j=34 0.08035802491567075
+i=31 j=35 0.04377908657866226
+i=31 j=36 0.05093507875729804
+i=31 j=37 0.02888267378139951
+i=31 j=38 0.02654582449777354
+i=31 j=39 0.02509119980821477
+i=32 j=0 0.004181012515014892
+i=32 j=1 0.004442101595893611
+i=32 j=2 0.004280820423538759
+i=32 j=3 0.007497453789667105
+i=32 j=4 0.005231342305487963
+i=32 j=5 0.008408125853247224
+i=32 j=6 0.007709811034766344
+i=32 j=7 0.007943074113599234
+i=32 j=8 0.01050128920599369
+i=32 j=9 0.008278795142845614
+i=32 j=10 0.011710742558948
+i=32 j=11 0.01064495977761505
+i=32 j=12 0.01137099547011348
+i=32 j=13 0.01396673227420515
+i=32 j=14 0.01167035003845532
+i=32 j=15 0.01595953256117866
+i=32 j=16 0.01452793821518962
+i=32 j=17 0.01607498337876644
+i=32 j=18 0.01926195612675656
+i=32 j=19 0.01676155764062092
+i=32 j=20 0.02303934176048041
+i=32 j=21 0.02120824804380137
+i=32 j=22 0.02450021384248137
+i=32 j=23 0.0297647935059968
+i=32 j=24 0.02699507777976262
+i=32 j=25 0.03898541584251202
+i=32 j=26 0.03781859261897513
+i=32 j=27 0.0467284673295983
+i=32 j=28 0.06477632073262626
+i=32 j=29 0.06508105420454124
+i=32 j=30 0.1207837025740546
+i=32 j=31 0.2207587201293319
+i=32 j=32 0.6625739789231918
+i=32 j=33 0.2663118925623924
+i=32 j=34 0.1325735045818889
+i=32 j=35 0.06666404780565499
+i=32 j=36 0.08163211377385399
+i=32 j=37 0.03965629460529876
+i=32 j=38 0.0406912863079785
+i=32 j=39 0.03504841362997058
+i=33 j=0 0.004038867303981519
+i=33 j=1 0.004245137318129288
+i=33 j=2 0.004145991912000409
+i=33 j=3 0.007191466663196634
+i=33 j=4 0.005013952659159763
+i=33 j=5 0.008143414740914789
+i=33 j=6 0.0073141581798943
+i=33 j=7 0.007727626301200603
+i=33 j=8 0.01001137720125954
+i=33 j=9 0.007929922593533836
+i=33 j=10 0.01132575964299753
+i=33 j=11 0.01000430006077935
+i=33 j=12 0.01108119208348286
+i=33 j=13 0.01317118734833727
+i=33 j=14 0.01114870000305964
+i=33 j=15 0.015346275855163
+i=33 j=16 0.01345289487763201
+i=33 j=17 0.0156546917975498
+i=33 j=18 0.01780952218269182
+i=33 j=19 0.01590758173750259
+i=33 j=20 0.02185544872855965
+i=33 j=21 0.01908122837239435
+i=33 j=22 0.02374289061013407
+i=33 j=23 0.02634241044432204
+i=33 j=24 0.02517593790633409
+i=33 j=25 0.03564000405763417
+i=33 j=26 0.0314152861660846
+i=33 j=27 0.04433286406242103
+i=33 j=28 0.04906710685092944
+i=33 j=29 0.0559841581374629
+i=33 j=30 0.08937039668754962
+i=33 j=31 0.0947553985224467
+i=33 j=32 0.2663118925623924
+i=33 j=33 0.4647577705110592
+i=33 j=34 0.29927155047063
+i=33 j=35 0.09309785413431741
+i=33 j=36 0.1005050139779813
+i=33 j=37 0.05334757180021454
+i=33 j=38 0.04442979115917505
+i=33 j=39 0.04263591527974859
+i=34 j=0 0.004435060295918261
+i=34 j=1 0.004700119595915349
+i=34 j=2 0.004541494939633915
+i=34 j=3 0.00793684771668878
+i=34 j=4 0.005531595238871602
+i=34 j=5 0.008912357855271202
+i=34 j=6 0.008126358141277856
+i=34 j=7 0.008410988526304878
+i=34 j=8 0.01106917336694587
+i=34 j=9 0.008710474271599107
+i=34 j=10 0.01235590952115323
+i=34 j=11 0.0111276044792657
+i=34 j=12 0.01196254373442308
+i=34 j=13 0.01457953513796569
+i=34 j=14 0.01214215797612336
+i=34 j=15 0.01665703111233472
+i=34 j=16 0.01493105924914034
+i=34 j=17 0.01666733170762232
+i=34 j=18 0.01969773847061656
+i=34 j=19 0.01702527301923439
+i=34 j=20 0.02347948409204427
+i=34 j=21 0.02098869408259643
+i=34 j=22 0.02458196684654286
+i=34 j=23 0.02897643278084301
+i=34 j=24 0.02583538459177427
+i=34 j=25 0.03732633847171275
+i=34 j=26 0.03349935507790385
+i=34 j=27 0.04245165938976629
+i=34 j=28 0.05260046369669316
+i=34 j=29 0.04885098328532417
+i=34 j=30 0.08343372757751662
+i=34 j=31 0.08035802491567075
+i=34 j=32 0.1325735045818889
+i=34 j=33 0.29927155047063
+i=34 j=34 0.6434832387137936
+i=34 j=35 0.1870584017284292
+i=34 j=36 0.1194127324192193
+i=34 j=37 0.05327360822804897
+i=34 j=38 0.05146773534406354
+i=34 j=39 0.04130158386562843
+i=35 j=0 0.002754419186809015
+i=35 j=1 0.002905829035295727
+i=35 j=2 0.002823896104254023
+i=35 j=3 0.004913968046673183
+i=35 j=4 0.003425371981051905
+i=35 j=5 0.0055404816874253
+i=35 j=6 0.005009591800876114
+i=35 j=7 0.00524162994070788
+i=35 j=8 0.006833244166146496
+i=35 j=9 0.005397432455274933
+i=35 j=10 0.007671608427786098
+i=35 j=11 0.006835754925056064
+i=35 j=12 0.007460425624271024
+i=35 j=13 0.00894976362604241
+i=35 j=14 0.0075254182376307
+i=35 j=15 0.01029484386965827
+i=35 j=16 0.009122122408265201
+i=35 j=17 0.01037805206551684
+i=35 j=18 0.01196070158744595
+i=35 j=19 0.01054091008494745
+i=35 j=20 0.01434439100400882
+i=35 j=21 0.01269328951569201
+i=35 j=22 0.0151963750257777
+i=35 j=23 0.01718663198606353
+i=35 j=24 0.01593185117476563
+i=35 j=25 0.02211684348037099
+i=35 j=26 0.01979780355919
+i=35 j=27 0.02558980245005943
+i=35 j=28 0.02918836517657841
+i=35 j=29 0.02968774162757467
+i=35 j=30 0.04381895903629374
+i=35 j=31 0.04377908657866226
+i=35 j=32 0.06666404780565499
+i=35 j=33 0.09309785413431741
+i=35 j=34 0.1870584017284292
+i=35 j=35 0.556650562665312
+i=35 j=36 0.3539280535828803
+i=35 j=37 0.1123885864017876
+i=35 j=38 0.09061987098678519
+i=35 j=39 0.07717613940237826
+i=36 j=0 0.003954006907503295
+i=36 j=1 0.004171847932272491
+i=36 j=2 0.00405260233967361
+i=36 j=3 0.007053886782029928
+i=36 j=4 0.004913961511341989
+i=36 j=5 0.007949092246251857
+i=36 j=6 0.007185594185155407
+i=36 j=7 0.007511527437008017
+i=36 j=8 0.009799356050488161
+i=36 j=9 0.00772398201793277
+i=36 j=10 0.01099027419718258
+i=36 j=11 0.009778571720850273
+i=36 j=12 0.01065968418256915
+i=36 j=13 0.01280336123687576
+i=36 j=14 0.01071498696928483
+i=36 j=15 0.01470476604954995
+i=36 j=16 0.01297288565857532
+i=36 j=17 0.01474747177597461
+i=36 j=18 0.01702245450399811
+i=36 j=19 0.01485784622656791
+i=36 j=20 0.02037277505402312
+i=36 j=21 0.01781947775479073
+i=36 j=22 0.02136338956371964
+i=36 j=23 0.02417676782612254
+i=36 j=24 0.02195006834068804
+i=36 j=25 0.03103087549562461
+i=36 j=26 0.02686342206965368
+i=36 j=27 0.0350544395187926
+i=36 j=28 0.0396842718794279
+i=36 j=29 0.03807706366806227
+i=36 j=30 0.05916930622078696
+i=36 j=31 0.05093507875729804
+i=36 j=32 0.08163211377385399
+i=36 j=33 0.1005050139779813
+i=36 j=34 0.1194127324192193
+i=36 j=35 0.3539280535828803
+i=36 j=36 0.4963723813455778
+i=36 j=37 0.1793896785407211
+i=36 j=38 0.08543720194898967
+i=36 j=39 0.06941361854943001
+i=37 j=0 0.002262703116505612
+i=37 j=1 0.002396586205655567
+i=37 j=2 0.002316711697865311
+i=37 j=3 0.004046165646135507
+i=37 j=4 0.002819217893741134
+i=37 j=5 0.004542360172146804
+i=37 j=6 0.004136219771340065
+i=37 j=7 0.004283533882982782
+i=37 j=8 0.005627076794356395
+i=37 j=9 0.004427139153607182
+i=37 j=10 0.006272606551587472
+i=37 j=11 0.005637654453996783
+i=37 j=12 0.006061158552852593
+i=37 j=13 0.007359541435883053
+i=37 j=14 0.006129666208528787
+i=37 j=15 0.008374976736213588
+i=37 j=16 0.007487429099487969
+i=37 j=17 0.008342922828629038
+i=37 j=18 0.009787679447262283
+i=37 j=19 0.008463432402646427
+i=37 j=20 0.01154625048351402
+i=37 j=21 0.01028550750270521
+i=37 j=22 0.01195709744591645
+i=37 j=23 0.01387400977340579
+i=37 j=24 0.01237684112692546
+i=37 j=25 0.01735458375806903
+i=37 j=26 0.01545631221644679
+i=37 j=27 0.01908258728528349
+i=37 j=28 0.02253614015623141
+i=37 j=29 0.02080884572450413
+i=37 j=30 0.03162129146087661
+i=37 j=31 0.02888267378139951
+i=37 j=32 0.03965629460529876
+i=37 j=33 0.05334757180021454
+i=37 j=34 0.05327360822804897
+i=37 j=35 0.1123885864017876
+i=37 j=36 0.1793896785407211
+i=37 j=37 0.7209448094959174
+i=37 j=38 0.2886044564473549
+i=37 j=39 0.1392174186697308
+i=38 j=0 0.002343878484731514
+i=38 j=1 0.002468621128116963
+i=38 j=2 0.002403202253878382
+i=38 j=3 0.004175989828575505
+i=38 j=4 0.00290878758773606
+i=38 j=5 0.004712429678331875
+i=38 j=6 0.004245129440231154
+i=38 j=7 0.004455402661682649
+i=38 j=8 0.005790787804283863
+i=38 j=9 0.00456866348849995
+i=38 j=10 0.006505584656208289
+i=38 j=11 0.005761227926716626
+i=38 j=12 0.006314683498040967
+i=38 j=13 0.007536352546129483
+i=38 j=14 0.006323830529683839
+i=38 j=15 0.00866872610174069
+i=38 j=16 0.007603783523394055
+i=38 j=17 0.008701466256405601
+i=38 j=18 0.009939184998925118
+i=38 j=19 0.008722301425836397
+i=38 j=20 0.01189475213393506
+i=38 j=21 0.01033388925475964
+i=38 j=22 0.01247438648707244
+i=38 j=23 0.01386644630652034
+i=38 j=24 0.01271783356145418
+i=38 j=25 0.01768291521573036
+i=38 j=26 0.01519014289954094
+i=38 j=27 0.019864032196669
+i=38 j=28 0.02169967315672685
+i=38 j=29 0.02118587644264793
+i=38 j=30 0.03119685460919047
+i=38 j=31 0.02654582449777354
+i=38 j=32 0.0406912863079785
+i=38 j=33 0.04442979115917505
+i=38 j=34 0.05146773534406354
+i=38 j=35 0.09061987098678519
+i=38 j=36 0.08543720194898967
+i=38 j=37 0.2886044564473549
+i=38 j=38 0.3490647195427812
+i=38 j=39 0.305738715040582
+i=39 j=0 0.002210631180459595
+i=39 j=1 0.002338509907961324
+i=39 j=2 0.002263863527945118
+i=39 j=3 0.003949471918224638
+i=39 j=4 0.002751121704062556
+i=39 j=5 0.004437889789335541
+i=39 j=6 0.004030809041845083
+i=39 j=7 0.004185551825080765
+i=39 j=8 0.005485332301369019
+i=39 j=9 0.004315765044545341
+i=39 j=10 0.006121654849902576
+i=39 j=11 0.00548114376858409
+i=39 j=12 0.005915157162827023
+i=39 j=13 0.007153961812735905
+i=39 j=14 0.005960879751401125
+i=39 j=15 0.008150768681789147
+i=39 j=16 0.007247095184155718
+i=39 j=17 0.008116139905628476
+i=39 j=18 0.009460349632150257
+i=39 j=19 0.00818680826651396
+i=39 j=20 0.01116808239125527
+i=39 j=21 0.009863637959628494
+i=39 j=22 0.0115458372873559
+i=39 j=23 0.01324478330390904
+i=39 j=24 0.01182558172355643
+i=39 j=25 0.01654088287781689
+i=39 j=26 0.01449430976922714
+i=39 j=27 0.01807166778439207
+i=39 j=28 0.02081230736152853
+i=39 j=29 0.01919149691005295
+i=39 j=30 0.02882293293128101
+i=39 j=31 0.02509119980821477
+i=39 j=32 0.03504841362997058
+i=39 j=33 0.04263591527974859
+i=39 j=34 0.04130158386562843
+i=39 j=35 0.07717613940237826
+i=39 j=36 0.06941361854943001
+i=39 j=37 0.1392174186697308
+i=39 j=38 0.305738715040582
+i=39 j=39 0.8008245201298099
+Сначала Грегуар
+<CupCdn(1)CdagdnCdagup(2)>=(0.3058336303960442,0)
+<CupCdn(1)CdagdnCdagup(3)>=(0.1387915983981482,0)
+<CupCdn(1)CdagdnCdagup(4)>=(0.06909253517776461,0)
+<CupCdn(1)CdagdnCdagup(5)>=(0.07705491492948556,0)
+<CupCdn(1)CdagdnCdagup(6)>=(0.04110663750627169,0)
+<CupCdn(1)CdagdnCdagup(7)>=(0.04254890843818899,0)
+<CupCdn(1)CdagdnCdagup(8)>=(0.03494118149853707,0)
+<CupCdn(1)CdagdnCdagup(9)>=(0.02500090271083751,0)
+<CupCdn(1)CdagdnCdagup(10)>=(0.02876601500627085,0)
+<CupCdn(1)CdagdnCdagup(11)>=(0.01910834432176422,0)
+<CupCdn(1)CdagdnCdagup(12)>=(0.02077072346584312,0)
+<CupCdn(1)CdagdnCdagup(13)>=(0.01801213302454417,0)
+<CupCdn(1)CdagdnCdagup(14)>=(0.01444475806902523,0)
+<CupCdn(1)CdagdnCdagup(15)>=(0.01650238569679105,0)
+<CupCdn(1)CdagdnCdagup(16)>=(0.01177393581848639,0)
+<CupCdn(1)CdagdnCdagup(17)>=(0.01321533136761148,0)
+<CupCdn(1)CdagdnCdagup(18)>=(0.01150333252408207,0)
+<CupCdn(1)CdagdnCdagup(19)>=(0.009833552522982006,0)
+<CupCdn(1)CdagdnCdagup(20)>=(0.01114137933663771,0)
+<CupCdn(1)CdagdnCdagup(21)>=(0.008152609943122337,0)
+<CupCdn(1)CdagdnCdagup(22)>=(0.009440915110692736,0)
+<CupCdn(1)CdagdnCdagup(23)>=(0.008084107257797461,0)
+<CupCdn(1)CdagdnCdagup(24)>=(0.007226921319373252,0)
+<CupCdn(1)CdagdnCdagup(25)>=(0.008130311581387569,0)
+<CupCdn(1)CdagdnCdagup(26)>=(0.005936023716939275,0)
+<CupCdn(1)CdagdnCdagup(27)>=(0.007141730734506497,0)
+<CupCdn(1)CdagdnCdagup(28)>=(0.005889764163674962,0)
+<CupCdn(1)CdagdnCdagup(29)>=(0.005469160242490259,0)
+<CupCdn(1)CdagdnCdagup(30)>=(0.006105804459014862,0)
+<CupCdn(1)CdagdnCdagup(31)>=(0.004298178534863973,0)
+<CupCdn(1)CdagdnCdagup(32)>=(0.005478771778170475,0)
+<CupCdn(1)CdagdnCdagup(33)>=(0.004166921049557615,0)
+<CupCdn(1)CdagdnCdagup(34)>=(0.004026246348031195,0)
+<CupCdn(1)CdagdnCdagup(35)>=(0.004426541037824509,0)
+<CupCdn(1)CdagdnCdagup(36)>=(0.002740848901986039,0)
+<CupCdn(1)CdagdnCdagup(37)>=(0.003948258076491291,0)
+<CupCdn(1)CdagdnCdagup(38)>=(0.002252916121054855,0)
+<CupCdn(1)CdagdnCdagup(39)>=(0.002337765145558623,0)
+<CupCdn(1)CdagdnCdagup(40)>=(0.002210631180459594,0)
+<CupCdn(2)CdagdnCdagup(3)>=(0.2885068821232033,0)
+<CupCdn(2)CdagdnCdagup(4)>=(0.08450468316474716,0)
+<CupCdn(2)CdagdnCdagup(5)>=(0.09015283460626268,0)
+<CupCdn(2)CdagdnCdagup(6)>=(0.05110247087881384,0)
+<CupCdn(2)CdagdnCdagup(7)>=(0.04415339671547427,0)
+<CupCdn(2)CdagdnCdagup(8)>=(0.04046547660550504,0)
+<CupCdn(2)CdagdnCdagup(9)>=(0.02634886686883215,0)
+<CupCdn(2)CdagdnCdagup(10)>=(0.03104050414930501,0)
+<CupCdn(2)CdagdnCdagup(11)>=(0.02103107957683876,0)
+<CupCdn(2)CdagdnCdagup(12)>=(0.02158052213012229,0)
+<CupCdn(2)CdagdnCdagup(13)>=(0.0197436677961476,0)
+<CupCdn(2)CdagdnCdagup(14)>=(0.01508609060190257,0)
+<CupCdn(2)CdagdnCdagup(15)>=(0.01759033282726368,0)
+<CupCdn(2)CdagdnCdagup(16)>=(0.01262253057455278,0)
+<CupCdn(2)CdagdnCdagup(17)>=(0.01379055744327117,0)
+<CupCdn(2)CdagdnCdagup(18)>=(0.01239071597173822,0)
+<CupCdn(2)CdagdnCdagup(19)>=(0.01026500639206126,0)
+<CupCdn(2)CdagdnCdagup(20)>=(0.01182899237082851,0)
+<CupCdn(2)CdagdnCdagup(21)>=(0.008655371901081906,0)
+<CupCdn(2)CdagdnCdagup(22)>=(0.009884816787286034,0)
+<CupCdn(2)CdagdnCdagup(23)>=(0.008637684877900157,0)
+<CupCdn(2)CdagdnCdagup(24)>=(0.007553144333701739,0)
+<CupCdn(2)CdagdnCdagup(25)>=(0.008616923970529228,0)
+<CupCdn(2)CdagdnCdagup(26)>=(0.006272355923078307,0)
+<CupCdn(2)CdagdnCdagup(27)>=(0.007494983991265609,0)
+<CupCdn(2)CdagdnCdagup(28)>=(0.006263041713242153,0)
+<CupCdn(2)CdagdnCdagup(29)>=(0.005724192675190735,0)
+<CupCdn(2)CdagdnCdagup(30)>=(0.006462795528549322,0)
+<CupCdn(2)CdagdnCdagup(31)>=(0.004529637415598948,0)
+<CupCdn(2)CdagdnCdagup(32)>=(0.005759019691218524,0)
+<CupCdn(2)CdagdnCdagup(33)>=(0.004415779060168217,0)
+<CupCdn(2)CdagdnCdagup(34)>=(0.004220452855335084,0)
+<CupCdn(2)CdagdnCdagup(35)>=(0.004678910234688016,0)
+<CupCdn(2)CdagdnCdagup(36)>=(0.002883839897627375,0)
+<CupCdn(2)CdagdnCdagup(37)>=(0.004154778391664641,0)
+<CupCdn(2)CdagdnCdagup(38)>=(0.002380033007463135,0)
+<CupCdn(2)CdagdnCdagup(39)>=(0.002455624783472607,0)
+<CupCdn(2)CdagdnCdagup(40)>=(0.002332384871386734,0)
+<CupCdn(3)CdagdnCdagup(4)>=(0.1794689655712703,0)
+<CupCdn(3)CdagdnCdagup(5)>=(0.1115525433355685,0)
+<CupCdn(3)CdagdnCdagup(6)>=(0.05276154152885737,0)
+<CupCdn(3)CdagdnCdagup(7)>=(0.05303287165251822,0)
+<CupCdn(3)CdagdnCdagup(8)>=(0.03934292561678679,0)
+<CupCdn(3)CdagdnCdagup(9)>=(0.02867022512897324,0)
+<CupCdn(3)CdagdnCdagup(10)>=(0.03142145210991641,0)
+<CupCdn(3)CdagdnCdagup(11)>=(0.0206310201117372,0)
+<CupCdn(3)CdagdnCdagup(12)>=(0.02239949290519804,0)
+<CupCdn(3)CdagdnCdagup(13)>=(0.01893535039804297,0)
+<CupCdn(3)CdagdnCdagup(14)>=(0.01534259848500259,0)
+<CupCdn(3)CdagdnCdagup(15)>=(0.01724113783064722,0)
+<CupCdn(3)CdagdnCdagup(16)>=(0.01227141999821423,0)
+<CupCdn(3)CdagdnCdagup(17)>=(0.01378642641542844,0)
+<CupCdn(3)CdagdnCdagup(18)>=(0.01186270979376724,0)
+<CupCdn(3)CdagdnCdagup(19)>=(0.01021248626246186,0)
+<CupCdn(3)CdagdnCdagup(20)>=(0.01147005436432751,0)
+<CupCdn(3)CdagdnCdagup(21)>=(0.008393261438224445,0)
+<CupCdn(3)CdagdnCdagup(22)>=(0.009726973333190751,0)
+<CupCdn(3)CdagdnCdagup(23)>=(0.0082754957780904,0)
+<CupCdn(3)CdagdnCdagup(24)>=(0.007436210896240132,0)
+<CupCdn(3)CdagdnCdagup(25)>=(0.008319258822335194,0)
+<CupCdn(3)CdagdnCdagup(26)>=(0.006079511383399559,0)
+<CupCdn(3)CdagdnCdagup(27)>=(0.007316755352091005,0)
+<CupCdn(3)CdagdnCdagup(28)>=(0.00601082585369706,0)
+<CupCdn(3)CdagdnCdagup(29)>=(0.005602739202034964,0)
+<CupCdn(3)CdagdnCdagup(30)>=(0.006231164122386694,0)
+<CupCdn(3)CdagdnCdagup(31)>=(0.004391804787629146,0)
+<CupCdn(3)CdagdnCdagup(32)>=(0.005597903070463545,0)
+<CupCdn(3)CdagdnCdagup(33)>=(0.004247861385529256,0)
+<CupCdn(3)CdagdnCdagup(34)>=(0.004115376492019359,0)
+<CupCdn(3)CdagdnCdagup(35)>=(0.00451315177273156,0)
+<CupCdn(3)CdagdnCdagup(36)>=(0.002797911075634255,0)
+<CupCdn(3)CdagdnCdagup(37)>=(0.004029302201042741,0)
+<CupCdn(3)CdagdnCdagup(38)>=(0.002296710192925499,0)
+<CupCdn(3)CdagdnCdagup(39)>=(0.002386651751191103,0)
+<CupCdn(3)CdagdnCdagup(40)>=(0.002254092412650939,0)
+<CupCdn(4)CdagdnCdagup(5)>=(0.3539229211319236,0)
+<CupCdn(4)CdagdnCdagup(6)>=(0.1184921017555027,0)
+<CupCdn(4)CdagdnCdagup(7)>=(0.1000519686598962,0)
+<CupCdn(4)CdagdnCdagup(8)>=(0.08127484083623121,0)
+<CupCdn(4)CdagdnCdagup(9)>=(0.05062550933477643,0)
+<CupCdn(4)CdagdnCdagup(10)>=(0.05896086617975852,0)
+<CupCdn(4)CdagdnCdagup(11)>=(0.03784329348464881,0)
+<CupCdn(4)CdagdnCdagup(12)>=(0.0395280437377438,0)
+<CupCdn(4)CdagdnCdagup(13)>=(0.03488251948859723,0)
+<CupCdn(4)CdagdnCdagup(14)>=(0.02672381460037777,0)
+<CupCdn(4)CdagdnCdagup(15)>=(0.03091374259594434,0)
+<CupCdn(4)CdagdnCdagup(16)>=(0.02181915157959845,0)
+<CupCdn(4)CdagdnCdagup(17)>=(0.02408380005839332,0)
+<CupCdn(4)CdagdnCdagup(18)>=(0.02125389588834101,0)
+<CupCdn(4)CdagdnCdagup(19)>=(0.01773071005191135,0)
+<CupCdn(4)CdagdnCdagup(20)>=(0.0202918800151576,0)
+<CupCdn(4)CdagdnCdagup(21)>=(0.01476922928844867,0)
+<CupCdn(4)CdagdnCdagup(22)>=(0.01695656960628128,0)
+<CupCdn(4)CdagdnCdagup(23)>=(0.01466583186816482,0)
+<CupCdn(4)CdagdnCdagup(24)>=(0.01290904945877619,0)
+<CupCdn(4)CdagdnCdagup(25)>=(0.0146425777433477,0)
+<CupCdn(4)CdagdnCdagup(26)>=(0.01064841687395531,0)
+<CupCdn(4)CdagdnCdagup(27)>=(0.01275512421920913,0)
+<CupCdn(4)CdagdnCdagup(28)>=(0.01059426854636841,0)
+<CupCdn(4)CdagdnCdagup(29)>=(0.009733669186040968,0)
+<CupCdn(4)CdagdnCdagup(30)>=(0.01093988757348161,0)
+<CupCdn(4)CdagdnCdagup(31)>=(0.007674104560855496,0)
+<CupCdn(4)CdagdnCdagup(32)>=(0.009764600988979385,0)
+<CupCdn(4)CdagdnCdagup(33)>=(0.007461511002909307,0)
+<CupCdn(4)CdagdnCdagup(34)>=(0.007158232868641766,0)
+<CupCdn(4)CdagdnCdagup(35)>=(0.00791015484728755,0)
+<CupCdn(4)CdagdnCdagup(36)>=(0.004882534851117927,0)
+<CupCdn(4)CdagdnCdagup(37)>=(0.007033286242080192,0)
+<CupCdn(4)CdagdnCdagup(38)>=(0.004022854048619492,0)
+<CupCdn(4)CdagdnCdagup(39)>=(0.004158930504344957,0)
+<CupCdn(4)CdagdnCdagup(40)>=(0.003943715896136062,0)
+<CupCdn(5)CdagdnCdagup(6)>=(0.1869900275837043,0)
+<CupCdn(5)CdagdnCdagup(7)>=(0.09217622239917429,0)
+<CupCdn(5)CdagdnCdagup(8)>=(0.06609686662292023,0)
+<CupCdn(5)CdagdnCdagup(9)>=(0.04340200048018505,0)
+<CupCdn(5)CdagdnCdagup(10)>=(0.04348018567944217,0)
+<CupCdn(5)CdagdnCdagup(11)>=(0.02942025074511516,0)
+<CupCdn(5)CdagdnCdagup(12)>=(0.02896453039194921,0)
+<CupCdn(5)CdagdnCdagup(13)>=(0.0253754261251695,0)
+<CupCdn(5)CdagdnCdagup(14)>=(0.0196288627416377,0)
+<CupCdn(5)CdagdnCdagup(15)>=(0.02195218229937809,0)
+<CupCdn(5)CdagdnCdagup(16)>=(0.01578449260302658,0)
+<CupCdn(5)CdagdnCdagup(17)>=(0.01705795346579072,0)
+<CupCdn(5)CdagdnCdagup(18)>=(0.01506601821459246,0)
+<CupCdn(5)CdagdnCdagup(19)>=(0.01258645514827899,0)
+<CupCdn(5)CdagdnCdagup(20)>=(0.01423669134575184,0)
+<CupCdn(5)CdagdnCdagup(21)>=(0.01044249814017673,0)
+<CupCdn(5)CdagdnCdagup(22)>=(0.01187243099460461,0)
+<CupCdn(5)CdagdnCdagup(23)>=(0.01028469073935579,0)
+<CupCdn(5)CdagdnCdagup(24)>=(0.009045881909866809,0)
+<CupCdn(5)CdagdnCdagup(25)>=(0.01021537092594028,0)
+<CupCdn(5)CdagdnCdagup(26)>=(0.007452819399379388,0)
+<CupCdn(5)CdagdnCdagup(27)>=(0.008885091903347509,0)
+<CupCdn(5)CdagdnCdagup(28)>=(0.007388475974676348,0)
+<CupCdn(5)CdagdnCdagup(29)>=(0.006780950007670744,0)
+<CupCdn(5)CdagdnCdagup(30)>=(0.007609518826629678,0)
+<CupCdn(5)CdagdnCdagup(31)>=(0.005343889531436614,0)
+<CupCdn(5)CdagdnCdagup(32)>=(0.006785343306428186,0)
+<CupCdn(5)CdagdnCdagup(33)>=(0.005188224967182281,0)
+<CupCdn(5)CdagdnCdagup(34)>=(0.004973338570323402,0)
+<CupCdn(5)CdagdnCdagup(35)>=(0.005493813613295027,0)
+<CupCdn(5)CdagdnCdagup(36)>=(0.003391607276608759,0)
+<CupCdn(5)CdagdnCdagup(37)>=(0.004882514280886164,0)
+<CupCdn(5)CdagdnCdagup(38)>=(0.002793229261024396,0)
+<CupCdn(5)CdagdnCdagup(39)>=(0.002886787599163967,0)
+<CupCdn(5)CdagdnCdagup(40)>=(0.002737546829431656,0)
+<CupCdn(6)CdagdnCdagup(7)>=(0.2994312126313021,0)
+<CupCdn(6)CdagdnCdagup(8)>=(0.1317305214528359,0)
+<CupCdn(6)CdagdnCdagup(9)>=(0.07989634460949331,0)
+<CupCdn(6)CdagdnCdagup(10)>=(0.08312909539467503,0)
+<CupCdn(6)CdagdnCdagup(11)>=(0.04852737058769549,0)
+<CupCdn(6)CdagdnCdagup(12)>=(0.05241270903621798,0)
+<CupCdn(6)CdagdnCdagup(13)>=(0.04222737181172456,0)
+<CupCdn(6)CdagdnCdagup(14)>=(0.03333302752008079,0)
+<CupCdn(6)CdagdnCdagup(15)>=(0.03717836471827521,0)
+<CupCdn(6)CdagdnCdagup(16)>=(0.02567769123463547,0)
+<CupCdn(6)CdagdnCdagup(17)>=(0.02886865782209422,0)
+<CupCdn(6)CdagdnCdagup(18)>=(0.02445015653187476,0)
+<CupCdn(6)CdagdnCdagup(19)>=(0.02088913854281352,0)
+<CupCdn(6)CdagdnCdagup(20)>=(0.02338222649307312,0)
+<CupCdn(6)CdagdnCdagup(21)>=(0.01692424006553013,0)
+<CupCdn(6)CdagdnCdagup(22)>=(0.01962233490697591,0)
+<CupCdn(6)CdagdnCdagup(23)>=(0.01657564694567214,0)
+<CupCdn(6)CdagdnCdagup(24)>=(0.01486238882290347,0)
+<CupCdn(6)CdagdnCdagup(25)>=(0.01658769508554034,0)
+<CupCdn(6)CdagdnCdagup(26)>=(0.01207220692194512,0)
+<CupCdn(6)CdagdnCdagup(27)>=(0.01452767586748131,0)
+<CupCdn(6)CdagdnCdagup(28)>=(0.01189527537908029,0)
+<CupCdn(6)CdagdnCdagup(29)>=(0.01108235190925384,0)
+<CupCdn(6)CdagdnCdagup(30)>=(0.01230582045188949,0)
+<CupCdn(6)CdagdnCdagup(31)>=(0.00866177391611982,0)
+<CupCdn(6)CdagdnCdagup(32)>=(0.01103690513248929,0)
+<CupCdn(6)CdagdnCdagup(33)>=(0.008363505361803298,0)
+<CupCdn(6)CdagdnCdagup(34)>=(0.008102692943832425,0)
+<CupCdn(6)CdagdnCdagup(35)>=(0.008878102215332041,0)
+<CupCdn(6)CdagdnCdagup(36)>=(0.005502702158455552,0)
+<CupCdn(6)CdagdnCdagup(37)>=(0.007922417265879974,0)
+<CupCdn(6)CdagdnCdagup(38)>=(0.004514000356998869,0)
+<CupCdn(6)CdagdnCdagup(39)>=(0.004691232491063559,0)
+<CupCdn(6)CdagdnCdagup(40)>=(0.004429388693800588,0)
+<CupCdn(7)CdagdnCdagup(8)>=(0.2661391790669455,0)
+<CupCdn(7)CdagdnCdagup(9)>=(0.09378654029082177,0)
+<CupCdn(7)CdagdnCdagup(10)>=(0.08882650473984204,0)
+<CupCdn(7)CdagdnCdagup(11)>=(0.0555645315709375,0)
+<CupCdn(7)CdagdnCdagup(12)>=(0.04873657637267074,0)
+<CupCdn(7)CdagdnCdagup(13)>=(0.04405012340144093,0)
+<CupCdn(7)CdagdnCdagup(14)>=(0.03117413516258523,0)
+<CupCdn(7)CdagdnCdagup(15)>=(0.03543293449893056,0)
+<CupCdn(7)CdagdnCdagup(16)>=(0.02497942383076902,0)
+<CupCdn(7)CdagdnCdagup(17)>=(0.02618209888734664,0)
+<CupCdn(7)CdagdnCdagup(18)>=(0.02358067019219894,0)
+<CupCdn(7)CdagdnCdagup(19)>=(0.01894520069902873,0)
+<CupCdn(7)CdagdnCdagup(20)>=(0.02172641548191845,0)
+<CupCdn(7)CdagdnCdagup(21)>=(0.01578399575865098,0)
+<CupCdn(7)CdagdnCdagup(22)>=(0.01770539387025897,0)
+<CupCdn(7)CdagdnCdagup(23)>=(0.01554283810933248,0)
+<CupCdn(7)CdagdnCdagup(24)>=(0.01335879375354603,0)
+<CupCdn(7)CdagdnCdagup(25)>=(0.01525496673842348,0)
+<CupCdn(7)CdagdnCdagup(26)>=(0.01105871845778341,0)
+<CupCdn(7)CdagdnCdagup(27)>=(0.01309560622100519,0)
+<CupCdn(7)CdagdnCdagup(28)>=(0.01099474524332245,0)
+<CupCdn(7)CdagdnCdagup(29)>=(0.009935628384978756,0)
+<CupCdn(7)CdagdnCdagup(30)>=(0.01125305183646778,0)
+<CupCdn(7)CdagdnCdagup(31)>=(0.007861144141745194,0)
+<CupCdn(7)CdagdnCdagup(32)>=(0.009953704811303065,0)
+<CupCdn(7)CdagdnCdagup(33)>=(0.007660457425123897,0)
+<CupCdn(7)CdagdnCdagup(34)>=(0.007267396390617669,0)
+<CupCdn(7)CdagdnCdagup(35)>=(0.008085601358456214,0)
+<CupCdn(7)CdagdnCdagup(36)>=(0.004968973701512569,0)
+<CupCdn(7)CdagdnCdagup(37)>=(0.007152322445934145,0)
+<CupCdn(7)CdagdnCdagup(38)>=(0.004105588047308487,0)
+<CupCdn(7)CdagdnCdagup(39)>=(0.004220427328920431,0)
+<CupCdn(7)CdagdnCdagup(40)>=(0.004018157844072548,0)
+<CupCdn(8)CdagdnCdagup(9)>=(0.2209060683929485,0)
+<CupCdn(8)CdagdnCdagup(10)>=(0.1199601194060786,0)
+<CupCdn(8)CdagdnCdagup(11)>=(0.06456428442903378,0)
+<CupCdn(8)CdagdnCdagup(12)>=(0.06447323095650252,0)
+<CupCdn(8)CdagdnCdagup(13)>=(0.04639566640682687,0)
+<CupCdn(8)CdagdnCdagup(14)>=(0.03760340149465776,0)
+<CupCdn(8)CdagdnCdagup(15)>=(0.0387724833442154,0)
+<CupCdn(8)CdagdnCdagup(16)>=(0.02680326848666937,0)
+<CupCdn(8)CdagdnCdagup(17)>=(0.02962289163985876,0)
+<CupCdn(8)CdagdnCdagup(18)>=(0.02433590498558224,0)
+<CupCdn(8)CdagdnCdagup(19)>=(0.02108721357981574,0)
+<CupCdn(8)CdagdnCdagup(20)>=(0.02291342026147171,0)
+<CupCdn(8)CdagdnCdagup(21)>=(0.01664204966054558,0)
+<CupCdn(8)CdagdnCdagup(22)>=(0.01916507218393776,0)
+<CupCdn(8)CdagdnCdagup(23)>=(0.01596515659261952,0)
+<CupCdn(8)CdagdnCdagup(24)>=(0.01444387201755199,0)
+<CupCdn(8)CdagdnCdagup(25)>=(0.01587137468116283,0)
+<CupCdn(8)CdagdnCdagup(26)>=(0.01158849138792093,0)
+<CupCdn(8)CdagdnCdagup(27)>=(0.01389828417145349,0)
+<CupCdn(8)CdagdnCdagup(28)>=(0.01129232810240667,0)
+<CupCdn(8)CdagdnCdagup(29)>=(0.01058806994053419,0)
+<CupCdn(8)CdagdnCdagup(30)>=(0.01164791339184499,0)
+<CupCdn(8)CdagdnCdagup(31)>=(0.008222774701246098,0)
+<CupCdn(8)CdagdnCdagup(32)>=(0.01045716620988518,0)
+<CupCdn(8)CdagdnCdagup(33)>=(0.007889216145083243,0)
+<CupCdn(8)CdagdnCdagup(34)>=(0.007678295438392178,0)
+<CupCdn(8)CdagdnCdagup(35)>=(0.008366373166283258,0)
+<CupCdn(8)CdagdnCdagup(36)>=(0.005198507766641538,0)
+<CupCdn(8)CdagdnCdagup(37)>=(0.007475598556514357,0)
+<CupCdn(8)CdagdnCdagup(38)>=(0.004250559563506126,0)
+<CupCdn(8)CdagdnCdagup(39)>=(0.004429084032219974,0)
+<CupCdn(8)CdagdnCdagup(40)>=(0.004171483130789277,0)
+<CupCdn(9)CdagdnCdagup(10)>=(0.3211314515152792,0)
+<CupCdn(9)CdagdnCdagup(11)>=(0.1127052766037664,0)
+<CupCdn(9)CdagdnCdagup(12)>=(0.09537146947849773,0)
+<CupCdn(9)CdagdnCdagup(13)>=(0.0759326153140409,0)
+<CupCdn(9)CdagdnCdagup(14)>=(0.05031199629458672,0)
+<CupCdn(9)CdagdnCdagup(15)>=(0.05677241000521177,0)
+<CupCdn(9)CdagdnCdagup(16)>=(0.03734052860543449,0)
+<CupCdn(9)CdagdnCdagup(17)>=(0.03982153825827667,0)
+<CupCdn(9)CdagdnCdagup(18)>=(0.0344320215035643,0)
+<CupCdn(9)CdagdnCdagup(19)>=(0.02756503672908093,0)
+<CupCdn(9)CdagdnCdagup(20)>=(0.0313775937530446,0)
+<CupCdn(9)CdagdnCdagup(21)>=(0.02227686703717685,0)
+<CupCdn(9)CdagdnCdagup(22)>=(0.02525931107038118,0)
+<CupCdn(9)CdagdnCdagup(23)>=(0.02169920098689689,0)
+<CupCdn(9)CdagdnCdagup(24)>=(0.01875203094163055,0)
+<CupCdn(9)CdagdnCdagup(25)>=(0.02124485400733145,0)
+<CupCdn(9)CdagdnCdagup(26)>=(0.01528243345616611,0)
+<CupCdn(9)CdagdnCdagup(27)>=(0.01818933241180572,0)
+<CupCdn(9)CdagdnCdagup(28)>=(0.01508803687736878,0)
+<CupCdn(9)CdagdnCdagup(29)>=(0.01372127610176232,0)
+<CupCdn(9)CdagdnCdagup(30)>=(0.01543466006748704,0)
+<CupCdn(9)CdagdnCdagup(31)>=(0.0107698687542177,0)
+<CupCdn(9)CdagdnCdagup(32)>=(0.01365818680138657,0)
+<CupCdn(9)CdagdnCdagup(33)>=(0.01044575977515864,0)
+<CupCdn(9)CdagdnCdagup(34)>=(0.009959542615975418,0)
+<CupCdn(9)CdagdnCdagup(35)>=(0.01102634954293293,0)
+<CupCdn(9)CdagdnCdagup(36)>=(0.006785885640872343,0)
+<CupCdn(9)CdagdnCdagup(37)>=(0.00976556259149752,0)
+<CupCdn(9)CdagdnCdagup(38)>=(0.005591824360982016,0)
+<CupCdn(9)CdagdnCdagup(39)>=(0.005764012192337372,0)
+<CupCdn(9)CdagdnCdagup(40)>=(0.005474503081207172,0)
+<CupCdn(10)CdagdnCdagup(11)>=(0.2051459970073633,0)
+<CupCdn(10)CdagdnCdagup(12)>=(0.1010596942281955,0)
+<CupCdn(10)CdagdnCdagup(13)>=(0.06978653334351444,0)
+<CupCdn(10)CdagdnCdagup(14)>=(0.05043041019076952,0)
+<CupCdn(10)CdagdnCdagup(15)>=(0.04721406216347337,0)
+<CupCdn(10)CdagdnCdagup(16)>=(0.03346396416657955,0)
+<CupCdn(10)CdagdnCdagup(17)>=(0.03339668127094766,0)
+<CupCdn(10)CdagdnCdagup(18)>=(0.02831579191326312,0)
+<CupCdn(10)CdagdnCdagup(19)>=(0.02333231491397689,0)
+<CupCdn(10)CdagdnCdagup(20)>=(0.02515540319167373,0)
+<CupCdn(10)CdagdnCdagup(21)>=(0.01839869802792165,0)
+<CupCdn(10)CdagdnCdagup(22)>=(0.02035528983869083,0)
+<CupCdn(10)CdagdnCdagup(23)>=(0.01736863709769507,0)
+<CupCdn(10)CdagdnCdagup(24)>=(0.01521021037334662,0)
+<CupCdn(10)CdagdnCdagup(25)>=(0.01682406409261762,0)
+<CupCdn(10)CdagdnCdagup(26)>=(0.01227725061364231,0)
+<CupCdn(10)CdagdnCdagup(27)>=(0.01444795928840465,0)
+<CupCdn(10)CdagdnCdagup(28)>=(0.01193761789504195,0)
+<CupCdn(10)CdagdnCdagup(29)>=(0.01093692867429522,0)
+<CupCdn(10)CdagdnCdagup(30)>=(0.01215136357385229,0)
+<CupCdn(10)CdagdnCdagup(31)>=(0.008540858978658966,0)
+<CupCdn(10)CdagdnCdagup(32)>=(0.01077493612111392,0)
+<CupCdn(10)CdagdnCdagup(33)>=(0.008216598258683955,0)
+<CupCdn(10)CdagdnCdagup(34)>=(0.007871724443282043,0)
+<CupCdn(10)CdagdnCdagup(35)>=(0.008657301926151122,0)
+<CupCdn(10)CdagdnCdagup(36)>=(0.005348305733420357,0)
+<CupCdn(10)CdagdnCdagup(37)>=(0.007680273542315141,0)
+<CupCdn(10)CdagdnCdagup(38)>=(0.004389566868708169,0)
+<CupCdn(10)CdagdnCdagup(39)>=(0.004537531650852544,0)
+<CupCdn(10)CdagdnCdagup(40)>=(0.004297656310326602,0)
+<CupCdn(11)CdagdnCdagup(12)>=(0.2975599452365282,0)
+<CupCdn(11)CdagdnCdagup(13)>=(0.1268483523515859,0)
+<CupCdn(11)CdagdnCdagup(14)>=(0.08196373146756328,0)
+<CupCdn(11)CdagdnCdagup(15)>=(0.08156436972407582,0)
+<CupCdn(11)CdagdnCdagup(16)>=(0.04888466147903772,0)
+<CupCdn(11)CdagdnCdagup(17)>=(0.05352646809365892,0)
+<CupCdn(11)CdagdnCdagup(18)>=(0.04202553003057449,0)
+<CupCdn(11)CdagdnCdagup(19)>=(0.03476434440996809,0)
+<CupCdn(11)CdagdnCdagup(20)>=(0.03785474539424739,0)
+<CupCdn(11)CdagdnCdagup(21)>=(0.0263755741866945,0)
+<CupCdn(11)CdagdnCdagup(22)>=(0.03033541820726002,0)
+<CupCdn(11)CdagdnCdagup(23)>=(0.02494230297595945,0)
+<CupCdn(11)CdagdnCdagup(24)>=(0.02212580474236469,0)
+<CupCdn(11)CdagdnCdagup(25)>=(0.02438941103863821,0)
+<CupCdn(11)CdagdnCdagup(26)>=(0.017492303826377,0)
+<CupCdn(11)CdagdnCdagup(27)>=(0.02095983010042869,0)
+<CupCdn(11)CdagdnCdagup(28)>=(0.01695947372563811,0)
+<CupCdn(11)CdagdnCdagup(29)>=(0.01573804375617309,0)
+<CupCdn(11)CdagdnCdagup(30)>=(0.01735820114117028,0)
+<CupCdn(11)CdagdnCdagup(31)>=(0.01215497330701639,0)
+<CupCdn(11)CdagdnCdagup(32)>=(0.01544277253313505,0)
+<CupCdn(11)CdagdnCdagup(33)>=(0.01164679223145842,0)
+<CupCdn(11)CdagdnCdagup(34)>=(0.01126762979580686,0)
+<CupCdn(11)CdagdnCdagup(35)>=(0.01230665253661423,0)
+<CupCdn(11)CdagdnCdagup(36)>=(0.007618230952300811,0)
+<CupCdn(11)CdagdnCdagup(37)>=(0.01095189359836406,0)
+<CupCdn(11)CdagdnCdagup(38)>=(0.006232544356438732,0)
+<CupCdn(11)CdagdnCdagup(39)>=(0.006475446842590706,0)
+<CupCdn(11)CdagdnCdagup(40)>=(0.00610907362630293,0)
+<CupCdn(12)CdagdnCdagup(13)>=(0.2572194602735685,0)
+<CupCdn(12)CdagdnCdagup(14)>=(0.09652711061149323,0)
+<CupCdn(12)CdagdnCdagup(15)>=(0.08652020549369466,0)
+<CupCdn(12)CdagdnCdagup(16)>=(0.05576703680189134,0)
+<CupCdn(12)CdagdnCdagup(17)>=(0.04950796025454316,0)
+<CupCdn(12)CdagdnCdagup(18)>=(0.04349379928106284,0)
+<CupCdn(12)CdagdnCdagup(19)>=(0.03227531450355258,0)
+<CupCdn(12)CdagdnCdagup(20)>=(0.0357032395491373,0)
+<CupCdn(12)CdagdnCdagup(21)>=(0.02535451351052917,0)
+<CupCdn(12)CdagdnCdagup(22)>=(0.02721326765948651,0)
+<CupCdn(12)CdagdnCdagup(23)>=(0.02374629608579229,0)
+<CupCdn(12)CdagdnCdagup(24)>=(0.01980357990305492,0)
+<CupCdn(12)CdagdnCdagup(25)>=(0.02236482313190031,0)
+<CupCdn(12)CdagdnCdagup(26)>=(0.01605465355917722,0)
+<CupCdn(12)CdagdnCdagup(27)>=(0.01866103141055774,0)
+<CupCdn(12)CdagdnCdagup(28)>=(0.01565691245215784,0)
+<CupCdn(12)CdagdnCdagup(29)>=(0.01392614528562925,0)
+<CupCdn(12)CdagdnCdagup(30)>=(0.01572828771831722,0)
+<CupCdn(12)CdagdnCdagup(31)>=(0.01093072661454429,0)
+<CupCdn(12)CdagdnCdagup(32)>=(0.01371973364111624,0)
+<CupCdn(12)CdagdnCdagup(33)>=(0.01057616269245324,0)
+<CupCdn(12)CdagdnCdagup(34)>=(0.009938804401205009,0)
+<CupCdn(12)CdagdnCdagup(35)>=(0.01107079336252682,0)
+<CupCdn(12)CdagdnCdagup(36)>=(0.006779535128314224,0)
+<CupCdn(12)CdagdnCdagup(37)>=(0.009732120360726147,0)
+<CupCdn(12)CdagdnCdagup(38)>=(0.005595439843394533,0)
+<CupCdn(12)CdagdnCdagup(39)>=(0.005726939188978326,0)
+<CupCdn(12)CdagdnCdagup(40)>=(0.005463389054962887,0)
+<CupCdn(13)CdagdnCdagup(14)>=(0.2353049318383441,0)
+<CupCdn(13)CdagdnCdagup(15)>=(0.1214665413951804,0)
+<CupCdn(13)CdagdnCdagup(16)>=(0.06809502394649626,0)
+<CupCdn(13)CdagdnCdagup(17)>=(0.06804964908849004,0)
+<CupCdn(13)CdagdnCdagup(18)>=(0.04766120063747641,0)
+<CupCdn(13)CdagdnCdagup(19)>=(0.04064296574792903,0)
+<CupCdn(13)CdagdnCdagup(20)>=(0.04052925102365514,0)
+<CupCdn(13)CdagdnCdagup(21)>=(0.02844698631805486,0)
+<CupCdn(13)CdagdnCdagup(22)>=(0.03197620214036779,0)
+<CupCdn(13)CdagdnCdagup(23)>=(0.02546103841041863,0)
+<CupCdn(13)CdagdnCdagup(24)>=(0.0229760653443603,0)
+<CupCdn(13)CdagdnCdagup(25)>=(0.02445006010471092,0)
+<CupCdn(13)CdagdnCdagup(26)>=(0.01766153051083164,0)
+<CupCdn(13)CdagdnCdagup(27)>=(0.02095666266626309,0)
+<CupCdn(13)CdagdnCdagup(28)>=(0.0167047970322329,0)
+<CupCdn(13)CdagdnCdagup(29)>=(0.01567289523166225,0)
+<CupCdn(13)CdagdnCdagup(30)>=(0.01696482686504239,0)
+<CupCdn(13)CdagdnCdagup(31)>=(0.01194625296608961,0)
+<CupCdn(13)CdagdnCdagup(32)>=(0.01510126779352414,0)
+<CupCdn(13)CdagdnCdagup(33)>=(0.01129655135555705,0)
+<CupCdn(13)CdagdnCdagup(34)>=(0.01101396261142774,0)
+<CupCdn(13)CdagdnCdagup(35)>=(0.01190210255935048,0)
+<CupCdn(13)CdagdnCdagup(36)>=(0.007401239368275732,0)
+<CupCdn(13)CdagdnCdagup(37)>=(0.01061170559244838,0)
+<CupCdn(13)CdagdnCdagup(38)>=(0.006016044135179382,0)
+<CupCdn(13)CdagdnCdagup(39)>=(0.006279254907978632,0)
+<CupCdn(13)CdagdnCdagup(40)>=(0.005896876044522737,0)
+<CupCdn(14)CdagdnCdagup(15)>=(0.3087293438990592,0)
+<CupCdn(14)CdagdnCdagup(16)>=(0.109863235827545,0)
+<CupCdn(14)CdagdnCdagup(17)>=(0.09372531070703574,0)
+<CupCdn(14)CdagdnCdagup(18)>=(0.07281590425252578,0)
+<CupCdn(14)CdagdnCdagup(19)>=(0.05004509473123351,0)
+<CupCdn(14)CdagdnCdagup(20)>=(0.05527411470694666,0)
+<CupCdn(14)CdagdnCdagup(21)>=(0.03643227940168915,0)
+<CupCdn(14)CdagdnCdagup(22)>=(0.03972001001393697,0)
+<CupCdn(14)CdagdnCdagup(23)>=(0.03334848017987435,0)
+<CupCdn(14)CdagdnCdagup(24)>=(0.02756543559573792,0)
+<CupCdn(14)CdagdnCdagup(25)>=(0.03098752567887056,0)
+<CupCdn(14)CdagdnCdagup(26)>=(0.02169404264710589,0)
+<CupCdn(14)CdagdnCdagup(27)>=(0.02545131650827015,0)
+<CupCdn(14)CdagdnCdagup(28)>=(0.02093966068845125,0)
+<CupCdn(14)CdagdnCdagup(29)>=(0.01866392615073784,0)
+<CupCdn(14)CdagdnCdagup(30)>=(0.02095039511225242,0)
+<CupCdn(14)CdagdnCdagup(31)>=(0.01444384480131802,0)
+<CupCdn(14)CdagdnCdagup(32)>=(0.01818889238518874,0)
+<CupCdn(14)CdagdnCdagup(33)>=(0.01389031133239852,0)
+<CupCdn(14)CdagdnCdagup(34)>=(0.01309942817703676,0)
+<CupCdn(14)CdagdnCdagup(35)>=(0.01452025964431785,0)
+<CupCdn(14)CdagdnCdagup(36)>=(0.008885579904024865,0)
+<CupCdn(14)CdagdnCdagup(37)>=(0.01275627910714642,0)
+<CupCdn(14)CdagdnCdagup(38)>=(0.007311996173829202,0)
+<CupCdn(14)CdagdnCdagup(39)>=(0.007499656092618229,0)
+<CupCdn(14)CdagdnCdagup(40)>=(0.007138320454093234,0)
+<CupCdn(15)CdagdnCdagup(16)>=(0.2113713992217603,0)
+<CupCdn(15)CdagdnCdagup(17)>=(0.1049729079643982,0)
+<CupCdn(15)CdagdnCdagup(18)>=(0.07028089759721209,0)
+<CupCdn(15)CdagdnCdagup(19)>=(0.05344605663167373,0)
+<CupCdn(15)CdagdnCdagup(20)>=(0.04830176491512464,0)
+<CupCdn(15)CdagdnCdagup(21)>=(0.03467512056429724,0)
+<CupCdn(15)CdagdnCdagup(22)>=(0.03527868994873497,0)
+<CupCdn(15)CdagdnCdagup(23)>=(0.02886633422218841,0)
+<CupCdn(15)CdagdnCdagup(24)>=(0.02481240787718691,0)
+<CupCdn(15)CdagdnCdagup(25)>=(0.02615677295811226,0)
+<CupCdn(15)CdagdnCdagup(26)>=(0.0189809339783844,0)
+<CupCdn(15)CdagdnCdagup(27)>=(0.02170357573215098,0)
+<CupCdn(15)CdagdnCdagup(28)>=(0.01765199543134216,0)
+<CupCdn(15)CdagdnCdagup(29)>=(0.01606379884481888,0)
+<CupCdn(15)CdagdnCdagup(30)>=(0.01748964329534662,0)
+<CupCdn(15)CdagdnCdagup(31)>=(0.01227865107585458,0)
+<CupCdn(15)CdagdnCdagup(32)>=(0.01528828512960008,0)
+<CupCdn(15)CdagdnCdagup(33)>=(0.01158541109411882,0)
+<CupCdn(15)CdagdnCdagup(34)>=(0.01107000817857095,0)
+<CupCdn(15)CdagdnCdagup(35)>=(0.01207077927440354,0)
+<CupCdn(15)CdagdnCdagup(36)>=(0.007459017209948719,0)
+<CupCdn(15)CdagdnCdagup(37)>=(0.01065702189000533,0)
+<CupCdn(15)CdagdnCdagup(38)>=(0.006079122998252078,0)
+<CupCdn(15)CdagdnCdagup(39)>=(0.006282408655548502,0)
+<CupCdn(15)CdagdnCdagup(40)>=(0.005937342408224017,0)
+<CupCdn(16)CdagdnCdagup(17)>=(0.2988649612636129,0)
+<CupCdn(16)CdagdnCdagup(18)>=(0.1242763353302012,0)
+<CupCdn(16)CdagdnCdagup(19)>=(0.08343157268528584,0)
+<CupCdn(16)CdagdnCdagup(20)>=(0.08084690650865571,0)
+<CupCdn(16)CdagdnCdagup(21)>=(0.04874809557067741,0)
+<CupCdn(16)CdagdnCdagup(22)>=(0.05430230663953784,0)
+<CupCdn(16)CdagdnCdagup(23)>=(0.04139890575425292,0)
+<CupCdn(16)CdagdnCdagup(24)>=(0.03540651607957129,0)
+<CupCdn(16)CdagdnCdagup(25)>=(0.03793327044288385,0)
+<CupCdn(16)CdagdnCdagup(26)>=(0.02616386250957491,0)
+<CupCdn(16)CdagdnCdagup(27)>=(0.03100846656357564,0)
+<CupCdn(16)CdagdnCdagup(28)>=(0.02444494039302452,0)
+<CupCdn(16)CdagdnCdagup(29)>=(0.02238360337615023,0)
+<CupCdn(16)CdagdnCdagup(30)>=(0.0243898820039665,0)
+<CupCdn(16)CdagdnCdagup(31)>=(0.01682889012085515,0)
+<CupCdn(16)CdagdnCdagup(32)>=(0.02125450754298315,0)
+<CupCdn(16)CdagdnCdagup(33)>=(0.01587148189095689,0)
+<CupCdn(16)CdagdnCdagup(34)>=(0.01526686008367342,0)
+<CupCdn(16)CdagdnCdagup(35)>=(0.01659001546069214,0)
+<CupCdn(16)CdagdnCdagup(36)>=(0.01022269780663945,0)
+<CupCdn(16)CdagdnCdagup(37)>=(0.0146528745935019,0)
+<CupCdn(16)CdagdnCdagup(38)>=(0.00832114203333241,0)
+<CupCdn(16)CdagdnCdagup(39)>=(0.008628221601369754,0)
+<CupCdn(16)CdagdnCdagup(40)>=(0.008133709927782269,0)
+<CupCdn(17)CdagdnCdagup(18)>=(0.2505219893236074,0)
+<CupCdn(17)CdagdnCdagup(19)>=(0.09750840663801448,0)
+<CupCdn(17)CdagdnCdagup(20)>=(0.0848122931464691,0)
+<CupCdn(17)CdagdnCdagup(21)>=(0.05500592636177663,0)
+<CupCdn(17)CdagdnCdagup(22)>=(0.04981655033878696,0)
+<CupCdn(17)CdagdnCdagup(23)>=(0.04232783004005174,0)
+<CupCdn(17)CdagdnCdagup(24)>=(0.03254250797497842,0)
+<CupCdn(17)CdagdnCdagup(25)>=(0.03538260841594005,0)
+<CupCdn(17)CdagdnCdagup(26)>=(0.02479518593343071,0)
+<CupCdn(17)CdagdnCdagup(27)>=(0.02756060722533026,0)
+<CupCdn(17)CdagdnCdagup(28)>=(0.02295004254510234,0)
+<CupCdn(17)CdagdnCdagup(29)>=(0.01980498276405659,0)
+<CupCdn(17)CdagdnCdagup(30)>=(0.02210837421818771,0)
+<CupCdn(17)CdagdnCdagup(31)>=(0.01520434146073057,0)
+<CupCdn(17)CdagdnCdagup(32)>=(0.01874946967506164,0)
+<CupCdn(17)CdagdnCdagup(33)>=(0.01443340858235056,0)
+<CupCdn(17)CdagdnCdagup(34)>=(0.01336269793812846,0)
+<CupCdn(17)CdagdnCdagup(35)>=(0.0148535457699991,0)
+<CupCdn(17)CdagdnCdagup(36)>=(0.009046140706008884,0)
+<CupCdn(17)CdagdnCdagup(37)>=(0.01290970633401936,0)
+<CupCdn(17)CdagdnCdagup(38)>=(0.007430841972696656,0)
+<CupCdn(17)CdagdnCdagup(39)>=(0.007557524276449129,0)
+<CupCdn(17)CdagdnCdagup(40)>=(0.007222950040130115,0)
+<CupCdn(18)CdagdnCdagup(19)>=(0.2439665348130226,0)
+<CupCdn(18)CdagdnCdagup(20)>=(0.1226924174511802,0)
+<CupCdn(18)CdagdnCdagup(21)>=(0.06971152254038322,0)
+<CupCdn(18)CdagdnCdagup(22)>=(0.07048079695804593,0)
+<CupCdn(18)CdagdnCdagup(23)>=(0.04793687792435046,0)
+<CupCdn(18)CdagdnCdagup(24)>=(0.04237760122758703,0)
+<CupCdn(18)CdagdnCdagup(25)>=(0.04141419958722135,0)
+<CupCdn(18)CdagdnCdagup(26)>=(0.02888294250603042,0)
+<CupCdn(18)CdagdnCdagup(27)>=(0.03337792144722352,0)
+<CupCdn(18)CdagdnCdagup(28)>=(0.02546372050241372,0)
+<CupCdn(18)CdagdnCdagup(29)>=(0.02377695976061252,0)
+<CupCdn(18)CdagdnCdagup(30)>=(0.02495041596842078,0)
+<CupCdn(18)CdagdnCdagup(31)>=(0.01738181580272215,0)
+<CupCdn(18)CdagdnCdagup(32)>=(0.02171910166424122,0)
+<CupCdn(18)CdagdnCdagup(33)>=(0.01597126984854691,0)
+<CupCdn(18)CdagdnCdagup(34)>=(0.01556307661014348,0)
+<CupCdn(18)CdagdnCdagup(35)>=(0.01658527947943637,0)
+<CupCdn(18)CdagdnCdagup(36)>=(0.01029758700646931,0)
+<CupCdn(18)CdagdnCdagup(37)>=(0.01468360299255453,0)
+<CupCdn(18)CdagdnCdagup(38)>=(0.008281933411283993,0)
+<CupCdn(18)CdagdnCdagup(39)>=(0.008654282260184628,0)
+<CupCdn(18)CdagdnCdagup(40)>=(0.008092314350622002,0)
+<CupCdn(19)CdagdnCdagup(20)>=(0.3022541145495643,0)
+<CupCdn(19)CdagdnCdagup(21)>=(0.1075334189949272,0)
+<CupCdn(19)CdagdnCdagup(22)>=(0.09327743825822808,0)
+<CupCdn(19)CdagdnCdagup(23)>=(0.07041710334395389,0)
+<CupCdn(19)CdagdnCdagup(24)>=(0.04982017208165989,0)
+<CupCdn(19)CdagdnCdagup(25)>=(0.05426960863412706,0)
+<CupCdn(19)CdagdnCdagup(26)>=(0.03526076398730802,0)
+<CupCdn(19)CdagdnCdagup(27)>=(0.03971829886837031,0)
+<CupCdn(19)CdagdnCdagup(28)>=(0.03194859678447334,0)
+<CupCdn(19)CdagdnCdagup(29)>=(0.02721886405377897,0)
+<CupCdn(19)CdagdnCdagup(30)>=(0.03031398170043362,0)
+<CupCdn(19)CdagdnCdagup(31)>=(0.02035025062179403,0)
+<CupCdn(19)CdagdnCdagup(32)>=(0.02525733958089326,0)
+<CupCdn(19)CdagdnCdagup(33)>=(0.01915493091813541,0)
+<CupCdn(19)CdagdnCdagup(34)>=(0.01770860555056418,0)
+<CupCdn(19)CdagdnCdagup(35)>=(0.01961566646148142,0)
+<CupCdn(19)CdagdnCdagup(36)>=(0.01187285267200792,0)
+<CupCdn(19)CdagdnCdagup(37)>=(0.01695730688738383,0)
+<CupCdn(19)CdagdnCdagup(38)>=(0.009723453421892327,0)
+<CupCdn(19)CdagdnCdagup(39)>=(0.009889033749476349,0)
+<CupCdn(19)CdagdnCdagup(40)>=(0.009438490528514192,0)
+<CupCdn(20)CdagdnCdagup(21)>=(0.2130554947353407,0)
+<CupCdn(20)CdagdnCdagup(22)>=(0.107596694191945,0)
+<CupCdn(20)CdagdnCdagup(23)>=(0.06967801152780104,0)
+<CupCdn(20)CdagdnCdagup(24)>=(0.05504835226402401,0)
+<CupCdn(20)CdagdnCdagup(25)>=(0.0487438460824924,0)
+<CupCdn(20)CdagdnCdagup(26)>=(0.03467992955237367,0)
+<CupCdn(20)CdagdnCdagup(27)>=(0.03645503437264947,0)
+<CupCdn(20)CdagdnCdagup(28)>=(0.02843726627924322,0)
+<CupCdn(20)CdagdnCdagup(29)>=(0.02538027377214142,0)
+<CupCdn(20)CdagdnCdagup(30)>=(0.02637306178559036,0)
+<CupCdn(20)CdagdnCdagup(31)>=(0.01840510380187474,0)
+<CupCdn(20)CdagdnCdagup(32)>=(0.02229053583610437,0)
+<CupCdn(20)CdagdnCdagup(33)>=(0.01664076859826724,0)
+<CupCdn(20)CdagdnCdagup(34)>=(0.01579778321156106,0)
+<CupCdn(20)CdagdnCdagup(35)>=(0.01692617272090872,0)
+<CupCdn(20)CdagdnCdagup(36)>=(0.01044953000918814,0)
+<CupCdn(20)CdagdnCdagup(37)>=(0.01477896174360537,0)
+<CupCdn(20)CdagdnCdagup(38)>=(0.008394408480956857,0)
+<CupCdn(20)CdagdnCdagup(39)>=(0.008666291605919519,0)
+<CupCdn(20)CdagdnCdagup(40)>=(0.008155304056035879,0)
+<CupCdn(21)CdagdnCdagup(22)>=(0.3023831344482526,0)
+<CupCdn(21)CdagdnCdagup(23)>=(0.1226532758836537,0)
+<CupCdn(21)CdagdnCdagup(24)>=(0.08486871636139813,0)
+<CupCdn(21)CdagdnCdagup(25)>=(0.08084373300560893,0)
+<CupCdn(21)CdagdnCdagup(26)>=(0.04830878457437177,0)
+<CupCdn(21)CdagdnCdagup(27)>=(0.05530167970611738,0)
+<CupCdn(21)CdagdnCdagup(28)>=(0.0405177106386624,0)
+<CupCdn(21)CdagdnCdagup(29)>=(0.03572687361199991,0)
+<CupCdn(21)CdagdnCdagup(30)>=(0.03785402453360617,0)
+<CupCdn(21)CdagdnCdagup(31)>=(0.025165115876702,0)
+<CupCdn(21)CdagdnCdagup(32)>=(0.03139582619746138,0)
+<CupCdn(21)CdagdnCdagup(33)>=(0.02291156240555395,0)
+<CupCdn(21)CdagdnCdagup(34)>=(0.02174210650865222,0)
+<CupCdn(21)CdagdnCdagup(35)>=(0.02338544232203893,0)
+<CupCdn(21)CdagdnCdagup(36)>=(0.01424345601238752,0)
+<CupCdn(21)CdagdnCdagup(37)>=(0.02030110871391577,0)
+<CupCdn(21)CdagdnCdagup(38)>=(0.01147206391635552,0)
+<CupCdn(21)CdagdnCdagup(39)>=(0.01183916228140541,0)
+<CupCdn(21)CdagdnCdagup(40)>=(0.01114482174746401,0)
+<CupCdn(22)CdagdnCdagup(23)>=(0.2437531979135288,0)
+<CupCdn(22)CdagdnCdagup(24)>=(0.09751632352364541,0)
+<CupCdn(22)CdagdnCdagup(25)>=(0.08337191565188129,0)
+<CupCdn(22)CdagdnCdagup(26)>=(0.05341699899388357,0)
+<CupCdn(22)CdagdnCdagup(27)>=(0.0500425713302388,0)
+<CupCdn(22)CdagdnCdagup(28)>=(0.04060164643443177,0)
+<CupCdn(22)CdagdnCdagup(29)>=(0.03228054134962199,0)
+<CupCdn(22)CdagdnCdagup(30)>=(0.03473867296379809,0)
+<CupCdn(22)CdagdnCdagup(31)>=(0.02332291820472546,0)
+<CupCdn(22)CdagdnCdagup(32)>=(0.02756190907193931,0)
+<CupCdn(22)CdagdnCdagup(33)>=(0.02106961060985259,0)
+<CupCdn(22)CdagdnCdagup(34)>=(0.01894906433422771,0)
+<CupCdn(22)CdagdnCdagup(35)>=(0.0208773068665686,0)
+<CupCdn(22)CdagdnCdagup(36)>=(0.01258602517056137,0)
+<CupCdn(22)CdagdnCdagup(37)>=(0.01772979784806078,0)
+<CupCdn(22)CdagdnCdagup(38)>=(0.01020695622479812,0)
+<CupCdn(22)CdagdnCdagup(39)>=(0.01026922596327396,0)
+<CupCdn(22)CdagdnCdagup(40)>=(0.009829651450847287,0)
+<CupCdn(23)CdagdnCdagup(24)>=(0.2507430734425812,0)
+<CupCdn(23)CdagdnCdagup(25)>=(0.1243132516942729,0)
+<CupCdn(23)CdagdnCdagup(26)>=(0.07032206159798543,0)
+<CupCdn(23)CdagdnCdagup(27)>=(0.07287923149840075,0)
+<CupCdn(23)CdagdnCdagup(28)>=(0.04766621385620325,0)
+<CupCdn(23)CdagdnCdagup(29)>=(0.04354462957780263,0)
+<CupCdn(23)CdagdnCdagup(30)>=(0.04204002700313253,0)
+<CupCdn(23)CdagdnCdagup(31)>=(0.02833616547229311,0)
+<CupCdn(23)CdagdnCdagup(32)>=(0.03446237316581651,0)
+<CupCdn(23)CdagdnCdagup(33)>=(0.02434175330641198,0)
+<CupCdn(23)CdagdnCdagup(34)>=(0.02360910173928321,0)
+<CupCdn(23)CdagdnCdagup(35)>=(0.02446281882056658,0)
+<CupCdn(23)CdagdnCdagup(36)>=(0.01508074913955754,0)
+<CupCdn(23)CdagdnCdagup(37)>=(0.02127395608516463,0)
+<CupCdn(23)CdagdnCdagup(38)>=(0.01187063752190782,0)
+<CupCdn(23)CdagdnCdagup(39)>=(0.012408854528907,0)
+<CupCdn(23)CdagdnCdagup(40)>=(0.01151332903089464,0)
+<CupCdn(24)CdagdnCdagup(25)>=(0.2987054623437799,0)
+<CupCdn(24)CdagdnCdagup(26)>=(0.1049206601697282,0)
+<CupCdn(24)CdagdnCdagup(27)>=(0.09371367855747006,0)
+<CupCdn(24)CdagdnCdagup(28)>=(0.06799035683735973,0)
+<CupCdn(24)CdagdnCdagup(29)>=(0.049511102339373,0)
+<CupCdn(24)CdagdnCdagup(30)>=(0.05349103832954874,0)
+<CupCdn(24)CdagdnCdagup(31)>=(0.03338370107012935,0)
+<CupCdn(24)CdagdnCdagup(32)>=(0.03981549393967694,0)
+<CupCdn(24)CdagdnCdagup(33)>=(0.02959917367707659,0)
+<CupCdn(24)CdagdnCdagup(34)>=(0.02618582348950816,0)
+<CupCdn(24)CdagdnCdagup(35)>=(0.02885452958405753,0)
+<CupCdn(24)CdagdnCdagup(36)>=(0.01705731197897043,0)
+<CupCdn(24)CdagdnCdagup(37)>=(0.0240811257735248,0)
+<CupCdn(24)CdagdnCdagup(38)>=(0.01378230020322759,0)
+<CupCdn(24)CdagdnCdagup(39)>=(0.01379403159068855,0)
+<CupCdn(24)CdagdnCdagup(40)>=(0.01321308039281101,0)
+<CupCdn(25)CdagdnCdagup(26)>=(0.2114061388051308,0)
+<CupCdn(25)CdagdnCdagup(27)>=(0.1099329366915478,0)
+<CupCdn(25)CdagdnCdagup(28)>=(0.06807211801665275,0)
+<CupCdn(25)CdagdnCdagup(29)>=(0.0558191591219796,0)
+<CupCdn(25)CdagdnCdagup(30)>=(0.04888531836962879,0)
+<CupCdn(25)CdagdnCdagup(31)>=(0.03347961858390031,0)
+<CupCdn(25)CdagdnCdagup(32)>=(0.03736664411187029,0)
+<CupCdn(25)CdagdnCdagup(33)>=(0.02679857819084382,0)
+<CupCdn(25)CdagdnCdagup(34)>=(0.02500538703878328,0)
+<CupCdn(25)CdagdnCdagup(35)>=(0.02568254454940321,0)
+<CupCdn(25)CdagdnCdagup(36)>=(0.01579568288063774,0)
+<CupCdn(25)CdagdnCdagup(37)>=(0.02183360784734361,0)
+<CupCdn(25)CdagdnCdagup(38)>=(0.01227577181649062,0)
+<CupCdn(25)CdagdnCdagup(39)>=(0.01263700421432394,0)
+<CupCdn(25)CdagdnCdagup(40)>=(0.01178021881144619,0)
+<CupCdn(26)CdagdnCdagup(27)>=(0.3088185988931425,0)
+<CupCdn(26)CdagdnCdagup(28)>=(0.1214287068026754,0)
+<CupCdn(26)CdagdnCdagup(29)>=(0.08656880099621481,0)
+<CupCdn(26)CdagdnCdagup(30)>=(0.08155688073845971,0)
+<CupCdn(26)CdagdnCdagup(31)>=(0.04722390125571795,0)
+<CupCdn(26)CdagdnCdagup(32)>=(0.05679282281575453,0)
+<CupCdn(26)CdagdnCdagup(33)>=(0.03876621200567835,0)
+<CupCdn(26)CdagdnCdagup(34)>=(0.03545442278203825,0)
+<CupCdn(26)CdagdnCdagup(35)>=(0.03717966862508395,0)
+<CupCdn(26)CdagdnCdagup(36)>=(0.02195985651499695,0)
+<CupCdn(26)CdagdnCdagup(37)>=(0.0309235150097692,0)
+<CupCdn(26)CdagdnCdagup(38)>=(0.01724360054160227,0)
+<CupCdn(26)CdagdnCdagup(39)>=(0.01760069155777811,0)
+<CupCdn(26)CdagdnCdagup(40)>=(0.01650730721045598,0)
+<CupCdn(27)CdagdnCdagup(28)>=(0.2351159223774919,0)
+<CupCdn(27)CdagdnCdagup(29)>=(0.09654958438501957,0)
+<CupCdn(27)CdagdnCdagup(30)>=(0.0819062962486992,0)
+<CupCdn(27)CdagdnCdagup(31)>=(0.05041629407844973,0)
+<CupCdn(27)CdagdnCdagup(32)>=(0.05030971940341501,0)
+<CupCdn(27)CdagdnCdagup(33)>=(0.03757371687362065,0)
+<CupCdn(27)CdagdnCdagup(34)>=(0.03118405308230278,0)
+<CupCdn(27)CdagdnCdagup(35)>=(0.03331489757908799,0)
+<CupCdn(27)CdagdnCdagup(36)>=(0.01962757933470911,0)
+<CupCdn(27)CdagdnCdagup(37)>=(0.02672069037777289,0)
+<CupCdn(27)CdagdnCdagup(38)>=(0.0153366773761166,0)
+<CupCdn(27)CdagdnCdagup(39)>=(0.01509089855923373,0)
+<CupCdn(27)CdagdnCdagup(40)>=(0.01444193366960068,0)
+<CupCdn(28)CdagdnCdagup(29)>=(0.2574293646871915,0)
+<CupCdn(28)CdagdnCdagup(30)>=(0.1268816267957347,0)
+<CupCdn(28)CdagdnCdagup(31)>=(0.06983111954516839,0)
+<CupCdn(28)CdagdnCdagup(32)>=(0.07599146358064973,0)
+<CupCdn(28)CdagdnCdagup(33)>=(0.04640569942484537,0)
+<CupCdn(28)CdagdnCdagup(34)>=(0.04409743674572896,0)
+<CupCdn(28)CdagdnCdagup(35)>=(0.04224524572573576,0)
+<CupCdn(28)CdagdnCdagup(36)>=(0.02539806288203792,0)
+<CupCdn(28)CdagdnCdagup(37)>=(0.03491337355289475,0)
+<CupCdn(28)CdagdnCdagup(38)>=(0.01894481709571925,0)
+<CupCdn(28)CdagdnCdagup(39)>=(0.01976366547122904,0)
+<CupCdn(28)CdagdnCdagup(40)>=(0.01802281571342236,0)
+<CupCdn(29)CdagdnCdagup(30)>=(0.2973858535839898,0)
+<CupCdn(29)CdagdnCdagup(31)>=(0.1010223561987183,0)
+<CupCdn(29)CdagdnCdagup(32)>=(0.09535001394151449,0)
+<CupCdn(29)CdagdnCdagup(33)>=(0.06442545902004002,0)
+<CupCdn(29)CdagdnCdagup(34)>=(0.04873893571727553,0)
+<CupCdn(29)CdagdnCdagup(35)>=(0.0523817075664353,0)
+<CupCdn(29)CdagdnCdagup(36)>=(0.02895953462210343,0)
+<CupCdn(29)CdagdnCdagup(37)>=(0.03952071672847257,0)
+<CupCdn(29)CdagdnCdagup(38)>=(0.02238739178495899,0)
+<CupCdn(29)CdagdnCdagup(39)>=(0.02158067447134982,0)
+<CupCdn(29)CdagdnCdagup(40)>=(0.02076132926469555,0)
+<CupCdn(30)CdagdnCdagup(31)>=(0.2052077106923586,0)
+<CupCdn(30)CdagdnCdagup(32)>=(0.1127757257898693,0)
+<CupCdn(30)CdagdnCdagup(33)>=(0.06455415261920158,0)
+<CupCdn(30)CdagdnCdagup(34)>=(0.055619288875554,0)
+<CupCdn(30)CdagdnCdagup(35)>=(0.04853380946072863,0)
+<CupCdn(30)CdagdnCdagup(36)>=(0.02944039863136543,0)
+<CupCdn(30)CdagdnCdagup(37)>=(0.03786907962935691,0)
+<CupCdn(30)CdagdnCdagup(38)>=(0.02063517310563785,0)
+<CupCdn(30)CdagdnCdagup(39)>=(0.02105176798553508,0)
+<CupCdn(30)CdagdnCdagup(40)>=(0.01911583055360617,0)
+<CupCdn(31)CdagdnCdagup(32)>=(0.321176954981309,0)
+<CupCdn(31)CdagdnCdagup(33)>=(0.1199296518475114,0)
+<CupCdn(31)CdagdnCdagup(34)>=(0.088861858995278,0)
+<CupCdn(31)CdagdnCdagup(35)>=(0.08312040761969547,0)
+<CupCdn(31)CdagdnCdagup(36)>=(0.04348958368441935,0)
+<CupCdn(31)CdagdnCdagup(37)>=(0.05897260286464702,0)
+<CupCdn(31)CdagdnCdagup(38)>=(0.0314198093590136,0)
+<CupCdn(31)CdagdnCdagup(39)>=(0.03105266500160941,0)
+<CupCdn(31)CdagdnCdagup(40)>=(0.02876787421163361,0)
+<CupCdn(32)CdagdnCdagup(33)>=(0.2207587201293306,0)
+<CupCdn(32)CdagdnCdagup(34)>=(0.09381845792614327,0)
+<CupCdn(32)CdagdnCdagup(35)>=(0.07984906275797266,0)
+<CupCdn(32)CdagdnCdagup(36)>=(0.04340186606041799,0)
+<CupCdn(32)CdagdnCdagup(37)>=(0.05062396971644299,0)
+<CupCdn(32)CdagdnCdagup(38)>=(0.02865624666391983,0)
+<CupCdn(32)CdagdnCdagup(39)>=(0.02635656201477916,0)
+<CupCdn(32)CdagdnCdagup(40)>=(0.02499282768480607,0)
+<CupCdn(33)CdagdnCdagup(34)>=(0.2663118925623925,0)
+<CupCdn(33)CdagdnCdagup(35)>=(0.1317613681574074,0)
+<CupCdn(33)CdagdnCdagup(36)>=(0.06613652129397855,0)
+<CupCdn(33)CdagdnCdagup(37)>=(0.08132304212579833,0)
+<CupCdn(33)CdagdnCdagup(38)>=(0.03935585660265015,0)
+<CupCdn(33)CdagdnCdagup(39)>=(0.04049887759535739,0)
+<CupCdn(33)CdagdnCdagup(40)>=(0.03495744236928887,0)
+<CupCdn(34)CdagdnCdagup(35)>=(0.2992715504706278,0)
+<CupCdn(34)CdagdnCdagup(36)>=(0.09215785137611632,0)
+<CupCdn(34)CdagdnCdagup(37)>=(0.1000254035277594,0)
+<CupCdn(34)CdagdnCdagup(38)>=(0.05300582445135389,0)
+<CupCdn(34)CdagdnCdagup(39)>=(0.04415214281241519,0)
+<CupCdn(34)CdagdnCdagup(40)>=(0.04253113486511888,0)
+<CupCdn(35)CdagdnCdagup(36)>=(0.1870584017284291,0)
+<CupCdn(35)CdagdnCdagup(37)>=(0.1185531813998835,0)
+<CupCdn(35)CdagdnCdagup(38)>=(0.05276477429585021,0)
+<CupCdn(35)CdagdnCdagup(39)>=(0.05114400392852852,0)
+<CupCdn(35)CdagdnCdagup(40)>=(0.0411182854762628,0)
+<CupCdn(36)CdagdnCdagup(37)>=(0.3539280535828794,0)
+<CupCdn(36)CdagdnCdagup(38)>=(0.1115381968508322,0)
+<CupCdn(36)CdagdnCdagup(39)>=(0.09017015241966136,0)
+<CupCdn(36)CdagdnCdagup(40)>=(0.07705132851680437,0)
+<CupCdn(37)CdagdnCdagup(38)>=(0.1793896785407202,0)
+<CupCdn(37)CdagdnCdagup(39)>=(0.08453078740914619,0)
+<CupCdn(37)CdagdnCdagup(40)>=(0.0690692796098058,0)
+<CupCdn(38)CdagdnCdagup(39)>=(0.2886044564473549,0)
+<CupCdn(38)CdagdnCdagup(40)>=(0.1388137539901323,0)
+<CupCdn(39)CdagdnCdagup(40)>=(0.3057387150405807,0)
+Потом айтензор
+i=0 j=0 0.8007213465099079
+i=0 j=1 0.3058336303960442
+i=0 j=2 0.1391955974184004
+i=0 j=3 0.06943685439682667
+i=0 j=4 0.07717976138601772
+i=0 j=5 0.04129002669092276
+i=0 j=6 0.04265362925963859
+i=0 j=7 0.03503223161461499
+i=0 j=8 0.02509924837243912
+i=0 j=9 0.02882108508457689
+i=0 j=10 0.01918404652428464
+i=0 j=11 0.0208216655657735
+i=0 j=12 0.01806102273145207
+i=0 j=13 0.01449710036593707
+i=0 j=14 0.01653596304311185
+i=0 j=15 0.011819305866443
+i=0 j=16 0.01324700390035875
+i=0 j=17 0.01153586207193457
+i=0 j=18 0.009867509605460411
+i=0 j=19 0.01116464477173377
+i=0 j=20 0.008184113870050658
+i=0 j=21 0.009462750216123484
+i=0 j=22 0.00810795113374181
+i=0 j=23 0.007251038874445863
+i=0 j=24 0.008147377475552076
+i=0 j=25 0.005959558788972402
+i=0 j=26 0.007157349967857502
+i=0 j=27 0.005908069445436125
+i=0 j=28 0.005486885296507593
+i=0 j=29 0.006118397598583297
+i=0 j=30 0.004316283813597178
+i=0 j=31 0.005489584972172746
+i=0 j=32 0.004181012515014892
+i=0 j=33 0.004038867303981519
+i=0 j=34 0.004435060295918261
+i=0 j=35 0.002754419186809015
+i=0 j=36 0.003954006907503295
+i=0 j=37 0.002262703116505612
+i=0 j=38 0.002343878484731514
+i=0 j=39 0.002210631180459595
+i=1 j=0 0.3058336303960442
+i=1 j=1 0.348997252567101
+i=1 j=2 0.2885068821232033
+i=1 j=3 0.08541125220031931
+i=1 j=4 0.09060252610790541
+i=1 j=5 0.05142628703841705
+i=1 j=6 0.04443100598057078
+i=1 j=7 0.04065789848823569
+i=1 j=8 0.0265381377029027
+i=1 j=9 0.03118467341971031
+i=1 j=10 0.02116519991387008
+i=1 j=11 0.02169949391115991
+i=1 j=12 0.01984403352211164
+i=1 j=13 0.01518530465262999
+i=1 j=14 0.01767253066592444
+i=1 j=15 0.01270335305542917
+i=1 j=16 0.0138629326292148
+i=1 j=17 0.01245623766643563
+i=1 j=18 0.01032964692123334
+i=1 j=19 0.01188456619097106
+i=1 j=20 0.00871137518815897
+i=1 j=21 0.009934937001315222
+i=1 j=22 0.008684860067277374
+i=1 j=23 0.007599380491941522
+i=1 j=24 0.008657417105288974
+i=1 j=25 0.006313768829141422
+i=1 j=26 0.007531657061438072
+i=1 j=27 0.006298470676106641
+i=1 j=28 0.0057584581162628
+i=1 j=29 0.006492932391735005
+i=1 j=30 0.004560757325761867
+i=1 j=31 0.005785786669729748
+i=1 j=32 0.004442101595893611
+i=1 j=33 0.004245137318129288
+i=1 j=34 0.004700119595915349
+i=1 j=35 0.002905829035295727
+i=1 j=36 0.004171847932272491
+i=1 j=37 0.002396586205655567
+i=1 j=38 0.002468621128116963
+i=1 j=39 0.002338509907961324
+i=2 j=0 0.1391955974184004
+i=2 j=1 0.2885068821232033
+i=2 j=2 0.720996897610986
+i=2 j=3 0.1794689655712703
+i=2 j=4 0.1124029684282322
+i=2 j=5 0.05327032065955737
+i=2 j=6 0.05337459400029139
+i=2 j=7 0.0396433344101
+i=2 j=8 0.02889662630924841
+i=2 j=9 0.03162291808222906
+i=2 j=10 0.02080466296597265
+i=2 j=11 0.02254822066285486
+i=2 j=12 0.01907308716023106
+i=2 j=13 0.01546219996548637
+i=2 j=14 0.01735209748626341
+i=2 j=15 0.01237245792568651
+i=2 j=16 0.01387810987574661
+i=2 j=17 0.01194913813828019
+i=2 j=18 0.01029100806981659
+i=2 j=19 0.01154422018722742
+i=2 j=20 0.008462255841692062
+i=2 j=21 0.009791172952302857
+i=2 j=22 0.008336454041052646
+i=2 j=23 0.007492767149874794
+i=2 j=24 0.008373071617165485
+i=2 j=25 0.006130026592863408
+i=2 j=26 0.007364274638200674
+i=2 j=27 0.006055915974273321
+i=2 j=28 0.00564492727839463
+i=2 j=29 0.006271204091964229
+i=2 j=30 0.004429356609445854
+i=2 j=31 0.005633134556653077
+i=2 j=32 0.004280820423538759
+i=2 j=33 0.004145991912000409
+i=2 j=34 0.004541494939633915
+i=2 j=35 0.002823896104254023
+i=2 j=36 0.00405260233967361
+i=2 j=37 0.002316711697865311
+i=2 j=38 0.002403202253878382
+i=2 j=39 0.002263863527945118
+i=3 j=0 0.06943685439682667
+i=3 j=1 0.08541125220031931
+i=3 j=2 0.1794689655712703
+i=3 j=3 0.4961162612689411
+i=3 j=4 0.3539229211319235
+i=3 j=5 0.1193519950362244
+i=3 j=6 0.1005314881422011
+i=3 j=7 0.08158403596219249
+i=3 j=8 0.05093660926643192
+i=3 j=9 0.05915756649750392
+i=3 j=10 0.03805132002163879
+i=3 j=11 0.03969153813740059
+i=3 j=12 0.03502363101683408
+i=3 j=13 0.02686649211810281
+i=3 j=14 0.03102109891516717
+i=3 j=15 0.02193561846643225
+i=3 j=16 0.02417939244780947
+i=3 j=17 0.02134334303057108
+i=3 j=18 0.01782035451837607
+i=3 j=19 0.02036353793643569
+i=3 j=20 0.01484810803652878
+i=3 j=21 0.01702167684391174
+i=3 j=22 0.01472970106179954
+i=3 j=23 0.01297219332032326
+i=3 j=24 0.01469446010253454
+i=3 j=25 0.010706370965945
+i=3 j=26 0.01280217078727232
+i=3 j=27 0.01064225729910909
+i=3 j=28 0.009780081420474837
+i=3 j=29 0.01097826877472378
+i=3 j=30 0.007717798462909035
+i=3 j=31 0.00979837266382259
+i=3 j=32 0.007497453789667105
+i=3 j=33 0.007191466663196634
+i=3 j=34 0.00793684771668878
+i=3 j=35 0.004913968046673183
+i=3 j=36 0.007053886782029928
+i=3 j=37 0.004046165646135507
+i=3 j=38 0.004175989828575505
+i=3 j=39 0.003949471918224638
+i=4 j=0 0.07717976138601772
+i=4 j=1 0.09060252610790541
+i=4 j=2 0.1124029684282322
+i=4 j=3 0.3539229211319235
+i=4 j=4 0.5568107885409621
+i=4 j=5 0.1869900275837045
+i=4 j=6 0.093116322477997
+i=4 j=7 0.06662437521460958
+i=4 j=8 0.04377926535803353
+i=4 j=9 0.04380954513965522
+i=4 j=10 0.02966758238023381
+i=4 j=11 0.02919335707339488
+i=4 j=12 0.02556713731206809
+i=4 j=13 0.01979906752488751
+i=4 j=14 0.02210915056072888
+i=4 j=15 0.01592064055268206
+i=4 j=16 0.01718725746362591
+i=4 j=17 0.01518161621415129
+i=4 j=18 0.01269370540318654
+i=4 j=19 0.01433760324153743
+i=4 j=20 0.01053385864974454
+i=4 j=21 0.01196025350788863
+i=4 j=22 0.01036512806234153
+i=4 j=23 0.009121843583894377
+i=4 j=24 0.0102874959410723
+i=4 j=25 0.007519205294485499
+i=4 j=26 0.008949252427387816
+i=4 j=27 0.007447647434530379
+i=4 j=28 0.006837151996193879
+i=4 j=29 0.007662884904491977
+i=4 j=30 0.005393004511337124
+i=4 j=31 0.006832694869546849
+i=4 j=32 0.005231342305487963
+i=4 j=33 0.005013952659159763
+i=4 j=34 0.005531595238871602
+i=4 j=35 0.003425371981051905
+i=4 j=36 0.004913961511341989
+i=4 j=37 0.002819217893741134
+i=4 j=38 0.00290878758773606
+i=4 j=39 0.002751121704062556
+i=5 j=0 0.04129002669092276
+i=5 j=1 0.05142628703841705
+i=5 j=2 0.05327032065955737
+i=5 j=3 0.1193519950362244
+i=5 j=4 0.1869900275837045
+i=5 j=5 0.6432618177147115
+i=5 j=6 0.299431212631302
+i=5 j=7 0.1325428981798816
+i=5 j=8 0.08040522977517925
+i=5 j=9 0.08344243314605133
+i=5 j=10 0.04884455788426724
+i=5 j=11 0.05263139919068164
+i=5 j=12 0.04243381803542314
+i=5 j=13 0.03351742541425172
+i=5 j=14 0.03732502998296056
+i=5 j=15 0.02583051616517772
+i=5 j=16 0.02899050760154058
+i=5 j=17 0.02456931536326096
+i=5 j=18 0.0210004772202289
+i=5 j=19 0.02347625650985217
+i=5 j=20 0.01702331622948233
+i=5 j=21 0.01970436997014036
+i=5 j=22 0.01665769089353384
+i=5 j=23 0.01493986067548461
+i=5 j=24 0.01665470212204407
+i=5 j=25 0.01214356083222758
+i=5 j=26 0.01458692129236862
+i=5 j=27 0.01195571387220994
+i=5 j=28 0.01113912516203372
+i=5 j=29 0.01235506884973118
+i=5 j=30 0.008714928979940603
+i=5 j=31 0.01107970247844778
+i=5 j=32 0.008408125853247224
+i=5 j=33 0.008143414740914789
+i=5 j=34 0.008912357855271202
+i=5 j=35 0.0055404816874253
+i=5 j=36 0.007949092246251857
+i=5 j=37 0.004542360172146804
+i=5 j=38 0.004712429678331875
+i=5 j=39 0.004437889789335541
+i=6 j=0 0.04265362925963859
+i=6 j=1 0.04443100598057078
+i=6 j=2 0.05337459400029139
+i=6 j=3 0.1005314881422011
+i=6 j=4 0.093116322477997
+i=6 j=5 0.299431212631302
+i=6 j=6 0.4647386116489323
+i=6 j=7 0.2661391790669461
+i=6 j=8 0.09472372428440727
+i=6 j=9 0.0893350385578304
+i=6 j=10 0.05592951543280821
+i=6 j=11 0.0490647420317549
+i=6 j=12 0.04428559216202304
+i=6 j=13 0.03140537244093066
+i=6 j=14 0.03561851187258336
+i=6 j=15 0.02514999711944914
+i=6 j=16 0.02633866997329262
+i=6 j=17 0.02371448114558572
+i=6 j=18 0.01907735671364676
+i=6 j=19 0.02183976118769294
+i=6 j=20 0.0158937978238344
+i=6 j=21 0.01780629087171836
+i=6 j=22 0.01563445827958339
+i=6 j=23 0.01344898412163557
+i=6 j=24 0.01533438150907439
+i=6 j=25 0.01113742021424301
+i=6 j=26 0.01316735021437264
+i=6 j=27 0.0110619904012712
+i=6 j=28 0.01000111741774128
+i=6 j=29 0.01131119297445631
+i=6 j=30 0.007919349492262367
+i=6 j=31 0.01000554597350334
+i=6 j=32 0.007709811034766344
+i=6 j=33 0.0073141581798943
+i=6 j=34 0.008126358141277856
+i=6 j=35 0.005009591800876114
+i=6 j=36 0.007185594185155407
+i=6 j=37 0.004136219771340065
+i=6 j=38 0.004245129440231154
+i=6 j=39 0.004030809041845083
+i=7 j=0 0.03503223161461499
+i=7 j=1 0.04065789848823569
+i=7 j=2 0.0396433344101
+i=7 j=3 0.08158403596219249
+i=7 j=4 0.06662437521460958
+i=7 j=5 0.1325428981798816
+i=7 j=6 0.2661391790669461
+i=7 j=7 0.6626407257831644
+i=7 j=8 0.2209060683929484
+i=7 j=9 0.120814194037686
+i=7 j=10 0.06509115180325456
+i=7 j=11 0.06482404242810041
+i=7 j=12 0.04671843200803481
+i=7 j=13 0.0378482255586314
+i=7 j=14 0.03899167730987481
+i=7 j=15 0.02699973453983628
+i=7 j=16 0.02978847595499319
+i=7 j=17 0.02449436948286921
+i=7 j=18 0.0212258196601381
+i=7 j=19 0.02304117413072166
+i=7 j=20 0.01676281082036945
+i=7 j=21 0.01927207292264329
+i=7 j=22 0.01606885535025395
+i=7 j=23 0.01453837416781824
+i=7 j=24 0.0159594152471457
+i=7 j=25 0.01167340755181231
+i=7 j=26 0.01397468498155993
+i=7 j=27 0.0113667656337656
+i=7 j=28 0.01065683782494555
+i=7 j=29 0.01171185669805899
+i=7 j=30 0.008284955009857292
+i=7 j=31 0.0105126770328719
+i=7 j=32 0.007943074113599234
+i=7 j=33 0.007727626301200603
+i=7 j=34 0.008410988526304878
+i=7 j=35 0.00524162994070788
+i=7 j=36 0.007511527437008017
+i=7 j=37 0.004283533882982782
+i=7 j=38 0.004455402661682649
+i=7 j=39 0.004185551825080765
+i=8 j=0 0.02509924837243912
+i=8 j=1 0.0265381377029027
+i=8 j=2 0.02889662630924841
+i=8 j=3 0.05093660926643192
+i=8 j=4 0.04377926535803353
+i=8 j=5 0.08040522977517925
+i=8 j=6 0.09472372428440727
+i=8 j=7 0.2209060683929484
+i=8 j=8 0.5126318563025327
+i=8 j=9 0.3211314515152799
+i=8 j=10 0.1135879545177698
+i=8 j=11 0.09587291184499994
+i=8 j=12 0.07626679000967172
+i=8 j=13 0.05064002770845864
+i=8 j=14 0.05699217033907619
+i=8 j=15 0.03756638180412696
+i=8 j=16 0.04000400965770891
+i=8 j=17 0.0345922904919576
+i=8 j=18 0.02772396067357755
+i=8 j=19 0.03150302618193222
+i=8 j=20 0.02240902127220556
+i=8 j=21 0.02537045151695025
+i=8 j=22 0.02180411750157183
+i=8 j=23 0.01885527717500376
+i=8 j=24 0.02133060260224028
+i=8 j=25 0.01537410476155245
+i=8 j=26 0.01826639179244639
+i=8 j=27 0.01516380020717839
+i=8 j=28 0.0137946640217417
+i=8 j=29 0.01549658428898103
+i=8 j=30 0.01083703557950372
+i=8 j=31 0.01371279791270169
+i=8 j=32 0.01050128920599369
+i=8 j=33 0.01001137720125954
+i=8 j=34 0.01106917336694587
+i=8 j=35 0.006833244166146496
+i=8 j=36 0.009799356050488161
+i=8 j=37 0.005627076794356395
+i=8 j=38 0.005790787804283863
+i=8 j=39 0.005485332301369019
+i=9 j=0 0.02882108508457689
+i=9 j=1 0.03118467341971031
+i=9 j=2 0.03162291808222906
+i=9 j=3 0.05915756649750392
+i=9 j=4 0.04380954513965522
+i=9 j=5 0.08344243314605133
+i=9 j=6 0.0893350385578304
+i=9 j=7 0.120814194037686
+i=9 j=8 0.3211314515152799
+i=9 j=9 0.5713868298077975
+i=9 j=10 0.2051459970073633
+i=9 j=11 0.1019767901292728
+i=9 j=12 0.0703138636556216
+i=9 j=13 0.05080664171092351
+i=9 j=14 0.04754559203911719
+i=9 j=15 0.03371757010458079
+i=9 j=16 0.03363008886153777
+i=9 j=17 0.02851485961033459
+i=9 j=18 0.02351016950898438
+i=9 j=19 0.02531893269487422
+i=9 j=20 0.01854377998348353
+i=9 j=21 0.02049150628484053
+i=9 j=22 0.01749218633340103
+i=9 j=23 0.01532540195802019
+i=9 j=24 0.01693140565975404
+i=9 j=25 0.01237662175637304
+i=9 j=26 0.01454168625559706
+i=9 j=27 0.01202448034708822
+i=9 j=28 0.01101891538136518
+i=9 j=29 0.01222786140328471
+i=9 j=30 0.008612633557032017
+i=9 j=31 0.01084209801849946
+i=9 j=32 0.008278795142845614
+i=9 j=33 0.007929922593533836
+i=9 j=34 0.008710474271599107
+i=9 j=35 0.005397432455274933
+i=9 j=36 0.00772398201793277
+i=9 j=37 0.004427139153607182
+i=9 j=38 0.00456866348849995
+i=9 j=39 0.004315765044545341
+i=10 j=0 0.01918404652428464
+i=10 j=1 0.02116519991387008
+i=10 j=2 0.02080466296597265
+i=10 j=3 0.03805132002163879
+i=10 j=4 0.02966758238023381
+i=10 j=5 0.04884455788426724
+i=10 j=6 0.05592951543280821
+i=10 j=7 0.06509115180325456
+i=10 j=8 0.1135879545177698
+i=10 j=9 0.2051459970073633
+i=10 j=10 0.6149522752097089
+i=10 j=11 0.2975599452365277
+i=10 j=12 0.127683882163525
+i=10 j=13 0.0824785023081667
+i=10 j=14 0.08188955169989609
+i=10 j=15 0.04921137164118433
+i=10 j=16 0.05375297945635811
+i=10 j=17 0.04224310039499194
+i=10 j=18 0.03495635766576515
+i=10 j=19 0.03801093638537905
+i=10 j=20 0.02653747293638709
+i=10 j=21 0.03046484436425905
+i=10 j=22 0.02507075853280373
+i=10 j=23 0.02224435265605933
+i=10 j=24 0.02449110837972414
+i=10 j=25 0.01759907096856463
+i=10 j=26 0.02104775559591278
+i=10 j=27 0.01704855748159911
+i=10 j=28 0.01582078335645302
+i=10 j=29 0.017430139026947
+i=10 j=30 0.01223146594703445
+i=10 j=31 0.01550469162834595
+i=10 j=32 0.011710742558948
+i=10 j=33 0.01132575964299753
+i=10 j=34 0.01235590952115323
+i=10 j=35 0.007671608427786098
+i=10 j=36 0.01099027419718258
+i=10 j=37 0.006272606551587472
+i=10 j=38 0.006505584656208289
+i=10 j=39 0.006121654849902576
+i=11 j=0 0.0208216655657735
+i=11 j=1 0.02169949391115991
+i=11 j=2 0.02254822066285486
+i=11 j=3 0.03969153813740059
+i=11 j=4 0.02919335707339488
+i=11 j=5 0.05263139919068164
+i=11 j=6 0.0490647420317549
+i=11 j=7 0.06482404242810041
+i=11 j=8 0.09587291184499994
+i=11 j=9 0.1019767901292728
+i=11 j=10 0.2975599452365277
+i=11 j=11 0.4921265083150393
+i=11 j=12 0.2572194602735699
+i=11 j=13 0.0974586888958569
+i=11 j=14 0.08703355019132834
+i=11 j=15 0.05613635171368458
+i=11 j=16 0.04984045424959883
+i=11 j=17 0.04373587994111582
+i=11 j=18 0.03251182612801164
+i=11 j=19 0.03589510971106456
+i=11 j=20 0.02553141123417438
+i=11 j=21 0.02737562577515859
+i=11 j=22 0.02388646339766204
+i=11 j=23 0.01994142048113067
+i=11 j=24 0.0224836982651245
+i=11 j=25 0.01617008979701615
+i=11 j=26 0.01876654781856635
+i=11 j=27 0.01575336369808632
+i=11 j=28 0.01402032553266248
+i=11 j=29 0.01581104483277043
+i=11 j=30 0.01101272525028146
+i=11 j=31 0.0137931297834478
+i=11 j=32 0.01064495977761505
+i=11 j=33 0.01000430006077935
+i=11 j=34 0.0111276044792657
+i=11 j=35 0.006835754925056064
+i=11 j=36 0.009778571720850273
+i=11 j=37 0.005637654453996783
+i=11 j=38 0.005761227926716626
+i=11 j=39 0.00548114376858409
+i=12 j=0 0.01806102273145207
+i=12 j=1 0.01984403352211164
+i=12 j=2 0.01907308716023106
+i=12 j=3 0.03502363101683408
+i=12 j=4 0.02556713731206809
+i=12 j=5 0.04243381803542314
+i=12 j=6 0.04428559216202304
+i=12 j=7 0.04671843200803481
+i=12 j=8 0.07626679000967172
+i=12 j=9 0.0703138636556216
+i=12 j=10 0.127683882163525
+i=12 j=11 0.2572194602735699
+i=12 j=12 0.6469721493025596
+i=12 j=13 0.2353049318383436
+i=12 j=14 0.1223195488616501
+i=12 j=15 0.06862273867459934
+i=12 j=16 0.06839887893136264
+i=12 j=17 0.04798771522897003
+i=12 j=18 0.04088896907189463
+i=12 j=19 0.04075104842170146
+i=12 j=20 0.02864733820909515
+i=12 j=21 0.03214371822525889
+i=12 j=22 0.02562367215290041
+i=12 j=23 0.02311755172792244
+i=12 j=24 0.02458054655721399
+i=12 j=25 0.01778613719067906
+i=12 j=26 0.02106542754801033
+i=12 j=27 0.01681155638347299
+i=12 j=28 0.01576932588310992
+i=12 j=29 0.0170539040403652
+i=12 j=30 0.01203310802247261
+i=12 j=31 0.01517701939910275
+i=12 j=32 0.01137099547011348
+i=12 j=33 0.01108119208348286
+i=12 j=34 0.01196254373442308
+i=12 j=35 0.007460425624271024
+i=12 j=36 0.01065968418256915
+i=12 j=37 0.006061158552852593
+i=12 j=38 0.006314683498040967
+i=12 j=39 0.005915157162827023
+i=13 j=0 0.01449710036593707
+i=13 j=1 0.01518530465262999
+i=13 j=2 0.01546219996548637
+i=13 j=3 0.02686649211810281
+i=13 j=4 0.01979906752488751
+i=13 j=5 0.03351742541425172
+i=13 j=6 0.03140537244093066
+i=13 j=7 0.0378482255586314
+i=13 j=8 0.05064002770845864
+i=13 j=9 0.05080664171092351
+i=13 j=10 0.0824785023081667
+i=13 j=11 0.0974586888958569
+i=13 j=12 0.2353049318383436
+i=13 j=13 0.5143237952104587
+i=13 j=14 0.3087293438990599
+i=13 j=15 0.1107550372176751
+i=13 j=16 0.09423123504859644
+i=13 j=17 0.07315796616605978
+i=13 j=18 0.05037692505988126
+i=13 j=19 0.05549995966762205
+i=13 j=20 0.0366632545142188
+i=13 j=21 0.03990678375062968
+i=13 j=22 0.0335143447845456
+i=13 j=23 0.02772816507376865
+i=13 j=24 0.03111748056256044
+i=13 j=25 0.02183041345164571
+i=13 j=26 0.02556547563025767
+i=13 j=27 0.02104845261385281
+i=13 j=28 0.0187694372644648
+i=13 j=29 0.02103834209682469
+i=13 j=30 0.01453757915625817
+i=13 j=31 0.01826596547720613
+i=13 j=32 0.01396673227420515
+i=13 j=33 0.01317118734833727
+i=13 j=34 0.01457953513796569
+i=13 j=35 0.00894976362604241
+i=13 j=36 0.01280336123687576
+i=13 j=37 0.007359541435883053
+i=13 j=38 0.007536352546129483
+i=13 j=39 0.007153961812735905
+i=14 j=0 0.01653596304311185
+i=14 j=1 0.01767253066592444
+i=14 j=2 0.01735209748626341
+i=14 j=3 0.03102109891516717
+i=14 j=4 0.02210915056072888
+i=14 j=5 0.03732502998296056
+i=14 j=6 0.03561851187258336
+i=14 j=7 0.03899167730987481
+i=14 j=8 0.05699217033907619
+i=14 j=9 0.04754559203911719
+i=14 j=10 0.08188955169989609
+i=14 j=11 0.08703355019132834
+i=14 j=12 0.1223195488616501
+i=14 j=13 0.3087293438990599
+i=14 j=14 0.5811929023988582
+i=14 j=15 0.2113713992217607
+i=14 j=16 0.1058791675501753
+i=14 j=17 0.07080825492070687
+i=14 j=18 0.05381971811841849
+i=14 j=19 0.04863294784586543
+i=14 j=20 0.03492984202369977
+i=14 j=21 0.0355118037994463
+i=14 j=22 0.02906714547163555
+i=14 j=23 0.02499110543106895
+i=14 j=24 0.02632107902760785
+i=14 j=25 0.01912776427352101
+i=14 j=26 0.02183994988832111
+i=14 j=27 0.01777662710379446
+i=14 j=28 0.01617923761151841
+i=14 j=29 0.01759642215321946
+i=14 j=30 0.01237802780620208
+i=14 j=31 0.01537995765712757
+i=14 j=32 0.01167035003845532
+i=14 j=33 0.01114870000305964
+i=14 j=34 0.01214215797612336
+i=14 j=35 0.0075254182376307
+i=14 j=36 0.01071498696928483
+i=14 j=37 0.006129666208528787
+i=14 j=38 0.006323830529683839
+i=14 j=39 0.005960879751401125
+i=15 j=0 0.011819305866443
+i=15 j=1 0.01270335305542917
+i=15 j=2 0.01237245792568651
+i=15 j=3 0.02193561846643225
+i=15 j=4 0.01592064055268206
+i=15 j=5 0.02583051616517772
+i=15 j=6 0.02514999711944914
+i=15 j=7 0.02699973453983628
+i=15 j=8 0.03756638180412696
+i=15 j=9 0.03371757010458079
+i=15 j=10 0.04921137164118433
+i=15 j=11 0.05613635171368458
+i=15 j=12 0.06862273867459934
+i=15 j=13 0.1107550372176751
+i=15 j=14 0.2113713992217607
+i=15 j=15 0.6002207243199106
+i=15 j=16 0.2988649612636128
+i=15 j=17 0.1251214101641197
+i=15 j=18 0.08394716733445355
+i=15 j=19 0.08117534721274691
+i=15 j=20 0.04907791890075845
+i=15 j=21 0.05452995255264498
+i=15 j=22 0.0416200290064592
+i=15 j=23 0.03559987404722197
+i=15 j=24 0.03809147719285938
+i=15 j=25 0.02632816402540903
+i=15 j=26 0.03113839627264206
+i=15 j=27 0.02457545105590728
+i=15 j=28 0.02250245387090645
+i=15 j=29 0.024491583900077
+i=15 j=30 0.01693623149369716
+i=15 j=31 0.0213402485338267
+i=15 j=32 0.01595953256117866
+i=15 j=33 0.015346275855163
+i=15 j=34 0.01665703111233472
+i=15 j=35 0.01029484386965827
+i=15 j=36 0.01470476604954995
+i=15 j=37 0.008374976736213588
+i=15 j=38 0.00866872610174069
+i=15 j=39 0.008150768681789147
+i=16 j=0 0.01324700390035875
+i=16 j=1 0.0138629326292148
+i=16 j=2 0.01387810987574661
+i=16 j=3 0.02417939244780947
+i=16 j=4 0.01718725746362591
+i=16 j=5 0.02899050760154058
+i=16 j=6 0.02633866997329262
+i=16 j=7 0.02978847595499319
+i=16 j=8 0.04000400965770891
+i=16 j=9 0.03363008886153777
+i=16 j=10 0.05375297945635811
+i=16 j=11 0.04984045424959883
+i=16 j=12 0.06839887893136264
+i=16 j=13 0.09423123504859644
+i=16 j=14 0.1058791675501753
+i=16 j=15 0.2988649612636128
+i=16 j=16 0.5048574923644801
+i=16 j=17 0.2505219893236087
+i=16 j=18 0.09843757009580238
+i=16 j=19 0.08532738460617796
+i=16 j=20 0.05537748647214249
+i=16 j=21 0.05014952594583886
+i=16 j=22 0.04257268019826769
+i=16 j=23 0.03278004654712778
+i=16 j=24 0.03557600674603623
+i=16 j=25 0.02497390278836512
+i=16 j=26 0.02772336065687147
+i=16 j=27 0.02309157348450966
+i=16 j=28 0.01994283306198944
+i=16 j=29 0.0222269605014319
+i=16 j=30 0.01531953627602542
+i=16 j=31 0.01885274005669339
+i=16 j=32 0.01452793821518962
+i=16 j=33 0.01345289487763201
+i=16 j=34 0.01493105924914034
+i=16 j=35 0.009122122408265201
+i=16 j=36 0.01297288565857532
+i=16 j=37 0.007487429099487969
+i=16 j=38 0.007603783523394055
+i=16 j=39 0.007247095184155718
+i=17 j=0 0.01153586207193457
+i=17 j=1 0.01245623766643563
+i=17 j=2 0.01194913813828019
+i=17 j=3 0.02134334303057108
+i=17 j=4 0.01518161621415129
+i=17 j=5 0.02456931536326096
+i=17 j=6 0.02371448114558572
+i=17 j=7 0.02449436948286921
+i=17 j=8 0.0345922904919576
+i=17 j=9 0.02851485961033459
+i=17 j=10 0.04224310039499194
+i=17 j=11 0.04373587994111582
+i=17 j=12 0.04798771522897003
+i=17 j=13 0.07315796616605978
+i=17 j=14 0.07080825492070687
+i=17 j=15 0.1251214101641197
+i=17 j=16 0.2505219893236087
+i=17 j=17 0.6414998227610821
+i=17 j=18 0.2439665348130218
+i=17 j=19 0.1235425252240863
+i=17 j=20 0.07023906244133381
+i=17 j=21 0.07082712366699868
+i=17 j=22 0.04826422173793848
+i=17 j=23 0.04262237380382652
+i=17 j=24 0.0416352774020525
+i=17 j=25 0.02908372795082553
+i=17 j=26 0.0335437357256683
+i=17 j=27 0.02562634791349563
+i=17 j=28 0.02391709188551746
+i=17 j=29 0.0250788525320727
+i=17 j=30 0.01750536462120644
+i=17 j=31 0.0218239985997891
+i=17 j=32 0.01607498337876644
+i=17 j=33 0.0156546917975498
+i=17 j=34 0.01666733170762232
+i=17 j=35 0.01037805206551684
+i=17 j=36 0.01474747177597461
+i=17 j=37 0.008342922828629038
+i=17 j=38 0.008701466256405601
+i=17 j=39 0.008116139905628476
+i=18 j=0 0.009867509605460411
+i=18 j=1 0.01032964692123334
+i=18 j=2 0.01029100806981659
+i=18 j=3 0.01782035451837607
+i=18 j=4 0.01269370540318654
+i=18 j=5 0.0210004772202289
+i=18 j=6 0.01907735671364676
+i=18 j=7 0.0212258196601381
+i=18 j=8 0.02772396067357755
+i=18 j=9 0.02351016950898438
+i=18 j=10 0.03495635766576515
+i=18 j=11 0.03251182612801164
+i=18 j=12 0.04088896907189463
+i=18 j=13 0.05037692505988126
+i=18 j=14 0.05381971811841849
+i=18 j=15 0.08394716733445355
+i=18 j=16 0.09843757009580238
+i=18 j=17 0.2439665348130218
+i=18 j=18 0.5114276230137474
+i=18 j=19 0.3022541145495654
+i=18 j=20 0.1084322474660361
+i=18 j=21 0.09378440584792748
+i=18 j=22 0.07076351565301532
+i=18 j=23 0.05015315622341803
+i=18 j=24 0.05449731709563609
+i=18 j=25 0.0354938834488139
+i=18 j=26 0.03990508205091322
+i=18 j=27 0.03211616133068021
+i=18 j=28 0.02738122362963715
+i=18 j=29 0.03044345492235912
+i=18 j=30 0.0204864671767201
+i=18 j=31 0.02536851117147824
+i=18 j=32 0.01926195612675656
+i=18 j=33 0.01780952218269182
+i=18 j=34 0.01969773847061656
+i=18 j=35 0.01196070158744595
+i=18 j=36 0.01702245450399811
+i=18 j=37 0.009787679447262283
+i=18 j=38 0.009939184998925118
+i=18 j=39 0.009460349632150257
+i=19 j=0 0.01116464477173377
+i=19 j=1 0.01188456619097106
+i=19 j=2 0.01154422018722742
+i=19 j=3 0.02036353793643569
+i=19 j=4 0.01433760324153743
+i=19 j=5 0.02347625650985217
+i=19 j=6 0.02183976118769294
+i=19 j=7 0.02304117413072166
+i=19 j=8 0.03150302618193222
+i=19 j=9 0.02531893269487422
+i=19 j=10 0.03801093638537905
+i=19 j=11 0.03589510971106456
+i=19 j=12 0.04075104842170146
+i=19 j=13 0.05549995966762205
+i=19 j=14 0.04863294784586543
+i=19 j=15 0.08117534721274691
+i=19 j=16 0.08532738460617796
+i=19 j=17 0.1235425252240863
+i=19 j=18 0.3022541145495654
+i=19 j=19 0.590200018333358
+i=19 j=20 0.213055494735341
+i=19 j=21 0.1084953238119738
+i=19 j=22 0.07020557188401305
+i=19 j=23 0.05541982491943755
+i=19 j=24 0.04907364872570745
+i=19 j=25 0.03493465333243959
+i=19 j=26 0.03668599163148512
+i=19 j=27 0.02863764693238497
+i=19 j=28 0.02555715237955398
+i=19 j=29 0.0265349789553858
+i=19 j=30 0.01855020303832186
+i=19 j=31 0.02242269375489632
+i=19 j=32 0.01676155764062092
+i=19 j=33 0.01590758173750259
+i=19 j=34 0.01702527301923439
+i=19 j=35 0.01054091008494745
+i=19 j=36 0.01485784622656791
+i=19 j=37 0.008463432402646427
+i=19 j=38 0.008722301425836397
+i=19 j=39 0.00818680826651396
+i=20 j=0 0.008184113870050658
+i=20 j=1 0.00871137518815897
+i=20 j=2 0.008462255841692062
+i=20 j=3 0.01484810803652878
+i=20 j=4 0.01053385864974454
+i=20 j=5 0.01702331622948233
+i=20 j=6 0.0158937978238344
+i=20 j=7 0.01676281082036945
+i=20 j=8 0.02240902127220556
+i=20 j=9 0.01854377998348353
+i=20 j=10 0.02653747293638709
+i=20 j=11 0.02553141123417438
+i=20 j=12 0.02864733820909515
+i=20 j=13 0.0366632545142188
+i=20 j=14 0.03492984202369977
+i=20 j=15 0.04907791890075845
+i=20 j=16 0.05537748647214249
+i=20 j=17 0.07023906244133381
+i=20 j=18 0.1084322474660361
+i=20 j=19 0.213055494735341
+i=20 j=20 0.589875248400768
+i=20 j=21 0.3023831344482523
+i=20 j=22 0.1235034922348331
+i=20 j=23 0.08538377041340776
+i=20 j=24 0.08117217114519505
+i=20 j=25 0.04863998353014746
+i=20 j=26 0.05552748006023747
+i=20 j=27 0.0407395293530177
+i=20 j=28 0.03591873559872841
+i=20 j=29 0.03801022348260222
+i=20 j=30 0.02532865437226266
+i=20 j=31 0.0315212488690966
+i=20 j=32 0.02303934176048041
+i=20 j=33 0.02185544872855965
+i=20 j=34 0.02347948409204427
+i=20 j=35 0.01434439100400882
+i=20 j=36 0.02037277505402312
+i=20 j=37 0.01154625048351402
+i=20 j=38 0.01189475213393506
+i=20 j=39 0.01116808239125527
+i=21 j=0 0.009462750216123484
+i=21 j=1 0.009934937001315222
+i=21 j=2 0.009791172952302857
+i=21 j=3 0.01702167684391174
+i=21 j=4 0.01196025350788863
+i=21 j=5 0.01970436997014036
+i=21 j=6 0.01780629087171836
+i=21 j=7 0.01927207292264329
+i=21 j=8 0.02537045151695025
+i=21 j=9 0.02049150628484053
+i=21 j=10 0.03046484436425905
+i=21 j=11 0.02737562577515859
+i=21 j=12 0.03214371822525889
+i=21 j=13 0.03990678375062968
+i=21 j=14 0.0355118037994463
+i=21 j=15 0.05452995255264498
+i=21 j=16 0.05014952594583886
+i=21 j=17 0.07082712366699868
+i=21 j=18 0.09378440584792748
+i=21 j=19 0.1084953238119738
+i=21 j=20 0.3023831344482523
+i=21 j=21 0.5116494086152852
+i=21 j=22 0.24375319791353
+i=21 j=23 0.09844543478610311
+i=21 j=24 0.08388756505266338
+i=21 j=25 0.05379072042087524
+i=21 j=26 0.05037440487651507
+i=21 j=27 0.04084771365917394
+i=21 j=28 0.03251705313258492
+i=21 j=29 0.03493074697872695
+i=21 j=30 0.02350078935674872
+i=21 j=31 0.02772086679912177
+i=21 j=32 0.02120824804380137
+i=21 j=33 0.01908122837239435
+i=21 j=34 0.02098869408259643
+i=21 j=35 0.01269328951569201
+i=21 j=36 0.01781947775479073
+i=21 j=37 0.01028550750270521
+i=21 j=38 0.01033388925475964
+i=21 j=39 0.009863637959628494
+i=22 j=0 0.00810795113374181
+i=22 j=1 0.008684860067277374
+i=22 j=2 0.008336454041052646
+i=22 j=3 0.01472970106179954
+i=22 j=4 0.01036512806234153
+i=22 j=5 0.01665769089353384
+i=22 j=6 0.01563445827958339
+i=22 j=7 0.01606885535025395
+i=22 j=8 0.02180411750157183
+i=22 j=9 0.01749218633340103
+i=22 j=10 0.02507075853280373
+i=22 j=11 0.02388646339766204
+i=22 j=12 0.02562367215290041
+i=22 j=13 0.0335143447845456
+i=22 j=14 0.02906714547163555
+i=22 j=15 0.0416200290064592
+i=22 j=16 0.04257268019826769
+i=22 j=17 0.04826422173793848
+i=22 j=18 0.07076351565301532
+i=22 j=19 0.07020557188401305
+i=22 j=20 0.1235034922348331
+i=22 j=21 0.24375319791353
+i=22 j=22 0.6414812120271223
+i=22 j=23 0.2507430734425807
+i=22 j=24 0.1251581672498348
+i=22 j=25 0.07084941524405912
+i=22 j=26 0.07322120905729085
+i=22 j=27 0.04799275108797701
+i=22 j=28 0.04378664165316531
+i=22 j=29 0.04225754543956226
+i=22 j=30 0.02853521348558931
+i=22 j=31 0.03462258698876664
+i=22 j=32 0.02450021384248137
+i=22 j=33 0.02374289061013407
+i=22 j=34 0.02458196684654286
+i=22 j=35 0.0151963750257777
+i=22 j=36 0.02136338956371964
+i=22 j=37 0.01195709744591645
+i=22 j=38 0.01247438648707244
+i=22 j=39 0.0115458372873559
+i=23 j=0 0.007251038874445863
+i=23 j=1 0.007599380491941522
+i=23 j=2 0.007492767149874794
+i=23 j=3 0.01297219332032326
+i=23 j=4 0.009121843583894377
+i=23 j=5 0.01493986067548461
+i=23 j=6 0.01344898412163557
+i=23 j=7 0.01453837416781824
+i=23 j=8 0.01885527717500376
+i=23 j=9 0.01532540195802019
+i=23 j=10 0.02224435265605933
+i=23 j=11 0.01994142048113067
+i=23 j=12 0.02311755172792244
+i=23 j=13 0.02772816507376865
+i=23 j=14 0.02499110543106895
+i=23 j=15 0.03559987404722197
+i=23 j=16 0.03278004654712778
+i=23 j=17 0.04262237380382652
+i=23 j=18 0.05015315622341803
+i=23 j=19 0.05541982491943755
+i=23 j=20 0.08538377041340776
+i=23 j=21 0.09844543478610311
+i=23 j=22 0.2507430734425807
+i=23 j=23 0.5047077638596656
+i=23 j=24 0.298705462343781
+i=23 j=25 0.1058270213162177
+i=23 j=26 0.0942196348626803
+i=23 j=27 0.06833966294114306
+i=23 j=28 0.04984359104324325
+i=23 j=29 0.05371762327102516
+i=23 j=30 0.03361712269470773
+i=23 j=31 0.03999799832299902
+i=23 j=32 0.0297647935059968
+i=23 j=33 0.02634241044432204
+i=23 j=34 0.02897643278084301
+i=23 j=35 0.01718663198606353
+i=23 j=36 0.02417676782612254
+i=23 j=37 0.01387400977340579
+i=23 j=38 0.01386644630652034
+i=23 j=39 0.01324478330390904
+i=24 j=0 0.008147377475552076
+i=24 j=1 0.008657417105288974
+i=24 j=2 0.008373071617165485
+i=24 j=3 0.01469446010253454
+i=24 j=4 0.0102874959410723
+i=24 j=5 0.01665470212204407
+i=24 j=6 0.01533438150907439
+i=24 j=7 0.0159594152471457
+i=24 j=8 0.02133060260224028
+i=24 j=9 0.01693140565975404
+i=24 j=10 0.02449110837972414
+i=24 j=11 0.0224836982651245
+i=24 j=12 0.02458054655721399
+i=24 j=13 0.03111748056256044
+i=24 j=14 0.02632107902760785
+i=24 j=15 0.03809147719285938
+i=24 j=16 0.03557600674603623
+i=24 j=17 0.0416352774020525
+i=24 j=18 0.05449731709563609
+i=24 j=19 0.04907364872570745
+i=24 j=20 0.08117217114519505
+i=24 j=21 0.08388756505266338
+i=24 j=22 0.1251581672498348
+i=24 j=23 0.298705462343781
+i=24 j=24 0.6005389763835483
+i=24 j=25 0.2114061388051313
+i=24 j=26 0.1108244577517613
+i=24 j=27 0.06859986337404017
+i=24 j=28 0.05618835911174023
+i=24 j=29 0.04921200803680988
+i=24 j=30 0.03373322145592563
+i=24 j=31 0.03759246189973933
+i=24 j=32 0.02699507777976262
+i=24 j=33 0.02517593790633409
+i=24 j=34 0.02583538459177427
+i=24 j=35 0.01593185117476563
+i=24 j=36 0.02195006834068804
+i=24 j=37 0.01237684112692546
+i=24 j=38 0.01271783356145418
+i=24 j=39 0.01182558172355643
+i=25 j=0 0.005959558788972402
+i=25 j=1 0.006313768829141422
+i=25 j=2 0.006130026592863408
+i=25 j=3 0.010706370965945
+i=25 j=4 0.007519205294485499
+i=25 j=5 0.01214356083222758
+i=25 j=6 0.01113742021424301
+i=25 j=7 0.01167340755181231
+i=25 j=8 0.01537410476155245
+i=25 j=9 0.01237662175637304
+i=25 j=10 0.01759907096856463
+i=25 j=11 0.01617008979701615
+i=25 j=12 0.01778613719067906
+i=25 j=13 0.02183041345164571
+i=25 j=14 0.01912776427352101
+i=25 j=15 0.02632816402540903
+i=25 j=16 0.02497390278836512
+i=25 j=17 0.02908372795082553
+i=25 j=18 0.0354938834488139
+i=25 j=19 0.03493465333243959
+i=25 j=20 0.04863998353014746
+i=25 j=21 0.05379072042087524
+i=25 j=22 0.07084941524405912
+i=25 j=23 0.1058270213162177
+i=25 j=24 0.2114061388051313
+i=25 j=25 0.5808869749965735
+i=25 j=26 0.3088185988931432
+i=25 j=27 0.1222817632723546
+i=25 j=28 0.08708212121678073
+i=25 j=29 0.08188204771260352
+i=25 j=30 0.04755543909537066
+i=25 j=31 0.05701256818318795
+i=25 j=32 0.03898541584251202
+i=25 j=33 0.03564000405763417
+i=25 j=34 0.03732633847171275
+i=25 j=35 0.02211684348037099
+i=25 j=36 0.03103087549562461
+i=25 j=37 0.01735458375806903
+i=25 j=38 0.01768291521573036
+i=25 j=39 0.01654088287781689
+i=26 j=0 0.007157349967857502
+i=26 j=1 0.007531657061438072
+i=26 j=2 0.007364274638200674
+i=26 j=3 0.01280217078727232
+i=26 j=4 0.008949252427387816
+i=26 j=5 0.01458692129236862
+i=26 j=6 0.01316735021437264
+i=26 j=7 0.01397468498155993
+i=26 j=8 0.01826639179244639
+i=26 j=9 0.01454168625559706
+i=26 j=10 0.02104775559591278
+i=26 j=11 0.01876654781856635
+i=26 j=12 0.02106542754801033
+i=26 j=13 0.02556547563025767
+i=26 j=14 0.02183994988832111
+i=26 j=15 0.03113839627264206
+i=26 j=16 0.02772336065687147
+i=26 j=17 0.0335437357256683
+i=26 j=18 0.03990508205091322
+i=26 j=19 0.03668599163148512
+i=26 j=20 0.05552748006023747
+i=26 j=21 0.05037440487651507
+i=26 j=22 0.07322120905729085
+i=26 j=23 0.0942196348626803
+i=26 j=24 0.1108244577517613
+i=26 j=25 0.3088185988931432
+i=26 j=26 0.5146001634590491
+i=26 j=27 0.2351159223774933
+i=26 j=28 0.09748100329556675
+i=26 j=29 0.08242112925307285
+i=26 j=30 0.05079250744115375
+i=26 j=31 0.05063775802533101
+i=26 j=32 0.03781859261897513
+i=26 j=33 0.0314152861660846
+i=26 j=34 0.03349935507790385
+i=26 j=35 0.01979780355919
+i=26 j=36 0.02686342206965368
+i=26 j=37 0.01545631221644679
+i=26 j=38 0.01519014289954094
+i=26 j=39 0.01449430976922714
+i=27 j=0 0.005908069445436125
+i=27 j=1 0.006298470676106641
+i=27 j=2 0.006055915974273321
+i=27 j=3 0.01064225729910909
+i=27 j=4 0.007447647434530379
+i=27 j=5 0.01195571387220994
+i=27 j=6 0.0110619904012712
+i=27 j=7 0.0113667656337656
+i=27 j=8 0.01516380020717839
+i=27 j=9 0.01202448034708822
+i=27 j=10 0.01704855748159911
+i=27 j=11 0.01575336369808632
+i=27 j=12 0.01681155638347299
+i=27 j=13 0.02104845261385281
+i=27 j=14 0.01777662710379446
+i=27 j=15 0.02457545105590728
+i=27 j=16 0.02309157348450966
+i=27 j=17 0.02562634791349563
+i=27 j=18 0.03211616133068021
+i=27 j=19 0.02863764693238497
+i=27 j=20 0.0407395293530177
+i=27 j=21 0.04084771365917394
+i=27 j=22 0.04799275108797701
+i=27 j=23 0.06833966294114306
+i=27 j=24 0.06859986337404017
+i=27 j=25 0.1222817632723546
+i=27 j=26 0.2351159223774933
+i=27 j=27 0.6469205765616719
+i=27 j=28 0.2574293646871907
+i=27 j=29 0.1277169474004796
+i=27 j=30 0.07035843564925616
+i=27 j=31 0.07632550186339329
+i=27 j=32 0.0467284673295983
+i=27 j=33 0.04433286406242103
+i=27 j=34 0.04245165938976629
+i=27 j=35 0.02558980245005943
+i=27 j=36 0.0350544395187926
+i=27 j=37 0.01908258728528349
+i=27 j=38 0.019864032196669
+i=27 j=39 0.01807166778439207
+i=28 j=0 0.005486885296507593
+i=28 j=1 0.0057584581162628
+i=28 j=2 0.00564492727839463
+i=28 j=3 0.009780081420474837
+i=28 j=4 0.006837151996193879
+i=28 j=5 0.01113912516203372
+i=28 j=6 0.01000111741774128
+i=28 j=7 0.01065683782494555
+i=28 j=8 0.0137946640217417
+i=28 j=9 0.01101891538136518
+i=28 j=10 0.01582078335645302
+i=28 j=11 0.01402032553266248
+i=28 j=12 0.01576932588310992
+i=28 j=13 0.0187694372644648
+i=28 j=14 0.01617923761151841
+i=28 j=15 0.02250245387090645
+i=28 j=16 0.01994283306198944
+i=28 j=17 0.02391709188551746
+i=28 j=18 0.02738122362963715
+i=28 j=19 0.02555715237955398
+i=28 j=20 0.03591873559872841
+i=28 j=21 0.03251705313258492
+i=28 j=22 0.04378664165316531
+i=28 j=23 0.04984359104324325
+i=28 j=24 0.05618835911174023
+i=28 j=25 0.08708212121678073
+i=28 j=26 0.09748100329556675
+i=28 j=27 0.2574293646871907
+i=28 j=28 0.4920598901756998
+i=28 j=29 0.2973858535839917
+i=28 j=30 0.1019394438780719
+i=28 j=31 0.09585151402633042
+i=28 j=32 0.06477632073262626
+i=28 j=33 0.04906710685092944
+i=28 j=34 0.05260046369669316
+i=28 j=35 0.02918836517657841
+i=28 j=36 0.0396842718794279
+i=28 j=37 0.02253614015623141
+i=28 j=38 0.02169967315672685
+i=28 j=39 0.02081230736152853
+i=29 j=0 0.006118397598583297
+i=29 j=1 0.006492932391735005
+i=29 j=2 0.006271204091964229
+i=29 j=3 0.01097826877472378
+i=29 j=4 0.007662884904491977
+i=29 j=5 0.01235506884973118
+i=29 j=6 0.01131119297445631
+i=29 j=7 0.01171185669805899
+i=29 j=8 0.01549658428898103
+i=29 j=9 0.01222786140328471
+i=29 j=10 0.017430139026947
+i=29 j=11 0.01581104483277043
+i=29 j=12 0.0170539040403652
+i=29 j=13 0.02103834209682469
+i=29 j=14 0.01759642215321946
+i=29 j=15 0.024491583900077
+i=29 j=16 0.0222269605014319
+i=29 j=17 0.0250788525320727
+i=29 j=18 0.03044345492235912
+i=29 j=19 0.0265349789553858
+i=29 j=20 0.03801022348260222
+i=29 j=21 0.03493074697872695
+i=29 j=22 0.04225754543956226
+i=29 j=23 0.05371762327102516
+i=29 j=24 0.04921200803680988
+i=29 j=25 0.08188204771260352
+i=29 j=26 0.08242112925307285
+i=29 j=27 0.1277169474004796
+i=29 j=28 0.2973858535839917
+i=29 j=29 0.6152388096030604
+i=29 j=30 0.2052077106923584
+i=29 j=31 0.1136580682029466
+i=29 j=32 0.06508105420454124
+i=29 j=33 0.0559841581374629
+i=29 j=34 0.04885098328532417
+i=29 j=35 0.02968774162757467
+i=29 j=36 0.03807706366806227
+i=29 j=37 0.02080884572450413
+i=29 j=38 0.02118587644264793
+i=29 j=39 0.01919149691005295
+i=30 j=0 0.004316283813597178
+i=30 j=1 0.004560757325761867
+i=30 j=2 0.004429356609445854
+i=30 j=3 0.007717798462909035
+i=30 j=4 0.005393004511337124
+i=30 j=5 0.008714928979940603
+i=30 j=6 0.007919349492262367
+i=30 j=7 0.008284955009857292
+i=30 j=8 0.01083703557950372
+i=30 j=9 0.008612633557032017
+i=30 j=10 0.01223146594703445
+i=30 j=11 0.01101272525028146
+i=30 j=12 0.01203310802247261
+i=30 j=13 0.01453757915625817
+i=30 j=14 0.01237802780620208
+i=30 j=15 0.01693623149369716
+i=30 j=16 0.01531953627602542
+i=30 j=17 0.01750536462120644
+i=30 j=18 0.0204864671767201
+i=30 j=19 0.01855020303832186
+i=30 j=20 0.02532865437226266
+i=30 j=21 0.02350078935674872
+i=30 j=22 0.02853521348558931
+i=30 j=23 0.03361712269470773
+i=30 j=24 0.03373322145592563
+i=30 j=25 0.04755543909537066
+i=30 j=26 0.05079250744115375
+i=30 j=27 0.07035843564925616
+i=30 j=28 0.1019394438780719
+i=30 j=29 0.2052077106923584
+i=30 j=30 0.5711320045184219
+i=30 j=31 0.3211769549813101
+i=30 j=32 0.1207837025740546
+i=30 j=33 0.08937039668754962
+i=30 j=34 0.08343372757751662
+i=30 j=35 0.04381895903629374
+i=30 j=36 0.05916930622078696
+i=30 j=37 0.03162129146087661
+i=30 j=38 0.03119685460919047
+i=30 j=39 0.02882293293128101
+i=31 j=0 0.005489584972172746
+i=31 j=1 0.005785786669729748
+i=31 j=2 0.005633134556653077
+i=31 j=3 0.00979837266382259
+i=31 j=4 0.006832694869546849
+i=31 j=5 0.01107970247844778
+i=31 j=6 0.01000554597350334
+i=31 j=7 0.0105126770328719
+i=31 j=8 0.01371279791270169
+i=31 j=9 0.01084209801849946
+i=31 j=10 0.01550469162834595
+i=31 j=11 0.0137931297834478
+i=31 j=12 0.01517701939910275
+i=31 j=13 0.01826596547720613
+i=31 j=14 0.01537995765712757
+i=31 j=15 0.0213402485338267
+i=31 j=16 0.01885274005669339
+i=31 j=17 0.0218239985997891
+i=31 j=18 0.02536851117147824
+i=31 j=19 0.02242269375489632
+i=31 j=20 0.0315212488690966
+i=31 j=21 0.02772086679912177
+i=31 j=22 0.03462258698876664
+i=31 j=23 0.03999799832299902
+i=31 j=24 0.03759246189973933
+i=31 j=25 0.05701256818318795
+i=31 j=26 0.05063775802533101
+i=31 j=27 0.07632550186339329
+i=31 j=28 0.09585151402633042
+i=31 j=29 0.1136580682029466
+i=31 j=30 0.3211769549813101
+i=31 j=31 0.5129318695426683
+i=31 j=32 0.2207587201293319
+i=31 j=33 0.0947553985224467
+i=31 j=34 0.08035802491567075
+i=31 j=35 0.04377908657866226
+i=31 j=36 0.05093507875729804
+i=31 j=37 0.02888267378139951
+i=31 j=38 0.02654582449777354
+i=31 j=39 0.02509119980821477
+i=32 j=0 0.004181012515014892
+i=32 j=1 0.004442101595893611
+i=32 j=2 0.004280820423538759
+i=32 j=3 0.007497453789667105
+i=32 j=4 0.005231342305487963
+i=32 j=5 0.008408125853247224
+i=32 j=6 0.007709811034766344
+i=32 j=7 0.007943074113599234
+i=32 j=8 0.01050128920599369
+i=32 j=9 0.008278795142845614
+i=32 j=10 0.011710742558948
+i=32 j=11 0.01064495977761505
+i=32 j=12 0.01137099547011348
+i=32 j=13 0.01396673227420515
+i=32 j=14 0.01167035003845532
+i=32 j=15 0.01595953256117866
+i=32 j=16 0.01452793821518962
+i=32 j=17 0.01607498337876644
+i=32 j=18 0.01926195612675656
+i=32 j=19 0.01676155764062092
+i=32 j=20 0.02303934176048041
+i=32 j=21 0.02120824804380137
+i=32 j=22 0.02450021384248137
+i=32 j=23 0.0297647935059968
+i=32 j=24 0.02699507777976262
+i=32 j=25 0.03898541584251202
+i=32 j=26 0.03781859261897513
+i=32 j=27 0.0467284673295983
+i=32 j=28 0.06477632073262626
+i=32 j=29 0.06508105420454124
+i=32 j=30 0.1207837025740546
+i=32 j=31 0.2207587201293319
+i=32 j=32 0.6625739789231918
+i=32 j=33 0.2663118925623924
+i=32 j=34 0.1325735045818889
+i=32 j=35 0.06666404780565499
+i=32 j=36 0.08163211377385399
+i=32 j=37 0.03965629460529876
+i=32 j=38 0.0406912863079785
+i=32 j=39 0.03504841362997058
+i=33 j=0 0.004038867303981519
+i=33 j=1 0.004245137318129288
+i=33 j=2 0.004145991912000409
+i=33 j=3 0.007191466663196634
+i=33 j=4 0.005013952659159763
+i=33 j=5 0.008143414740914789
+i=33 j=6 0.0073141581798943
+i=33 j=7 0.007727626301200603
+i=33 j=8 0.01001137720125954
+i=33 j=9 0.007929922593533836
+i=33 j=10 0.01132575964299753
+i=33 j=11 0.01000430006077935
+i=33 j=12 0.01108119208348286
+i=33 j=13 0.01317118734833727
+i=33 j=14 0.01114870000305964
+i=33 j=15 0.015346275855163
+i=33 j=16 0.01345289487763201
+i=33 j=17 0.0156546917975498
+i=33 j=18 0.01780952218269182
+i=33 j=19 0.01590758173750259
+i=33 j=20 0.02185544872855965
+i=33 j=21 0.01908122837239435
+i=33 j=22 0.02374289061013407
+i=33 j=23 0.02634241044432204
+i=33 j=24 0.02517593790633409
+i=33 j=25 0.03564000405763417
+i=33 j=26 0.0314152861660846
+i=33 j=27 0.04433286406242103
+i=33 j=28 0.04906710685092944
+i=33 j=29 0.0559841581374629
+i=33 j=30 0.08937039668754962
+i=33 j=31 0.0947553985224467
+i=33 j=32 0.2663118925623924
+i=33 j=33 0.4647577705110592
+i=33 j=34 0.29927155047063
+i=33 j=35 0.09309785413431741
+i=33 j=36 0.1005050139779813
+i=33 j=37 0.05334757180021454
+i=33 j=38 0.04442979115917505
+i=33 j=39 0.04263591527974859
+i=34 j=0 0.004435060295918261
+i=34 j=1 0.004700119595915349
+i=34 j=2 0.004541494939633915
+i=34 j=3 0.00793684771668878
+i=34 j=4 0.005531595238871602
+i=34 j=5 0.008912357855271202
+i=34 j=6 0.008126358141277856
+i=34 j=7 0.008410988526304878
+i=34 j=8 0.01106917336694587
+i=34 j=9 0.008710474271599107
+i=34 j=10 0.01235590952115323
+i=34 j=11 0.0111276044792657
+i=34 j=12 0.01196254373442308
+i=34 j=13 0.01457953513796569
+i=34 j=14 0.01214215797612336
+i=34 j=15 0.01665703111233472
+i=34 j=16 0.01493105924914034
+i=34 j=17 0.01666733170762232
+i=34 j=18 0.01969773847061656
+i=34 j=19 0.01702527301923439
+i=34 j=20 0.02347948409204427
+i=34 j=21 0.02098869408259643
+i=34 j=22 0.02458196684654286
+i=34 j=23 0.02897643278084301
+i=34 j=24 0.02583538459177427
+i=34 j=25 0.03732633847171275
+i=34 j=26 0.03349935507790385
+i=34 j=27 0.04245165938976629
+i=34 j=28 0.05260046369669316
+i=34 j=29 0.04885098328532417
+i=34 j=30 0.08343372757751662
+i=34 j=31 0.08035802491567075
+i=34 j=32 0.1325735045818889
+i=34 j=33 0.29927155047063
+i=34 j=34 0.6434832387137936
+i=34 j=35 0.1870584017284292
+i=34 j=36 0.1194127324192193
+i=34 j=37 0.05327360822804897
+i=34 j=38 0.05146773534406354
+i=34 j=39 0.04130158386562843
+i=35 j=0 0.002754419186809015
+i=35 j=1 0.002905829035295727
+i=35 j=2 0.002823896104254023
+i=35 j=3 0.004913968046673183
+i=35 j=4 0.003425371981051905
+i=35 j=5 0.0055404816874253
+i=35 j=6 0.005009591800876114
+i=35 j=7 0.00524162994070788
+i=35 j=8 0.006833244166146496
+i=35 j=9 0.005397432455274933
+i=35 j=10 0.007671608427786098
+i=35 j=11 0.006835754925056064
+i=35 j=12 0.007460425624271024
+i=35 j=13 0.00894976362604241
+i=35 j=14 0.0075254182376307
+i=35 j=15 0.01029484386965827
+i=35 j=16 0.009122122408265201
+i=35 j=17 0.01037805206551684
+i=35 j=18 0.01196070158744595
+i=35 j=19 0.01054091008494745
+i=35 j=20 0.01434439100400882
+i=35 j=21 0.01269328951569201
+i=35 j=22 0.0151963750257777
+i=35 j=23 0.01718663198606353
+i=35 j=24 0.01593185117476563
+i=35 j=25 0.02211684348037099
+i=35 j=26 0.01979780355919
+i=35 j=27 0.02558980245005943
+i=35 j=28 0.02918836517657841
+i=35 j=29 0.02968774162757467
+i=35 j=30 0.04381895903629374
+i=35 j=31 0.04377908657866226
+i=35 j=32 0.06666404780565499
+i=35 j=33 0.09309785413431741
+i=35 j=34 0.1870584017284292
+i=35 j=35 0.556650562665312
+i=35 j=36 0.3539280535828803
+i=35 j=37 0.1123885864017876
+i=35 j=38 0.09061987098678519
+i=35 j=39 0.07717613940237826
+i=36 j=0 0.003954006907503295
+i=36 j=1 0.004171847932272491
+i=36 j=2 0.00405260233967361
+i=36 j=3 0.007053886782029928
+i=36 j=4 0.004913961511341989
+i=36 j=5 0.007949092246251857
+i=36 j=6 0.007185594185155407
+i=36 j=7 0.007511527437008017
+i=36 j=8 0.009799356050488161
+i=36 j=9 0.00772398201793277
+i=36 j=10 0.01099027419718258
+i=36 j=11 0.009778571720850273
+i=36 j=12 0.01065968418256915
+i=36 j=13 0.01280336123687576
+i=36 j=14 0.01071498696928483
+i=36 j=15 0.01470476604954995
+i=36 j=16 0.01297288565857532
+i=36 j=17 0.01474747177597461
+i=36 j=18 0.01702245450399811
+i=36 j=19 0.01485784622656791
+i=36 j=20 0.02037277505402312
+i=36 j=21 0.01781947775479073
+i=36 j=22 0.02136338956371964
+i=36 j=23 0.02417676782612254
+i=36 j=24 0.02195006834068804
+i=36 j=25 0.03103087549562461
+i=36 j=26 0.02686342206965368
+i=36 j=27 0.0350544395187926
+i=36 j=28 0.0396842718794279
+i=36 j=29 0.03807706366806227
+i=36 j=30 0.05916930622078696
+i=36 j=31 0.05093507875729804
+i=36 j=32 0.08163211377385399
+i=36 j=33 0.1005050139779813
+i=36 j=34 0.1194127324192193
+i=36 j=35 0.3539280535828803
+i=36 j=36 0.4963723813455778
+i=36 j=37 0.1793896785407211
+i=36 j=38 0.08543720194898967
+i=36 j=39 0.06941361854943001
+i=37 j=0 0.002262703116505612
+i=37 j=1 0.002396586205655567
+i=37 j=2 0.002316711697865311
+i=37 j=3 0.004046165646135507
+i=37 j=4 0.002819217893741134
+i=37 j=5 0.004542360172146804
+i=37 j=6 0.004136219771340065
+i=37 j=7 0.004283533882982782
+i=37 j=8 0.005627076794356395
+i=37 j=9 0.004427139153607182
+i=37 j=10 0.006272606551587472
+i=37 j=11 0.005637654453996783
+i=37 j=12 0.006061158552852593
+i=37 j=13 0.007359541435883053
+i=37 j=14 0.006129666208528787
+i=37 j=15 0.008374976736213588
+i=37 j=16 0.007487429099487969
+i=37 j=17 0.008342922828629038
+i=37 j=18 0.009787679447262283
+i=37 j=19 0.008463432402646427
+i=37 j=20 0.01154625048351402
+i=37 j=21 0.01028550750270521
+i=37 j=22 0.01195709744591645
+i=37 j=23 0.01387400977340579
+i=37 j=24 0.01237684112692546
+i=37 j=25 0.01735458375806903
+i=37 j=26 0.01545631221644679
+i=37 j=27 0.01908258728528349
+i=37 j=28 0.02253614015623141
+i=37 j=29 0.02080884572450413
+i=37 j=30 0.03162129146087661
+i=37 j=31 0.02888267378139951
+i=37 j=32 0.03965629460529876
+i=37 j=33 0.05334757180021454
+i=37 j=34 0.05327360822804897
+i=37 j=35 0.1123885864017876
+i=37 j=36 0.1793896785407211
+i=37 j=37 0.7209448094959174
+i=37 j=38 0.2886044564473549
+i=37 j=39 0.1392174186697308
+i=38 j=0 0.002343878484731514
+i=38 j=1 0.002468621128116963
+i=38 j=2 0.002403202253878382
+i=38 j=3 0.004175989828575505
+i=38 j=4 0.00290878758773606
+i=38 j=5 0.004712429678331875
+i=38 j=6 0.004245129440231154
+i=38 j=7 0.004455402661682649
+i=38 j=8 0.005790787804283863
+i=38 j=9 0.00456866348849995
+i=38 j=10 0.006505584656208289
+i=38 j=11 0.005761227926716626
+i=38 j=12 0.006314683498040967
+i=38 j=13 0.007536352546129483
+i=38 j=14 0.006323830529683839
+i=38 j=15 0.00866872610174069
+i=38 j=16 0.007603783523394055
+i=38 j=17 0.008701466256405601
+i=38 j=18 0.009939184998925118
+i=38 j=19 0.008722301425836397
+i=38 j=20 0.01189475213393506
+i=38 j=21 0.01033388925475964
+i=38 j=22 0.01247438648707244
+i=38 j=23 0.01386644630652034
+i=38 j=24 0.01271783356145418
+i=38 j=25 0.01768291521573036
+i=38 j=26 0.01519014289954094
+i=38 j=27 0.019864032196669
+i=38 j=28 0.02169967315672685
+i=38 j=29 0.02118587644264793
+i=38 j=30 0.03119685460919047
+i=38 j=31 0.02654582449777354
+i=38 j=32 0.0406912863079785
+i=38 j=33 0.04442979115917505
+i=38 j=34 0.05146773534406354
+i=38 j=35 0.09061987098678519
+i=38 j=36 0.08543720194898967
+i=38 j=37 0.2886044564473549
+i=38 j=38 0.3490647195427812
+i=38 j=39 0.305738715040582
+i=39 j=0 0.002210631180459595
+i=39 j=1 0.002338509907961324
+i=39 j=2 0.002263863527945118
+i=39 j=3 0.003949471918224638
+i=39 j=4 0.002751121704062556
+i=39 j=5 0.004437889789335541
+i=39 j=6 0.004030809041845083
+i=39 j=7 0.004185551825080765
+i=39 j=8 0.005485332301369019
+i=39 j=9 0.004315765044545341
+i=39 j=10 0.006121654849902576
+i=39 j=11 0.00548114376858409
+i=39 j=12 0.005915157162827023
+i=39 j=13 0.007153961812735905
+i=39 j=14 0.005960879751401125
+i=39 j=15 0.008150768681789147
+i=39 j=16 0.007247095184155718
+i=39 j=17 0.008116139905628476
+i=39 j=18 0.009460349632150257
+i=39 j=19 0.00818680826651396
+i=39 j=20 0.01116808239125527
+i=39 j=21 0.009863637959628494
+i=39 j=22 0.0115458372873559
+i=39 j=23 0.01324478330390904
+i=39 j=24 0.01182558172355643
+i=39 j=25 0.01654088287781689
+i=39 j=26 0.01449430976922714
+i=39 j=27 0.01807166778439207
+i=39 j=28 0.02081230736152853
+i=39 j=29 0.01919149691005295
+i=39 j=30 0.02882293293128101
+i=39 j=31 0.02509119980821477
+i=39 j=32 0.03504841362997058
+i=39 j=33 0.04263591527974859
+i=39 j=34 0.04130158386562843
+i=39 j=35 0.07717613940237826
+i=39 j=36 0.06941361854943001
+i=39 j=37 0.1392174186697308
+i=39 j=38 0.305738715040582
+i=39 j=39 0.8008245201298099
